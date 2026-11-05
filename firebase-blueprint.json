@@ -1,0 +1,60 @@
+{
+  "entities": {
+    "StudentProfile": {
+      "title": "Student Profile",
+      "description": "User profile information",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "phoneNumber": { "type": "string" },
+        "state": { "type": "string" },
+        "lga": { "type": "string" },
+        "schoolName": { "type": "string" },
+        "grade": { "type": "string", "enum": ["SS1", "SS2", "SS3"] },
+        "targetExam": { "type": "string", "enum": ["WAEC", "JAMB", "NECO", "ALL"] },
+        "registeredAt": { "type": "string", "format": "date-time" },
+        "avatarUrl": { "type": "string" },
+        "parentName": { "type": "string" },
+        "parentPhone": { "type": "string" },
+        "parentAddress": { "type": "string" },
+        "targetUniversity": { "type": "string" },
+        "proposedCourse": { "type": "string" },
+        "targetJambScore": { "type": "number" },
+        "xp": { "type": "number" },
+        "streakDays": { "type": "number" },
+        "lastActiveDate": { "type": "string" },
+        "unlockedBadgeIds": { "type": "array", "items": { "type": "string" } },
+        "level": { "type": "number" },
+        "isPremium": { "type": "boolean" },
+        "trialStartDate": { "type": "string" },
+        "isActivated": { "type": "boolean" },
+        "activationCodeHash": { "type": "string" }
+      },
+      "required": ["id", "name", "email", "phoneNumber"]
+    },
+    "QuizAttempt": {
+      "title": "Quiz Attempt",
+      "description": "Historical quiz attempt data",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "score": { "type": "number" },
+        "date": { "type": "string", "format": "date-time" }
+      },
+      "required": ["id", "userId", "score", "date"]
+    }
+  },
+  "firestore": {
+    "/studentProfile/{userId}": {
+      "schema": { "$ref": "#/entities/StudentProfile" },
+      "description": "User profile collection"
+    },
+    "/quizAttempts/{attemptId}": {
+      "schema": { "$ref": "#/entities/QuizAttempt" },
+      "description": "Quiz attempts collection"
+    }
+  }
+}

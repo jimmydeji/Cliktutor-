@@ -1,0 +1,8 @@
+{
+  "name": "ClikTutor - Nigerian Secondary Science Prep",
+  "description": "Comprehensive mobile study app for Nigerian SS1, SS2, and SS3 science students with WAEC, JAMB, and NECO MCQs across 3 terms, offline access, personalized analytics, leaderboards, and Gemini AI academic tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

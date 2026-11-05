@@ -1,0 +1,1404 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "Work is said to be done when a force causes a body to",
+      "options": ["Move", "Stay at rest", "Rotate about a fixed point", "Vibrate about a mean position"],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The unit of work is the",
+      "options": ["Newton", "Joule", "Watt", "Pascal"],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The energy possessed by a body due to its position is called",
+      "options": ["Kinetic energy", "Potential energy", "Chemical energy", "Heat energy"],
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The energy possessed by a body due to its motion is called",
+      "options": ["Potential energy", "Kinetic energy", "Elastic potential energy", "Nuclear energy"],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The rate of doing work is called",
+      "options": ["Energy", "Force", "Power", "Momentum"],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The unit of power is the",
+      "options": ["Joule", "Newton", "Watt", "Pascal"],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A force of 10 N moves a body through a distance of 2 m in the direction of the force. The work done is",
+      "options": ["5 J", "10 J", "20 J", "40 J"],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The kinetic energy of a body of mass 2 kg moving at 3 m/s is",
+      "options": ["3 J", "6 J", "9 J", "18 J"],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The potential energy of a body of mass 5 kg at a height of 4 m is (g = 10 m/s²)",
+      "options": ["20 J", "50 J", "100 J", "200 J"],
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The law of conservation of energy states that energy can neither be created nor",
+      "options": ["Transformed", "Destroyed", "Stored", "Transferred"],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A machine does 500 J of work in 5 s. Its power output is",
+      "options": ["50 W", "100 W", "250 W", "2500 W"],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The work done in lifting a body of mass 10 kg to a height of 2 m is (g = 10 m/s²)",
+      "options": ["20 J", "50 J", "100 J", "200 J"],
+      "answer": "D"
+    },
+    {
+      "id": 13,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A body of mass 4 kg moving at 5 m/s has a kinetic energy of",
+      "options": ["10 J", "20 J", "50 J", "100 J"],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A crane lifts a load of 2000 N through a height of 10 m in 20 s. The power developed is",
+      "options": ["100 W", "200 W", "1000 W", "2000 W"],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "One kilowatt-hour (kWh) is a unit of",
+      "options": ["Power", "Energy", "Force", "Momentum"],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The principle of conservation of mechanical energy applies when",
+      "options": ["Friction is present", "Only conservative forces act", "Non-conservative forces act", "The body is at rest"],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A body of mass 2 kg is raised to a height of 5 m. Its potential energy is (g = 9.8 m/s²)",
+      "options": ["19.6 J", "49.0 J", "98.0 J", "196.0 J"],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The energy stored in a stretched spring is an example of",
+      "options": ["Kinetic energy", "Elastic potential energy", "Gravitational potential energy", "Chemical energy"],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A force of 20 N acting at an angle of 60° to the horizontal moves a body through 5 m horizontally. The work done is",
+      "options": ["50 J", "86.6 J", "100 J", "173.2 J"],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The power of a machine that does 3000 J of work in 1 minute is",
+      "options": ["50 W", "300 W", "3000 W", "180000 W"],
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A ball of mass 0.5 kg is thrown vertically upwards with a velocity of 10 m/s. The maximum height reached is (g = 10 m/s²)",
+      "options": ["2.5 m", "5.0 m", "10.0 m", "20.0 m"],
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "Which of the following is a non-renewable source of energy?",
+      "options": ["Solar energy", "Wind energy", "Coal", "Tidal energy"],
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The efficiency of a machine is usually expressed as a",
+      "options": ["Ratio of output to input", "Percentage", "Decimal", "Fraction"],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A body of mass 10 kg is lifted through a height of 3 m. The work done against gravity is (g = 10 m/s²)",
+      "options": ["30 J", "100 J", "300 J", "3000 J"],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The kinetic energy of a body is directly proportional to the",
+      "options": ["Mass of the body", "Square of its velocity", "Velocity of the body", "Square root of its velocity"],
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A pump raises 50 kg of water through a height of 10 m in 5 s. The power of the pump is (g = 10 m/s²)",
+      "options": ["100 W", "500 W", "1000 W", "5000 W"],
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "Which of the following statements about energy is correct?",
+      "options": ["Energy can be created", "Energy can be destroyed", "Energy can be transformed from one form to another", "Energy is always lost"],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A force of 50 N is applied to move a box through a distance of 4 m. If the force is applied at an angle of 30° to the horizontal, the work done is",
+      "options": ["100 J", "173.2 J", "200 J", "400 J"],
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The energy of a body falling freely under gravity is converted from",
+      "options": ["Kinetic to potential", "Potential to kinetic", "Chemical to kinetic", "Heat to potential"],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A machine has an efficiency of 80%. If the work input is 500 J, the work output is",
+      "options": ["100 J", "400 J", "500 J", "625 J"],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The watt is equivalent to",
+      "options": ["Joule per second", "Newton per second", "Joule per metre", "Newton per metre"],
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A body of mass 8 kg moving at 2 m/s has a momentum of",
+      "options": ["4 kg·m/s", "10 kg·m/s", "16 kg·m/s", "32 kg·m/s"],
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "Which of the following is a conservative force?",
+      "options": ["Friction", "Air resistance", "Gravity", "Tension in a string"],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The work done by a force of 10 N moving a body through 5 m in the direction of the force is",
+      "options": ["2 J", "5 J", "15 J", "50 J"],
+      "answer": "D"
+    },
+    {
+      "id": 35,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A 100 W electric bulb is used for 10 hours. The energy consumed is",
+      "options": ["0.1 kWh", "1.0 kWh", "10 kWh", "100 kWh"],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The potential energy of a body is maximum at its",
+      "options": ["Lowest point", "Highest point", "Midpoint", "Equilibrium position"],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A force of 200 N is applied to a lever. If the load moves 10 cm while the effort moves 50 cm, the velocity ratio is",
+      "options": ["0.2", "5", "10", "50"],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "Which of the following is an example of kinetic energy?",
+      "options": ["A stone at the top of a hill", "A stretched rubber band", "A moving car", "Water in a dam"],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The energy transformation in a falling stone is",
+      "options": ["Chemical to kinetic", "Potential to kinetic", "Kinetic to potential", "Heat to kinetic"],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A machine with a velocity ratio of 6 has an efficiency of 75%. The mechanical advantage is",
+      "options": ["2.5", "4.5", "6.0", "8.0"],
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The principle of moments is applied in",
+      "options": ["A lever", "A pulley", "An inclined plane", "A screw"],
+      "answer": "A"
+    },
+    {
+      "id": 42,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The force that opposes the relative motion between two surfaces in contact is",
+      "options": ["Tension", "Friction", "Gravity", "Normal reaction"],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The efficiency of a machine can be increased by",
+      "options": ["Increasing friction", "Lubricating its moving parts", "Increasing the load", "Decreasing the effort"],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A body of mass 3 kg is moving with a velocity of 4 m/s. Its kinetic energy is",
+      "options": ["12 J", "24 J", "36 J", "48 J"],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The work done in stretching a spring is stored as",
+      "options": ["Kinetic energy", "Elastic potential energy", "Gravitational potential energy", "Thermal energy"],
+      "answer": "B"
+    },
+    {
+      "id": 46,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The mechanical advantage of a machine is the ratio of",
+      "options": ["Load to effort", "Effort to load", "Distance moved by effort to distance moved by load", "Work output to work input"],
+      "answer": "A"
+    },
+    {
+      "id": 47,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "A block of mass 2 kg is pulled along a horizontal surface by a force of 10 N. If the frictional force is 4 N, the net work done over a distance of 5 m is",
+      "options": ["20 J", "30 J", "50 J", "70 J"],
+      "answer": "B"
+    },
+    {
+      "id": 48,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "Which of the following devices converts electrical energy to mechanical energy?",
+      "options": ["Generator", "Electric motor", "Transformer", "Battery"],
+      "answer": "B"
+    },
+    {
+      "id": 49,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The potential energy of a body of mass 2 kg at a height of 10 m is (g = 9.8 m/s²)",
+      "options": ["19.6 J", "98.0 J", "196.0 J", "980.0 J"],
+      "answer": "C"
+    },
+    {
+      "id": 50,
+      "section": "Mechanical Energy (Work, Energy and Power)",
+      "question": "The ratio of useful work output to total work input of a machine is called its",
+      "options": ["Mechanical advantage", "Velocity ratio", "Efficiency", "Power"],
+      "answer": "C"
+    },
+    {
+      "id": 51,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "Temperature is a measure of the",
+      "options": ["Total heat of a body", "Degree of hotness or coldness of a body", "Internal energy of a body", "Work done by a body"],
+      "answer": "B"
+    },
+    {
+      "id": 52,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The SI unit of temperature is the",
+      "options": ["Celsius", "Fahrenheit", "Kelvin", "Joule"],
+      "answer": "C"
+    },
+    {
+      "id": 53,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The instrument used to measure temperature is a",
+      "options": ["Barometer", "Thermometer", "Hygrometer", "Manometer"],
+      "answer": "B"
+    },
+    {
+      "id": 54,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The lower fixed point on the Celsius scale is",
+      "options": ["0 °C", "32 °C", "100 °C", "273 °C"],
+      "answer": "A"
+    },
+    {
+      "id": 55,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The upper fixed point on the Celsius scale is",
+      "options": ["0 °C", "32 °C", "100 °C", "373 °C"],
+      "answer": "C"
+    },
+    {
+      "id": 56,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "Convert 25 °C to Kelvin.",
+      "options": ["248 K", "298 K", "273 K", "373 K"],
+      "answer": "B"
+    },
+    {
+      "id": 57,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "A clinical thermometer is used to measure",
+      "options": ["Body temperature", "Boiling point of water", "Atmospheric temperature", "Temperature of a furnace"],
+      "answer": "A"
+    },
+    {
+      "id": 58,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The thermometric liquid commonly used in a clinical thermometer is",
+      "options": ["Water", "Mercury", "Alcohol", "Kerosene"],
+      "answer": "B"
+    },
+    {
+      "id": 59,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "Which of the following is a quality of a good thermometric liquid?",
+      "options": ["It should be transparent", "It should have a high boiling point", "It should wet glass", "It should have a low freezing point"],
+      "answer": "B"
+    },
+    {
+      "id": 60,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The absolute zero temperature is",
+      "options": ["0 K", "0 °C", "273 K", "-273 °C"],
+      "answer": "A"
+    },
+    {
+      "id": 61,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "Heat is a form of",
+      "options": ["Energy", "Force", "Power", "Momentum"],
+      "answer": "A"
+    },
+    {
+      "id": 62,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The transfer of heat from a hotter body to a colder body continues until",
+      "options": ["Both bodies have the same heat", "Both bodies have the same temperature", "Both bodies have the same mass", "Both bodies have the same volume"],
+      "answer": "B"
+    },
+    {
+      "id": 63,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "A thermometer that uses the expansion of a liquid to measure temperature is called a",
+      "options": ["Resistance thermometer", "Liquid-in-glass thermometer", "Thermocouple", "Pyrometer"],
+      "answer": "B"
+    },
+    {
+      "id": 64,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The fixed points on a thermometer are used to",
+      "options": ["Calibrate the thermometer", "Measure heat capacity", "Determine the mass of the liquid", "Find the volume of the bulb"],
+      "answer": "A"
+    },
+    {
+      "id": 65,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "Convert 300 K to °C.",
+      "options": ["27 °C", "37 °C", "57 °C", "273 °C"],
+      "answer": "A"
+    },
+    {
+      "id": 66,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The fundamental interval of a thermometer is the difference between the",
+      "options": ["Upper and lower fixed points", "Ice point and absolute zero", "Steam point and body temperature", "Lower fixed point and absolute zero"],
+      "answer": "A"
+    },
+    {
+      "id": 67,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "Which of the following thermometers is best suited for measuring very high temperatures?",
+      "options": ["Clinical thermometer", "Liquid-in-glass thermometer", "Optical pyrometer", "Constant-volume gas thermometer"],
+      "answer": "C"
+    },
+    {
+      "id": 68,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The resistance of a platinum wire changes with temperature. This principle is used in a",
+      "options": ["Thermocouple", "Resistance thermometer", "Liquid-in-glass thermometer", "Pyrometer"],
+      "answer": "B"
+    },
+    {
+      "id": 69,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The temperature of a body is 77 °F. This is equivalent to",
+      "options": ["25 °C", "45 °C", "77 °C", "298 °C"],
+      "answer": "A"
+    },
+    {
+      "id": 70,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The thermocouple thermometer works on the principle of",
+      "options": ["Expansion of liquids", "Thermoelectric effect", "Change in resistance", "Black body radiation"],
+      "answer": "B"
+    },
+    {
+      "id": 71,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "Heat capacity is defined as the heat required to raise the temperature of a body by",
+      "options": ["1 K", "1 °C", "1 K or 1 °C", "100 K"],
+      "answer": "C"
+    },
+    {
+      "id": 72,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "The unit of heat capacity is",
+      "options": ["J/kg·K", "J/K", "J/kg", "K/J"],
+      "answer": "B"
+    },
+    {
+      "id": 73,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "Specific heat capacity is defined as the heat required to raise the temperature of",
+      "options": ["A body by 1 K", "1 kg of a substance by 1 K", "1 g of a substance by 1 K", "1 mole of a substance by 1 K"],
+      "answer": "B"
+    },
+    {
+      "id": 74,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "The specific heat capacity of water is approximately",
+      "options": ["4200 J/kg·K", "2100 J/kg·K", "900 J/kg·K", "500 J/kg·K"],
+      "answer": "A"
+    },
+    {
+      "id": 75,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "The heat required to raise the temperature of 2 kg of water by 10 K is (c = 4200 J/kg·K)",
+      "options": ["8400 J", "42000 J", "84000 J", "420000 J"],
+      "answer": "C"
+    },
+    {
+      "id": 76,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "A calorimeter is used to measure",
+      "options": ["Temperature", "Heat changes", "Pressure", "Humidity"],
+      "answer": "B"
+    },
+    {
+      "id": 77,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "The heat capacity of a body of mass 2 kg with specific heat capacity 500 J/kg·K is",
+      "options": ["250 J/K", "500 J/K", "1000 J/K", "2000 J/K"],
+      "answer": "C"
+    },
+    {
+      "id": 78,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "Which of the following substances has the highest specific heat capacity?",
+      "options": ["Copper", "Iron", "Water", "Aluminum"],
+      "answer": "C"
+    },
+    {
+      "id": 79,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "The principle of conservation of heat states that heat lost by a hot body equals heat",
+      "options": ["Gained by a cold body", "Lost by a cold body", "Gained by the surroundings", "Lost by the surroundings"],
+      "answer": "A"
+    },
+    {
+      "id": 80,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "A metal of mass 0.5 kg is heated through 20 K using 4000 J of heat. Its specific heat capacity is",
+      "options": ["100 J/kg·K", "200 J/kg·K", "400 J/kg·K", "800 J/kg·K"],
+      "answer": "C"
+    },
+    {
+      "id": 81,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "The heat required to raise the temperature of a body is given by",
+      "options": ["Q = mcΔθ", "Q = ml", "Q = mgh", "Q = ½mv²"],
+      "answer": "A"
+    },
+    {
+      "id": 82,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "A body of heat capacity 200 J/K is heated through 10 K. The heat absorbed is",
+      "options": ["20 J", "200 J", "2000 J", "20000 J"],
+      "answer": "C"
+    },
+    {
+      "id": 83,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "The specific heat capacity of a substance is measured in",
+      "options": ["J/K", "J/kg", "J/kg·K", "J·kg/K"],
+      "answer": "C"
+    },
+    {
+      "id": 84,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "A 2 kg block of iron (c = 450 J/kg·K) absorbs 9000 J of heat. Its temperature rise is",
+      "options": ["5 K", "10 K", "20 K", "45 K"],
+      "answer": "B"
+    },
+    {
+      "id": 85,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "Water has a high specific heat capacity. This means that water",
+      "options": ["Heats up quickly", "Cools down quickly", "Can absorb a lot of heat with little temperature change", "Has a low boiling point"],
+      "answer": "C"
+    },
+    {
+      "id": 86,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "The heat capacity of a body is equal to the product of its mass and its",
+      "options": ["Latent heat", "Specific heat capacity", "Temperature", "Volume"],
+      "answer": "B"
+    },
+    {
+      "id": 87,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "A heater supplies 5000 J of heat to a liquid of mass 0.2 kg. If the temperature rises by 10 K, the specific heat capacity of the liquid is",
+      "options": ["1000 J/kg·K", "2500 J/kg·K", "5000 J/kg·K", "10000 J/kg·K"],
+      "answer": "B"
+    },
+    {
+      "id": 88,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "In a calorimetry experiment, the heat lost by a hot body is equal to the heat gained by the cold body and the calorimeter, provided",
+      "options": ["Heat loss to the surroundings is negligible", "The calorimeter is made of copper", "The temperature change is large", "The masses are equal"],
+      "answer": "A"
+    },
+    {
+      "id": 89,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "The specific heat capacity of copper is 400 J/kg·K. The heat capacity of a 0.5 kg copper block is",
+      "options": ["100 J/K", "200 J/K", "400 J/K", "800 J/K"],
+      "answer": "B"
+    },
+    {
+      "id": 90,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "A body of mass 2 kg and specific heat capacity 500 J/kg·K is heated from 20 °C to 70 °C. The heat absorbed is",
+      "options": ["25000 J", "50000 J", "100000 J", "200000 J"],
+      "answer": "B"
+    },
+    {
+      "id": 91,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "Which of the following statements about specific heat capacity is correct?",
+      "options": ["It is the same for all substances", "It is a property of the material", "It depends on the mass of the body", "It is measured in joules"],
+      "answer": "B"
+    },
+    {
+      "id": 92,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "A piece of metal of mass 100 g is heated to 100 °C and dropped into 200 g of water at 20 °C. If the final temperature is 30 °C, the specific heat capacity of the metal is (c water = 4200 J/kg·K)",
+      "options": ["420 J/kg·K", "840 J/kg·K", "1260 J/kg·K", "1680 J/kg·K"],
+      "answer": "B"
+    },
+    {
+      "id": 93,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "The heat required to raise the temperature of 500 g of a substance by 20 K is 8400 J. Its specific heat capacity is",
+      "options": ["420 J/kg·K", "840 J/kg·K", "1680 J/kg·K", "4200 J/kg·K"],
+      "answer": "B"
+    },
+    {
+      "id": 94,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "A calorimeter of heat capacity 50 J/K contains 200 g of water at 20 °C. A 100 g metal block at 100 °C is dropped into it, and the final temperature is 30 °C. The specific heat capacity of the metal is (c water = 4200 J/kg·K)",
+      "options": ["300 J/kg·K", "420 J/kg·K", "600 J/kg·K", "840 J/kg·K"],
+      "answer": "C"
+    },
+    {
+      "id": 95,
+      "section": "Heat Capacity and Specific Heat Capacity",
+      "question": "The specific heat capacity of a substance can be determined experimentally using the method of",
+      "options": ["Mixtures", "Electrical heating", "Cooling curve", "Both A and B"],
+      "answer": "D"
+    },
+    {
+      "id": 96,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "Evaporation occurs at",
+      "options": ["The boiling point only", "All temperatures", "0 °C only", "100 °C only"],
+      "answer": "B"
+    },
+    {
+      "id": 97,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "Boiling occurs when the vapour pressure of a liquid equals the",
+      "options": ["Atmospheric pressure", "Temperature", "Volume", "Mass"],
+      "answer": "A"
+    },
+    {
+      "id": 98,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "Evaporation causes cooling because",
+      "options": ["The fastest-moving molecules escape, reducing the average kinetic energy", "Heat is absorbed from the surroundings", "Vapour pressure increases", "The liquid gains energy"],
+      "answer": "A"
+    },
+    {
+      "id": 99,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "Which of the following factors does NOT affect the rate of evaporation?",
+      "options": ["Temperature", "Surface area", "Wind speed", "Volume of the liquid"],
+      "answer": "D"
+    },
+    {
+      "id": 100,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "The boiling point of a liquid increases with",
+      "options": ["Decrease in atmospheric pressure", "Increase in atmospheric pressure", "Increase in surface area", "Decrease in volume"],
+      "answer": "B"
+    },
+    {
+      "id": 101,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "The process by which a solid changes directly to a gas is called",
+      "options": ["Sublimation", "Evaporation", "Condensation", "Melting"],
+      "answer": "A"
+    },
+    {
+      "id": 102,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "The addition of impurities to a liquid usually",
+      "options": ["Raises its boiling point", "Lowers its boiling point", "Has no effect on its boiling point", "Raises its melting point"],
+      "answer": "A"
+    },
+    {
+      "id": 103,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "The melting point of ice is",
+      "options": ["0 °C", "4 °C", "100 °C", "-4 °C"],
+      "answer": "A"
+    },
+    {
+      "id": 104,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "The process of changing a liquid to a solid is called",
+      "options": ["Melting", "Freezing", "Boiling", "Evaporation"],
+      "answer": "B"
+    },
+    {
+      "id": 105,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "During melting, the temperature of the substance",
+      "options": ["Increases", "Decreases", "Remains constant", "Fluctuates"],
+      "answer": "C"
+    },
+    {
+      "id": 106,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "The effect of pressure on the boiling point of a liquid is that an increase in pressure",
+      "options": ["Lowers the boiling point", "Raises the boiling point", "Has no effect", "Stops boiling"],
+      "answer": "B"
+    },
+    {
+      "id": 107,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "The reverse of evaporation is",
+      "options": ["Sublimation", "Condensation", "Melting", "Freezing"],
+      "answer": "B"
+    },
+    {
+      "id": 108,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "A liquid boils when its saturated vapour pressure is equal to the",
+      "options": ["External pressure", "Temperature", "Volume", "Density"],
+      "answer": "A"
+    },
+    {
+      "id": 109,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "The rate of evaporation of a liquid increases with",
+      "options": ["Decrease in temperature", "Increase in humidity", "Increase in surface area", "Decrease in wind speed"],
+      "answer": "C"
+    },
+    {
+      "id": 110,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "The melting point of a solid is the temperature at which the solid and liquid phases are in",
+      "options": ["Equilibrium", "Motion", "Collision", "Solution"],
+      "answer": "A"
+    },
+    {
+      "id": 111,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "The boiling point of water at standard atmospheric pressure is",
+      "options": ["0 °C", "50 °C", "100 °C", "212 °C"],
+      "answer": "C"
+    },
+    {
+      "id": 112,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "Which of the following is NOT a method of determining the melting point of a solid?",
+      "options": ["Cooling curve method", "Capillary tube method", "Electrical method", "Use of a thermometer"],
+      "answer": "C"
+    },
+    {
+      "id": 113,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "The temperature at which a liquid changes to vapour at a given pressure is called its",
+      "options": ["Melting point", "Freezing point", "Boiling point", "Dew point"],
+      "answer": "C"
+    },
+    {
+      "id": 114,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "Evaporation is a cooling process because the escaping molecules",
+      "options": ["Carry away energy", "Bring energy", "Have no energy", "Are at rest"],
+      "answer": "A"
+    },
+    {
+      "id": 115,
+      "section": "Evaporation, Boiling and Melting",
+      "question": "The presence of impurities in a solid usually",
+      "options": ["Raises its melting point", "Lowers its melting point", "Has no effect", "Increases its boiling point"],
+      "answer": "B"
+    },
+    {
+      "id": 116,
+      "section": "Latent Heat",
+      "question": "Latent heat of fusion is the heat required to change",
+      "options": ["1 kg of solid to liquid at constant temperature", "1 kg of liquid to gas at constant temperature", "1 kg of solid to gas", "1 kg of liquid to solid"],
+      "answer": "A"
+    },
+    {
+      "id": 117,
+      "section": "Latent Heat",
+      "question": "The specific latent heat of vaporisation of water is approximately",
+      "options": ["3.34 × 10⁵ J/kg", "2.26 × 10⁶ J/kg", "4.2 × 10³ J/kg", "3.0 × 10⁸ J/kg"],
+      "answer": "B"
+    },
+    {
+      "id": 118,
+      "section": "Latent Heat",
+      "question": "The heat required to melt 2 kg of ice at 0 °C is (L = 3.34 × 10⁵ J/kg)",
+      "options": ["1.67 × 10⁵ J", "3.34 × 10⁵ J", "6.68 × 10⁵ J", "6.68 × 10⁶ J"],
+      "answer": "C"
+    },
+    {
+      "id": 119,
+      "section": "Latent Heat",
+      "question": "During a change of state, the temperature of the substance",
+      "options": ["Increases", "Decreases", "Remains constant", "Fluctuates"],
+      "answer": "C"
+    },
+    {
+      "id": 120,
+      "section": "Latent Heat",
+      "question": "The specific latent heat of fusion of ice is 3.34 × 10⁵ J/kg. The heat released when 0.5 kg of water at 0 °C freezes is",
+      "options": ["1.67 × 10⁵ J", "3.34 × 10⁵ J", "6.68 × 10⁵ J", "1.67 × 10⁶ J"],
+      "answer": "A"
+    },
+    {
+      "id": 121,
+      "section": "Latent Heat",
+      "question": "Which of the following statements about latent heat is correct?",
+      "options": ["It changes the temperature of the substance", "It changes the state of the substance without changing temperature", "It is always absorbed", "It is always released"],
+      "answer": "B"
+    },
+    {
+      "id": 122,
+      "section": "Latent Heat",
+      "question": "Steam at 100 °C causes more severe burns than water at 100 °C because steam",
+      "options": ["Has a higher temperature", "Releases latent heat on condensing", "Has a higher specific heat capacity", "Is a gas"],
+      "answer": "B"
+    },
+    {
+      "id": 123,
+      "section": "Latent Heat",
+      "question": "The heat required to convert 1 kg of a liquid to gas at its boiling point is called",
+      "options": ["Specific heat capacity", "Specific latent heat of fusion", "Specific latent heat of vaporisation", "Heat capacity"],
+      "answer": "C"
+    },
+    {
+      "id": 124,
+      "section": "Latent Heat",
+      "question": "The energy supplied during melting is used to",
+      "options": ["Increase the kinetic energy of molecules", "Break the bonds between molecules", "Increase the temperature", "Decrease the potential energy"],
+      "answer": "B"
+    },
+    {
+      "id": 125,
+      "section": "Latent Heat",
+      "question": "The latent heat of fusion of a substance is the heat required to change 1 kg of the substance from",
+      "options": ["Solid to liquid at constant temperature", "Liquid to gas at constant temperature", "Gas to liquid", "Liquid to solid"],
+      "answer": "A"
+    },
+    {
+      "id": 126,
+      "section": "Latent Heat",
+      "question": "Calculate the heat required to convert 0.2 kg of ice at 0 °C to water at 0 °C. (L = 3.34 × 10⁵ J/kg)",
+      "options": ["6.68 × 10⁴ J", "1.67 × 10⁵ J", "3.34 × 10⁵ J", "6.68 × 10⁵ J"],
+      "answer": "A"
+    },
+    {
+      "id": 127,
+      "section": "Latent Heat",
+      "question": "The specific latent heat of vaporisation of a liquid is the heat required to change",
+      "options": ["1 kg of liquid to gas at its boiling point", "1 kg of solid to liquid", "1 kg of gas to liquid", "1 kg of liquid to solid"],
+      "answer": "A"
+    },
+    {
+      "id": 128,
+      "section": "Latent Heat",
+      "question": "The heat released when 1 kg of steam at 100 °C condenses to water at 100 °C is called the",
+      "options": ["Latent heat of fusion", "Latent heat of vaporisation", "Specific heat capacity", "Heat capacity"],
+      "answer": "B"
+    },
+    {
+      "id": 129,
+      "section": "Latent Heat",
+      "question": "A substance has a specific latent heat of fusion of 2.0 × 10⁵ J/kg. The heat required to melt 3 kg of the substance is",
+      "options": ["6.0 × 10⁴ J", "6.0 × 10⁵ J", "1.5 × 10⁵ J", "2.0 × 10⁵ J"],
+      "answer": "B"
+    },
+    {
+      "id": 130,
+      "section": "Latent Heat",
+      "question": "The latent heat of vaporisation of water is higher than its latent heat of fusion because",
+      "options": ["More energy is needed to completely separate the molecules in the liquid state", "Water has a high specific heat capacity", "Steam is hotter than water", "Ice is denser than water"],
+      "answer": "A"
+    },
+    {
+      "id": 131,
+      "section": "Latent Heat",
+      "question": "The heat required to change the state of a substance is given by",
+      "options": ["Q = ml", "Q = mcΔθ", "Q = mgh", "Q = ½mv²"],
+      "answer": "A"
+    },
+    {
+      "id": 132,
+      "section": "Latent Heat",
+      "question": "The specific latent heat of fusion of a substance is measured in",
+      "options": ["J/K", "J/kg", "J/kg·K", "J·kg"],
+      "answer": "B"
+    },
+    {
+      "id": 133,
+      "section": "Latent Heat",
+      "question": "Which of the following is an application of latent heat?",
+      "options": ["Cooling by evaporation", "Use of ice to cool drinks", "Both A and B", "Heating a metal rod"],
+      "answer": "C"
+    },
+    {
+      "id": 134,
+      "section": "Latent Heat",
+      "question": "A 2 kg block of ice at 0 °C is completely melted. The heat absorbed is (L = 3.34 × 10⁵ J/kg)",
+      "options": ["1.67 × 10⁵ J", "3.34 × 10⁵ J", "6.68 × 10⁵ J", "6.68 × 10⁶ J"],
+      "answer": "C"
+    },
+    {
+      "id": 135,
+      "section": "Latent Heat",
+      "question": "The temperature remains constant during a change of state because the heat supplied is used to",
+      "options": ["Increase the kinetic energy", "Change the potential energy of the molecules", "Increase the temperature", "Decrease the mass"],
+      "answer": "B"
+    },
+    {
+      "id": 136,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "The saturation vapour pressure of a liquid depends on",
+      "options": ["Temperature", "Volume", "Mass", "Pressure"],
+      "answer": "A"
+    },
+    {
+      "id": 137,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "Relative humidity is the ratio of",
+      "options": ["Actual vapour pressure to saturated vapour pressure", "Saturated vapour pressure to actual vapour pressure", "Mass of water vapour to mass of dry air", "Volume of water vapour to volume of air"],
+      "answer": "A"
+    },
+    {
+      "id": 138,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "The dew point is the temperature at which",
+      "options": ["Water boils", "Air becomes saturated with water vapour", "Ice melts", "Water freezes"],
+      "answer": "B"
+    },
+    {
+      "id": 139,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "When the dew point is reached, the relative humidity is",
+      "options": ["0%", "50%", "100%", "200%"],
+      "answer": "C"
+    },
+    {
+      "id": 140,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "A hygrometer is used to measure",
+      "options": ["Temperature", "Humidity", "Pressure", "Volume"],
+      "answer": "B"
+    },
+    {
+      "id": 141,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "Boyle’s law states that the volume of a fixed mass of gas is inversely proportional to its pressure at constant",
+      "options": ["Volume", "Temperature", "Mass", "Density"],
+      "answer": "B"
+    },
+    {
+      "id": 142,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "Charles’ law states that the volume of a fixed mass of gas is directly proportional to its absolute temperature at constant",
+      "options": ["Pressure", "Volume", "Mass", "Density"],
+      "answer": "A"
+    },
+    {
+      "id": 143,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "The pressure law states that the pressure of a fixed mass of gas is directly proportional to its absolute temperature at constant",
+      "options": ["Pressure", "Volume", "Mass", "Density"],
+      "answer": "B"
+    },
+    {
+      "id": 144,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "The general gas law is given by",
+      "options": ["PV = nRT", "P₁V₁ = P₂V₂", "V₁/T₁ = V₂/T₂", "P₁/T₁ = P₂/T₂"],
+      "answer": "A"
+    },
+    {
+      "id": 145,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "A gas occupies a volume of 2 m³ at a pressure of 3 atm. If the pressure is increased to 6 atm at constant temperature, the new volume is",
+      "options": ["1 m³", "2 m³", "4 m³", "6 m³"],
+      "answer": "A"
+    },
+    {
+      "id": 146,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "The absolute temperature scale is the",
+      "options": ["Celsius scale", "Fahrenheit scale", "Kelvin scale", "Rankine scale"],
+      "answer": "C"
+    },
+    {
+      "id": 147,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "At constant pressure, the volume of a gas is directly proportional to its",
+      "options": ["Celsius temperature", "Kelvin temperature", "Pressure", "Mass"],
+      "answer": "B"
+    },
+    {
+      "id": 148,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "The kinetic molecular theory of gases explains the gas laws in terms of",
+      "options": ["Static particles", "Random motion of particles", "Attractive forces between particles", "Large particle size"],
+      "answer": "B"
+    },
+    {
+      "id": 149,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "A gas at 27 °C has a volume of 300 cm³. At what temperature will its volume be 600 cm³ at constant pressure?",
+      "options": ["54 °C", "327 °C", "600 °C", "600 K"],
+      "answer": "B"
+    },
+    {
+      "id": 150,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "A gas has a pressure of 2 atm at 300 K. If the temperature is raised to 600 K at constant volume, the pressure becomes",
+      "options": ["1 atm", "2 atm", "4 atm", "8 atm"],
+      "answer": "C"
+    },
+    {
+      "id": 151,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "The value of the universal gas constant R is approximately",
+      "options": ["8.31 J/mol·K", "3.14 J/mol·K", "9.81 J/mol·K", "1.38 J/mol·K"],
+      "answer": "A"
+    },
+    {
+      "id": 152,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "At constant temperature, if the volume of a gas is halved, its pressure will",
+      "options": ["Halve", "Double", "Remain the same", "Become zero"],
+      "answer": "B"
+    },
+    {
+      "id": 153,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "The pressure of a gas is due to",
+      "options": ["The weight of the gas", "Collisions of gas molecules with the walls of the container", "The attraction between molecules", "The volume of the molecules"],
+      "answer": "B"
+    },
+    {
+      "id": 154,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "Which of the following is NOT a gas law?",
+      "options": ["Boyle’s law", "Charles’ law", "Ohm’s law", "Pressure law"],
+      "answer": "C"
+    },
+    {
+      "id": 155,
+      "section": "Vapour Pressure, Humidity and Gas Laws",
+      "question": "A fixed mass of gas at 1 atm occupies 500 cm³. At what pressure will it occupy 250 cm³ at constant temperature?",
+      "options": ["0.5 atm", "1 atm", "2 atm", "4 atm"],
+      "answer": "C"
+    },
+    {
+      "id": 156,
+      "section": "Waves: Production and Properties",
+      "question": "A wave is a disturbance that transfers",
+      "options": ["Matter", "Energy", "Mass", "Force"],
+      "answer": "B"
+    },
+    {
+      "id": 157,
+      "section": "Waves: Production and Properties",
+      "question": "The distance between two successive crests of a wave is called the",
+      "options": ["Amplitude", "Frequency", "Wavelength", "Period"],
+      "answer": "C"
+    },
+    {
+      "id": 158,
+      "section": "Waves: Production and Properties",
+      "question": "The number of oscillations per second is called the",
+      "options": ["Period", "Frequency", "Amplitude", "Wavelength"],
+      "answer": "B"
+    },
+    {
+      "id": 159,
+      "section": "Waves: Production and Properties",
+      "question": "The unit of frequency is the",
+      "options": ["Second", "Hertz", "Metre", "Radian"],
+      "answer": "B"
+    },
+    {
+      "id": 160,
+      "section": "Waves: Production and Properties",
+      "question": "The maximum displacement of a wave from its equilibrium position is called the",
+      "options": ["Wavelength", "Frequency", "Amplitude", "Period"],
+      "answer": "C"
+    },
+    {
+      "id": 161,
+      "section": "Waves: Production and Properties",
+      "question": "The relationship between wave speed (v), frequency (f) and wavelength (λ) is",
+      "options": ["v = fλ", "v = f/λ", "v = λ/f", "v = f + λ"],
+      "answer": "A"
+    },
+    {
+      "id": 162,
+      "section": "Waves: Production and Properties",
+      "question": "Which of the following is a longitudinal wave?",
+      "options": ["Light wave", "Sound wave", "Water wave", "Radio wave"],
+      "answer": "B"
+    },
+    {
+      "id": 163,
+      "section": "Waves: Production and Properties",
+      "question": "Which of the following is a transverse wave?",
+      "options": ["Sound wave", "Light wave", "Compression wave", "Seismic P-wave"],
+      "answer": "B"
+    },
+    {
+      "id": 164,
+      "section": "Waves: Production and Properties",
+      "question": "The bending of waves around obstacles is called",
+      "options": ["Reflection", "Refraction", "Diffraction", "Interference"],
+      "answer": "C"
+    },
+    {
+      "id": 165,
+      "section": "Waves: Production and Properties",
+      "question": "The superposition of two waves of the same frequency to form a resultant wave is called",
+      "options": ["Reflection", "Refraction", "Diffraction", "Interference"],
+      "answer": "D"
+    },
+    {
+      "id": 166,
+      "section": "Waves: Production and Properties",
+      "question": "The change in direction of a wave as it passes from one medium to another is called",
+      "options": ["Reflection", "Refraction", "Diffraction", "Polarization"],
+      "answer": "B"
+    },
+    {
+      "id": 167,
+      "section": "Waves: Production and Properties",
+      "question": "The bouncing back of a wave from a surface is called",
+      "options": ["Reflection", "Refraction", "Diffraction", "Interference"],
+      "answer": "A"
+    },
+    {
+      "id": 168,
+      "section": "Waves: Production and Properties",
+      "question": "The direction of vibration of a transverse wave is",
+      "options": ["Parallel to the direction of travel", "Perpendicular to the direction of travel", "At 45° to the direction of travel", "Opposite to the direction of travel"],
+      "answer": "B"
+    },
+    {
+      "id": 169,
+      "section": "Waves: Production and Properties",
+      "question": "The direction of vibration of a longitudinal wave is",
+      "options": ["Parallel to the direction of travel", "Perpendicular to the direction of travel", "At 45° to the direction of travel", "Opposite to the direction of travel"],
+      "answer": "A"
+    },
+    {
+      "id": 170,
+      "section": "Waves: Production and Properties",
+      "question": "A wave has a frequency of 50 Hz and a wavelength of 2 m. Its speed is",
+      "options": ["25 m/s", "50 m/s", "100 m/s", "200 m/s"],
+      "answer": "C"
+    },
+    {
+      "id": 171,
+      "section": "Waves: Production and Properties",
+      "question": "Sound waves cannot travel through",
+      "options": ["Solids", "Liquids", "Gases", "Vacuum"],
+      "answer": "D"
+    },
+    {
+      "id": 172,
+      "section": "Waves: Production and Properties",
+      "question": "The persistence of sound after the source has stopped is called",
+      "options": ["Echo", "Reverberation", "Resonance", "Diffraction"],
+      "answer": "B"
+    },
+    {
+      "id": 173,
+      "section": "Waves: Production and Properties",
+      "question": "An echo is due to the",
+      "options": ["Refraction of sound", "Reflection of sound", "Diffraction of sound", "Interference of sound"],
+      "answer": "B"
+    },
+    {
+      "id": 174,
+      "section": "Waves: Production and Properties",
+      "question": "The pitch of a sound depends on its",
+      "options": ["Amplitude", "Frequency", "Wavelength", "Speed"],
+      "answer": "B"
+    },
+    {
+      "id": 175,
+      "section": "Waves: Production and Properties",
+      "question": "The loudness of a sound depends on its",
+      "options": ["Amplitude", "Frequency", "Wavelength", "Speed"],
+      "answer": "A"
+    },
+    {
+      "id": 176,
+      "section": "Waves: Production and Properties",
+      "question": "Which of the following waves is an electromagnetic wave?",
+      "options": ["Sound wave", "Water wave", "Light wave", "Seismic wave"],
+      "answer": "C"
+    },
+    {
+      "id": 177,
+      "section": "Waves: Production and Properties",
+      "question": "Electromagnetic waves travel at the speed of",
+      "options": ["Sound", "Light", "Water", "Wind"],
+      "answer": "B"
+    },
+    {
+      "id": 178,
+      "section": "Waves: Production and Properties",
+      "question": "The phenomenon of polarization is exhibited by",
+      "options": ["Longitudinal waves only", "Transverse waves only", "Both longitudinal and transverse waves", "Neither longitudinal nor transverse waves"],
+      "answer": "B"
+    },
+    {
+      "id": 179,
+      "section": "Waves: Production and Properties",
+      "question": "The principle of superposition of waves states that the resultant displacement at a point is the",
+      "options": ["Product of the individual displacements", "Algebraic sum of the individual displacements", "Difference of the individual displacements", "Average of the individual displacements"],
+      "answer": "B"
+    },
+    {
+      "id": 180,
+      "section": "Waves: Production and Properties",
+      "question": "Constructive interference occurs when two waves are",
+      "options": ["In phase", "Out of phase", "Perpendicular", "Opposite in direction"],
+      "answer": "A"
+    },
+    {
+      "id": 181,
+      "section": "Waves: Production and Properties",
+      "question": "Destructive interference occurs when two waves are",
+      "options": ["In phase", "Out of phase (by 180°)", "Parallel", "At 45° to each other"],
+      "answer": "B"
+    },
+    {
+      "id": 182,
+      "section": "Waves: Production and Properties",
+      "question": "The period of a wave is 0.02 s. Its frequency is",
+      "options": ["0.02 Hz", "20 Hz", "50 Hz", "100 Hz"],
+      "answer": "C"
+    },
+    {
+      "id": 183,
+      "section": "Waves: Production and Properties",
+      "question": "A sound wave of frequency 500 Hz travels with a speed of 340 m/s. Its wavelength is approximately",
+      "options": ["0.34 m", "0.68 m", "1.47 m", "170 m"],
+      "answer": "B"
+    },
+    {
+      "id": 184,
+      "section": "Waves: Production and Properties",
+      "question": "Which of the following is NOT a property of waves?",
+      "options": ["Reflection", "Refraction", "Diffraction", "Acceleration"],
+      "answer": "D"
+    },
+    {
+      "id": 185,
+      "section": "Waves: Production and Properties",
+      "question": "The speed of sound is greatest in",
+      "options": ["Solids", "Liquids", "Gases", "Vacuum"],
+      "answer": "A"
+    },
+    {
+      "id": 186,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "The law of reflection states that the angle of incidence is equal to the angle of",
+      "options": ["Refraction", "Reflection", "Diffraction", "Dispersion"],
+      "answer": "B"
+    },
+    {
+      "id": 187,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "The image formed by a plane mirror is",
+      "options": ["Real and inverted", "Virtual and erect", "Real and erect", "Virtual and inverted"],
+      "answer": "B"
+    },
+    {
+      "id": 188,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "A concave mirror is also called a",
+      "options": ["Diverging mirror", "Converging mirror", "Plane mirror", "Cylindrical mirror"],
+      "answer": "B"
+    },
+    {
+      "id": 189,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "A convex mirror is also called a",
+      "options": ["Diverging mirror", "Converging mirror", "Plane mirror", "Spherical mirror"],
+      "answer": "A"
+    },
+    {
+      "id": 190,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "The centre of the sphere of which a curved mirror is a part is called the",
+      "options": ["Pole", "Principal focus", "Centre of curvature", "Focal length"],
+      "answer": "C"
+    },
+    {
+      "id": 191,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "The distance between the pole and the principal focus of a mirror is called the",
+      "options": ["Radius of curvature", "Focal length", "Aperture", "Image distance"],
+      "answer": "B"
+    },
+    {
+      "id": 192,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "The refractive index of a medium is the ratio of the speed of light in",
+      "options": ["Vacuum to the speed in the medium", "The medium to the speed in vacuum", "Water to the speed in the medium", "Air to the speed in water"],
+      "answer": "A"
+    },
+    {
+      "id": 193,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "The bending of light as it passes from air to glass is due to",
+      "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+      "answer": "B"
+    },
+    {
+      "id": 194,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "Total internal reflection occurs when light travels from a",
+      "options": ["Denser to a less dense medium and the angle of incidence exceeds the critical angle", "Less dense to a denser medium", "Denser to a less dense medium at any angle", "Vacuum to a medium"],
+      "answer": "A"
+    },
+    {
+      "id": 195,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "The critical angle is the angle of incidence in the denser medium for which the angle of refraction in the less dense medium is",
+      "options": ["0°", "45°", "90°", "180°"],
+      "answer": "C"
+    },
+    {
+      "id": 196,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "A ray of light strikes a plane mirror at an angle of incidence of 30°. The angle of reflection is",
+      "options": ["30°", "60°", "90°", "120°"],
+      "answer": "A"
+    },
+    {
+      "id": 197,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "A concave mirror forms a real image when the object is placed",
+      "options": ["Between the pole and the focus", "At the focus", "Beyond the focus", "At the pole"],
+      "answer": "C"
+    },
+    {
+      "id": 198,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "The image formed by a convex mirror is always",
+      "options": ["Real and inverted", "Virtual, erect and diminished", "Real and magnified", "Virtual and magnified"],
+      "answer": "B"
+    },
+    {
+      "id": 199,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "The refractive index of glass is 1.5. If the speed of light in vacuum is 3 × 10⁸ m/s, the speed of light in glass is",
+      "options": ["1.5 × 10⁸ m/s", "2.0 × 10⁸ m/s", "3.0 × 10⁸ m/s", "4.5 × 10⁸ m/s"],
+      "answer": "B"
+    },
+    {
+      "id": 200,
+      "section": "Light Waves: Reflection and Refraction",
+      "question": "The splitting of white light into its component colours is called",
+      "options": ["Reflection", "Refraction", "Dispersion", "Diffraction"],
+      "answer": "C"
+    }
+  ]
+}

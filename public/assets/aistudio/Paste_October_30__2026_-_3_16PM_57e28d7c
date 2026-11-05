@@ -1,0 +1,1406 @@
+```json
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "Scalars and Vectors",
+      "question": "Which of the following is a vector quantity?",
+      "options": ["Speed", "Distance", "Force", "Mass"],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "section": "Scalars and Vectors",
+      "question": "The resultant of two vectors acting at right angles to each other can be found using the",
+      "options": ["Parallelogram law", "Pythagoras theorem", "Triangle law", "Sine rule"],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "section": "Scalars and Vectors",
+      "question": "Which of the following is a scalar quantity?",
+      "options": ["Velocity", "Displacement", "Acceleration", "Energy"],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "section": "Scalars and Vectors",
+      "question": "A vector is completely specified by its",
+      "options": ["Magnitude only", "Direction only", "Magnitude and direction", "Unit only"],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "section": "Scalars and Vectors",
+      "question": "Two forces of 3 N and 4 N act at right angles to each other. The magnitude of their resultant is",
+      "options": ["1 N", "5 N", "7 N", "12 N"],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "section": "Scalars and Vectors",
+      "question": "The splitting of a vector into its components is called",
+      "options": ["Vector addition", "Vector resolution", "Vector multiplication", "Vector subtraction"],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "section": "Scalars and Vectors",
+      "question": "Which of the following quantities is NOT a vector?",
+      "options": ["Momentum", "Impulse", "Temperature", "Weight"],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "section": "Scalars and Vectors",
+      "question": "A boy walks 3 km due north and then 4 km due east. His displacement from the starting point is",
+      "options": ["1 km", "5 km", "7 km", "12 km"],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "section": "Scalars and Vectors",
+      "question": "The unit of a vector quantity is the same as that of its",
+      "options": ["Direction", "Magnitude", "Component", "Resultant"],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "section": "Scalars and Vectors",
+      "question": "Which of the following is an example of a vector field?",
+      "options": ["Temperature field", "Pressure field", "Gravitational field", "Density field"],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "section": "Scalars and Vectors",
+      "question": "The resultant of two vectors is maximum when the angle between them is",
+      "options": ["0°", "45°", "90°", "180°"],
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "section": "Scalars and Vectors",
+      "question": "The resultant of two vectors is minimum when the angle between them is",
+      "options": ["0°", "45°", "90°", "180°"],
+      "answer": "D"
+    },
+    {
+      "id": 13,
+      "section": "Scalars and Vectors",
+      "question": "A force of 10 N acts at an angle of 30° to the horizontal. The horizontal component of the force is",
+      "options": ["5 N", "8.66 N", "10 N", "20 N"],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "section": "Scalars and Vectors",
+      "question": "Which of the following pairs consists of scalar quantities only?",
+      "options": ["Mass and weight", "Speed and velocity", "Work and energy", "Force and acceleration"],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "section": "Scalars and Vectors",
+      "question": "The process of finding a single vector that has the same effect as two or more vectors is called",
+      "options": ["Vector resolution", "Vector composition", "Vector subtraction", "Vector multiplication"],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "section": "Motion and Equations of Motion",
+      "question": "The rate of change of displacement with time is called",
+      "options": ["Speed", "Velocity", "Acceleration", "Momentum"],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "section": "Motion and Equations of Motion",
+      "question": "The slope of a distance-time graph represents",
+      "options": ["Acceleration", "Velocity", "Displacement", "Distance"],
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "section": "Motion and Equations of Motion",
+      "question": "The area under a velocity-time graph represents",
+      "options": ["Acceleration", "Velocity", "Displacement", "Time"],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "section": "Motion and Equations of Motion",
+      "question": "A body moving with a constant velocity has an acceleration of",
+      "options": ["Zero", "Constant", "Increasing", "Decreasing"],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "section": "Motion and Equations of Motion",
+      "question": "The equation v = u + at is valid for motion with",
+      "options": ["Variable acceleration", "Constant acceleration", "Zero acceleration", "Constant velocity"],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "section": "Motion and Equations of Motion",
+      "question": "A car accelerates uniformly from rest to 20 m/s in 5 s. Its acceleration is",
+      "options": ["2 m/s²", "4 m/s²", "5 m/s²", "100 m/s²"],
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "section": "Motion and Equations of Motion",
+      "question": "The distance travelled by a body moving with uniform velocity is given by",
+      "options": ["s = ut + ½at²", "s = vt", "v² = u² + 2as", "s = ½vt"],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "section": "Motion and Equations of Motion",
+      "question": "Which of the following is a type of motion?",
+      "options": ["Translational motion", "Rotational motion", "Random motion", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "section": "Motion and Equations of Motion",
+      "question": "A body starts from rest and moves with a uniform acceleration of 2 m/s². The distance covered in 4 s is",
+      "options": ["8 m", "16 m", "32 m", "64 m"],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "section": "Motion and Equations of Motion",
+      "question": "The velocity of a body moving with uniform acceleration can be found using",
+      "options": ["v = u + at", "s = ut + ½at²", "v² = u² + 2as", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "section": "Motion and Equations of Motion",
+      "question": "A stone is thrown vertically upwards with a velocity of 20 m/s. The maximum height reached is (g = 10 m/s²)",
+      "options": ["10 m", "20 m", "40 m", "80 m"],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "section": "Motion and Equations of Motion",
+      "question": "The time of flight of a projectile is determined by",
+      "options": ["Initial velocity only", "Angle of projection only", "Both initial velocity and angle of projection", "Mass of the projectile"],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "section": "Motion and Equations of Motion",
+      "question": "The acceleration due to gravity on the surface of the earth is approximately",
+      "options": ["5.0 m/s²", "9.8 m/s²", "15.0 m/s²", "20.0 m/s²"],
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "section": "Motion and Equations of Motion",
+      "question": "A body moves with a speed of 10 m/s for 5 s. The distance covered is",
+      "options": ["2 m", "5 m", "50 m", "100 m"],
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "section": "Motion and Equations of Motion",
+      "question": "Uniform circular motion is an example of motion with",
+      "options": ["Constant velocity", "Constant speed", "Zero acceleration", "Constant displacement"],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "section": "Motion and Equations of Motion",
+      "question": "The final velocity of a body that starts from rest and accelerates at 3 m/s² for 6 s is",
+      "options": ["9 m/s", "18 m/s", "36 m/s", "54 m/s"],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "section": "Motion and Equations of Motion",
+      "question": "Which of the following equations is NOT an equation of uniformly accelerated motion?",
+      "options": ["v = u + at", "s = ut + ½at²", "v² = u² + 2as", "s = vt"],
+      "answer": "D"
+    },
+    {
+      "id": 33,
+      "section": "Motion and Equations of Motion",
+      "question": "A car decelerates uniformly from 30 m/s to 10 m/s in 5 s. The deceleration is",
+      "options": ["2 m/s²", "4 m/s²", "5 m/s²", "8 m/s²"],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "section": "Motion and Equations of Motion",
+      "question": "The motion of a pendulum is an example of",
+      "options": ["Translational motion", "Rotational motion", "Oscillatory motion", "Random motion"],
+      "answer": "C"
+    },
+    {
+      "id": 35,
+      "section": "Motion and Equations of Motion",
+      "question": "A body moving with a velocity of 5 m/s accelerates at 2 m/s² for 3 s. The final velocity is",
+      "options": ["6 m/s", "11 m/s", "15 m/s", "30 m/s"],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "section": "Work, Energy and Power",
+      "question": "Work is done when a force causes a body to",
+      "options": ["Move", "Stay at rest", "Rotate", "Vibrate"],
+      "answer": "A"
+    },
+    {
+      "id": 37,
+      "section": "Work, Energy and Power",
+      "question": "The unit of work is",
+      "options": ["Newton", "Joule", "Watt", "Pascal"],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "section": "Work, Energy and Power",
+      "question": "The energy possessed by a body due to its position is called",
+      "options": ["Kinetic energy", "Potential energy", "Chemical energy", "Heat energy"],
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "section": "Work, Energy and Power",
+      "question": "The energy possessed by a body due to its motion is called",
+      "options": ["Potential energy", "Kinetic energy", "Elastic potential energy", "Nuclear energy"],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "section": "Work, Energy and Power",
+      "question": "The rate of doing work is called",
+      "options": ["Energy", "Force", "Power", "Momentum"],
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "section": "Work, Energy and Power",
+      "question": "The unit of power is",
+      "options": ["Joule", "Newton", "Watt", "Pascal"],
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "section": "Work, Energy and Power",
+      "question": "A force of 10 N moves a body through a distance of 2 m. The work done is",
+      "options": ["5 J", "10 J", "20 J", "40 J"],
+      "answer": "C"
+    },
+    {
+      "id": 43,
+      "section": "Work, Energy and Power",
+      "question": "The kinetic energy of a body of mass 2 kg moving at 3 m/s is",
+      "options": ["3 J", "6 J", "9 J", "18 J"],
+      "answer": "C"
+    },
+    {
+      "id": 44,
+      "section": "Work, Energy and Power",
+      "question": "The potential energy of a body of mass 5 kg at a height of 4 m is (g = 10 m/s²)",
+      "options": ["20 J", "50 J", "100 J", "200 J"],
+      "answer": "D"
+    },
+    {
+      "id": 45,
+      "section": "Work, Energy and Power",
+      "question": "The law of conservation of energy states that energy can neither be created nor",
+      "options": ["Transformed", "Destroyed", "Stored", "Transferred"],
+      "answer": "B"
+    },
+    {
+      "id": 46,
+      "section": "Work, Energy and Power",
+      "question": "A machine does 500 J of work in 5 s. Its power output is",
+      "options": ["50 W", "100 W", "250 W", "2500 W"],
+      "answer": "B"
+    },
+    {
+      "id": 47,
+      "section": "Work, Energy and Power",
+      "question": "Which of the following is a form of energy?",
+      "options": ["Heat energy", "Light energy", "Sound energy", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 48,
+      "section": "Work, Energy and Power",
+      "question": "The work done in lifting a body of mass 10 kg to a height of 2 m is (g = 10 m/s²)",
+      "options": ["20 J", "50 J", "100 J", "200 J"],
+      "answer": "D"
+    },
+    {
+      "id": 49,
+      "section": "Work, Energy and Power",
+      "question": "The efficiency of a machine is given by",
+      "options": ["Work output / Work input × 100%", "Work input / Work output × 100%", "Power output / Power input", "Both A and C"],
+      "answer": "D"
+    },
+    {
+      "id": 50,
+      "section": "Work, Energy and Power",
+      "question": "A body of mass 4 kg moving at 5 m/s has a kinetic energy of",
+      "options": ["10 J", "20 J", "50 J", "100 J"],
+      "answer": "C"
+    },
+    {
+      "id": 51,
+      "section": "Work, Energy and Power",
+      "question": "The energy stored in a stretched spring is an example of",
+      "options": ["Kinetic energy", "Elastic potential energy", "Gravitational potential energy", "Chemical energy"],
+      "answer": "B"
+    },
+    {
+      "id": 52,
+      "section": "Work, Energy and Power",
+      "question": "A crane lifts a load of 2000 N through a height of 10 m in 20 s. The power developed is",
+      "options": ["100 W", "200 W", "1000 W", "2000 W"],
+      "answer": "C"
+    },
+    {
+      "id": 53,
+      "section": "Work, Energy and Power",
+      "question": "The principle of conservation of mechanical energy applies when",
+      "options": ["Friction is present", "Only conservative forces act", "Non-conservative forces act", "The body is at rest"],
+      "answer": "B"
+    },
+    {
+      "id": 54,
+      "section": "Work, Energy and Power",
+      "question": "One kilowatt-hour (kWh) is a unit of",
+      "options": ["Power", "Energy", "Force", "Momentum"],
+      "answer": "B"
+    },
+    {
+      "id": 55,
+      "section": "Work, Energy and Power",
+      "question": "The work done by a force of 20 N acting at an angle of 60° to the horizontal, moving a body through 5 m horizontally, is",
+      "options": ["50 J", "86.6 J", "100 J", "173.2 J"],
+      "answer": "A"
+    },
+    {
+      "id": 56,
+      "section": "Simple Machines",
+      "question": "A machine is a device that",
+      "options": ["Creates energy", "Transmits or changes the direction of a force", "Destroys energy", "Increases mass"],
+      "answer": "B"
+    },
+    {
+      "id": 57,
+      "section": "Simple Machines",
+      "question": "The mechanical advantage (M.A.) of a machine is defined as",
+      "options": ["Load / Effort", "Effort / Load", "Load × Effort", "Velocity ratio / Efficiency"],
+      "answer": "A"
+    },
+    {
+      "id": 58,
+      "section": "Simple Machines",
+      "question": "The velocity ratio (V.R.) of a machine is the ratio of",
+      "options": ["Load to effort", "Distance moved by effort to distance moved by load", "Distance moved by load to distance moved by effort", "Effort to load"],
+      "answer": "B"
+    },
+    {
+      "id": 59,
+      "section": "Simple Machines",
+      "question": "The efficiency of a machine is given by",
+      "options": ["M.A. / V.R. × 100%", "V.R. / M.A. × 100%", "M.A. × V.R. × 100%", "M.A. + V.R."],
+      "answer": "A"
+    },
+    {
+      "id": 60,
+      "section": "Simple Machines",
+      "question": "Which of the following is a type of simple machine?",
+      "options": ["Lever", "Pulley", "Inclined plane", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 61,
+      "section": "Simple Machines",
+      "question": "A lever of the first class has the fulcrum",
+      "options": ["Between the load and the effort", "At one end", "At the load", "At the effort"],
+      "answer": "A"
+    },
+    {
+      "id": 62,
+      "section": "Simple Machines",
+      "question": "The velocity ratio of a pulley system with 4 movable pulleys is",
+      "options": ["2", "4", "8", "16"],
+      "answer": "C"
+    },
+    {
+      "id": 63,
+      "section": "Simple Machines",
+      "question": "A machine has a velocity ratio of 5 and an efficiency of 80%. Its mechanical advantage is",
+      "options": ["2", "4", "5", "6.25"],
+      "answer": "B"
+    },
+    {
+      "id": 64,
+      "section": "Simple Machines",
+      "question": "An inclined plane is used to",
+      "options": ["Increase force", "Raise heavy loads with less effort", "Change direction of force", "Increase speed"],
+      "answer": "B"
+    },
+    {
+      "id": 65,
+      "section": "Simple Machines",
+      "question": "The efficiency of a machine can never be",
+      "options": ["Greater than 100%", "Less than 100%", "Equal to 100%", "Zero"],
+      "answer": "A"
+    },
+    {
+      "id": 66,
+      "section": "Simple Machines",
+      "question": "A wheel and axle is a type of",
+      "options": ["Lever", "Pulley", "Simple machine", "Inclined plane"],
+      "answer": "C"
+    },
+    {
+      "id": 67,
+      "section": "Simple Machines",
+      "question": "The velocity ratio of a machine is 4. If the effort moves 8 m, the load moves",
+      "options": ["0.5 m", "2 m", "4 m", "32 m"],
+      "answer": "B"
+    },
+    {
+      "id": 68,
+      "section": "Simple Machines",
+      "question": "A screw is a modification of",
+      "options": ["A lever", "An inclined plane", "A pulley", "A wheel and axle"],
+      "answer": "B"
+    },
+    {
+      "id": 69,
+      "section": "Simple Machines",
+      "question": "The mechanical advantage of a machine is 3. If the load is 60 N, the effort is",
+      "options": ["20 N", "30 N", "60 N", "180 N"],
+      "answer": "A"
+    },
+    {
+      "id": 70,
+      "section": "Simple Machines",
+      "question": "Which of the following is NOT a simple machine?",
+      "options": ["Lever", "Pulley", "Engine", "Inclined plane"],
+      "answer": "C"
+    },
+    {
+      "id": 71,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "Temperature is a measure of the",
+      "options": ["Total heat of a body", "Degree of hotness or coldness of a body", "Internal energy of a body", "Work done by a body"],
+      "answer": "B"
+    },
+    {
+      "id": 72,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The SI unit of temperature is",
+      "options": ["Celsius", "Fahrenheit", "Kelvin", "Joule"],
+      "answer": "C"
+    },
+    {
+      "id": 73,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The instrument used to measure temperature is a",
+      "options": ["Barometer", "Thermometer", "Hygrometer", "Manometer"],
+      "answer": "B"
+    },
+    {
+      "id": 74,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The lower fixed point on the Celsius scale is",
+      "options": ["0 °C", "32 °C", "100 °C", "273 °C"],
+      "answer": "A"
+    },
+    {
+      "id": 75,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The upper fixed point on the Celsius scale is",
+      "options": ["0 °C", "32 °C", "100 °C", "373 °C"],
+      "answer": "C"
+    },
+    {
+      "id": 76,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "Convert 25 °C to Kelvin.",
+      "options": ["248 K", "298 K", "273 K", "373 K"],
+      "answer": "B"
+    },
+    {
+      "id": 77,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "A clinical thermometer is used to measure",
+      "options": ["Body temperature", "Boiling point of water", "Atmospheric temperature", "Temperature of a furnace"],
+      "answer": "A"
+    },
+    {
+      "id": 78,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The thermometric liquid used in a clinical thermometer is",
+      "options": ["Water", "Mercury", "Alcohol", "Kerosene"],
+      "answer": "B"
+    },
+    {
+      "id": 79,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "Which of the following is a quality of a good thermometric liquid?",
+      "options": ["It should be transparent", "It should have a high boiling point", "It should wet glass", "It should have a low freezing point"],
+      "answer": "B"
+    },
+    {
+      "id": 80,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The absolute zero temperature is",
+      "options": ["0 K", "0 °C", "273 K", "-273 °C"],
+      "answer": "A"
+    },
+    {
+      "id": 81,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "Heat is a form of",
+      "options": ["Energy", "Force", "Power", "Momentum"],
+      "answer": "A"
+    },
+    {
+      "id": 82,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The transfer of heat from a hotter body to a colder body continues until",
+      "options": ["Both bodies have the same heat", "Both bodies have the same temperature", "Both bodies have the same mass", "Both bodies have the same volume"],
+      "answer": "B"
+    },
+    {
+      "id": 83,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "A thermometer that uses the expansion of a liquid to measure temperature is called a",
+      "options": ["Resistance thermometer", "Liquid-in-glass thermometer", "Thermocouple", "Pyrometer"],
+      "answer": "B"
+    },
+    {
+      "id": 84,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "The fixed points on a thermometer are used to",
+      "options": ["Calibrate the thermometer", "Measure heat capacity", "Determine the mass of the liquid", "Find the volume of the bulb"],
+      "answer": "A"
+    },
+    {
+      "id": 85,
+      "section": "Heat Energy: Temperature and Measurement",
+      "question": "Convert 300 K to °C.",
+      "options": ["27 °C", "37 °C", "57 °C", "273 °C"],
+      "answer": "A"
+    },
+    {
+      "id": 86,
+      "section": "Expansion of Solids and Liquids",
+      "question": "The increase in length of a solid when heated is called",
+      "options": ["Linear expansion", "Area expansion", "Volume expansion", "Apparent expansion"],
+      "answer": "A"
+    },
+    {
+      "id": 87,
+      "section": "Expansion of Solids and Liquids",
+      "question": "The coefficient of linear expansion is defined as the increase in length per unit length per unit rise in",
+      "options": ["Heat", "Temperature", "Time", "Pressure"],
+      "answer": "B"
+    },
+    {
+      "id": 88,
+      "section": "Expansion of Solids and Liquids",
+      "question": "The relationship between area expansivity (β) and linear expansivity (α) is",
+      "options": ["β = α", "β = 2α", "β = 3α", "β = α/2"],
+      "answer": "B"
+    },
+    {
+      "id": 89,
+      "section": "Expansion of Solids and Liquids",
+      "question": "The relationship between volume expansivity (γ) and linear expansivity (α) is",
+      "options": ["γ = α", "γ = 2α", "γ = 3α", "γ = α/3"],
+      "answer": "C"
+    },
+    {
+      "id": 90,
+      "section": "Expansion of Solids and Liquids",
+      "question": "A bimetallic strip is used in a thermostat because the two metals have different",
+      "options": ["Melting points", "Densities", "Expansivities", "Conductivities"],
+      "answer": "C"
+    },
+    {
+      "id": 91,
+      "section": "Expansion of Solids and Liquids",
+      "question": "Gaps are left in railway lines to allow for",
+      "options": ["Expansion in hot weather", "Contraction in cold weather", "Both expansion and contraction", "Friction"],
+      "answer": "C"
+    },
+    {
+      "id": 92,
+      "section": "Expansion of Solids and Liquids",
+      "question": "The anomalous expansion of water occurs between",
+      "options": ["0 °C and 4 °C", "4 °C and 100 °C", "-4 °C and 0 °C", "0 °C and 100 °C"],
+      "answer": "A"
+    },
+    {
+      "id": 93,
+      "section": "Expansion of Solids and Liquids",
+      "question": "The expansion of a liquid in a container is called",
+      "options": ["Real expansion", "Apparent expansion", "Linear expansion", "Volume expansion"],
+      "answer": "B"
+    },
+    {
+      "id": 94,
+      "section": "Expansion of Solids and Liquids",
+      "question": "Real expansivity of a liquid is equal to",
+      "options": ["Apparent expansivity + Expansivity of the container", "Apparent expansivity - Expansivity of the container", "Apparent expansivity × Expansivity of the container", "Apparent expansivity / Expansivity of the container"],
+      "answer": "A"
+    },
+    {
+      "id": 95,
+      "section": "Expansion of Solids and Liquids",
+      "question": "A metal rod of length 2 m is heated through 50 °C. If its linear expansivity is 2 × 10⁻⁵ K⁻¹, the increase in length is",
+      "options": ["0.001 m", "0.002 m", "0.01 m", "0.02 m"],
+      "answer": "B"
+    },
+    {
+      "id": 96,
+      "section": "Expansion of Solids and Liquids",
+      "question": "The expansion of solids can cause",
+      "options": ["Cracking of glass", "Sagging of wires", "Bursting of pipes", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 97,
+      "section": "Expansion of Solids and Liquids",
+      "question": "Which of the following expands the most for the same temperature rise?",
+      "options": ["Solids", "Liquids", "Gases", "All expand equally"],
+      "answer": "C"
+    },
+    {
+      "id": 98,
+      "section": "Expansion of Solids and Liquids",
+      "question": "The unit of linear expansivity is",
+      "options": ["K", "K⁻¹", "m", "m⁻¹"],
+      "answer": "B"
+    },
+    {
+      "id": 99,
+      "section": "Expansion of Solids and Liquids",
+      "question": "Water shows anomalous expansion because it",
+      "options": ["Expands when heated from 0 °C to 4 °C", "Contracts when heated from 0 °C to 4 °C", "Has a high boiling point", "Has a high specific heat capacity"],
+      "answer": "B"
+    },
+    {
+      "id": 100,
+      "section": "Expansion of Solids and Liquids",
+      "question": "A metal plate has an area of 100 cm² at 0 °C. If its area expansivity is 4 × 10⁻⁵ K⁻¹, its area at 50 °C is",
+      "options": ["100.02 cm²", "100.2 cm²", "102 cm²", "120 cm²"],
+      "answer": "B"
+    },
+    {
+      "id": 101,
+      "section": "Expansion of Solids and Liquids",
+      "question": "The expansivity of a liquid is usually",
+      "options": ["Less than that of its container", "Greater than that of its container", "Equal to that of its container", "Zero"],
+      "answer": "B"
+    },
+    {
+      "id": 102,
+      "section": "Expansion of Solids and Liquids",
+      "question": "A thermometer uses the expansion of a liquid because liquid expansion is",
+      "options": ["Small and regular", "Large and regular", "Irregular", "Zero"],
+      "answer": "B"
+    },
+    {
+      "id": 103,
+      "section": "Expansion of Solids and Liquids",
+      "question": "The apparent expansion of a liquid is the expansion observed",
+      "options": ["In the liquid alone", "In the container alone", "In the liquid relative to the container", "In both liquid and container"],
+      "answer": "C"
+    },
+    {
+      "id": 104,
+      "section": "Expansion of Solids and Liquids",
+      "question": "A solid expands when heated because the",
+      "options": ["Molecules become larger", "Molecules move closer", "Average distance between molecules increases", "Number of molecules increases"],
+      "answer": "C"
+    },
+    {
+      "id": 105,
+      "section": "Expansion of Solids and Liquids",
+      "question": "The coefficient of volume expansion of a solid is approximately",
+      "options": ["Equal to linear expansion", "Twice linear expansion", "Three times linear expansion", "Half linear expansion"],
+      "answer": "C"
+    },
+    {
+      "id": 106,
+      "section": "Heat Transfer",
+      "question": "The transfer of heat through a solid material without the movement of the material is called",
+      "options": ["Convection", "Radiation", "Conduction", "Evaporation"],
+      "answer": "C"
+    },
+    {
+      "id": 107,
+      "section": "Heat Transfer",
+      "question": "Conduction occurs mainly in",
+      "options": ["Solids", "Liquids", "Gases", "Vacuum"],
+      "answer": "A"
+    },
+    {
+      "id": 108,
+      "section": "Heat Transfer",
+      "question": "The transfer of heat in liquids and gases by the actual movement of the heated particles is called",
+      "options": ["Conduction", "Convection", "Radiation", "Reflection"],
+      "answer": "B"
+    },
+    {
+      "id": 109,
+      "section": "Heat Transfer",
+      "question": "Land and sea breezes are examples of heat transfer by",
+      "options": ["Conduction", "Convection", "Radiation", "Induction"],
+      "answer": "B"
+    },
+    {
+      "id": 110,
+      "section": "Heat Transfer",
+      "question": "The transfer of heat from the sun to the earth is by",
+      "options": ["Conduction", "Convection", "Radiation", "Diffusion"],
+      "answer": "C"
+    },
+    {
+      "id": 111,
+      "section": "Heat Transfer",
+      "question": "Which of the following surfaces is the best absorber of radiant heat?",
+      "options": ["White surface", "Polished surface", "Dull black surface", "Silver surface"],
+      "answer": "C"
+    },
+    {
+      "id": 112,
+      "section": "Heat Transfer",
+      "question": "A vacuum flask minimizes heat loss by",
+      "options": ["Conduction and convection", "Convection and radiation", "Conduction, convection and radiation", "Radiation only"],
+      "answer": "C"
+    },
+    {
+      "id": 113,
+      "section": "Heat Transfer",
+      "question": "Good conductors of heat are usually",
+      "options": ["Non-metals", "Metals", "Gases", "Liquids"],
+      "answer": "B"
+    },
+    {
+      "id": 114,
+      "section": "Heat Transfer",
+      "question": "Which of the following is a poor conductor of heat?",
+      "options": ["Copper", "Aluminum", "Wood", "Iron"],
+      "answer": "C"
+    },
+    {
+      "id": 115,
+      "section": "Heat Transfer",
+      "question": "Radiation of heat does not require a",
+      "options": ["Source of heat", "Medium", "Receiver", "Temperature difference"],
+      "answer": "B"
+    },
+    {
+      "id": 116,
+      "section": "Heat Transfer",
+      "question": "The greenhouse effect is due to the",
+      "options": ["Trapping of infrared radiation by atmospheric gases", "Reflection of ultraviolet radiation", "Conduction of heat by the atmosphere", "Convection currents in the atmosphere"],
+      "answer": "A"
+    },
+    {
+      "id": 117,
+      "section": "Heat Transfer",
+      "question": "A thermos flask is designed to reduce heat loss by",
+      "options": ["Conduction only", "Convection only", "Radiation only", "All three modes of heat transfer"],
+      "answer": "D"
+    },
+    {
+      "id": 118,
+      "section": "Heat Transfer",
+      "question": "The mode of heat transfer that can occur in a vacuum is",
+      "options": ["Conduction", "Convection", "Radiation", "All of the above"],
+      "answer": "C"
+    },
+    {
+      "id": 119,
+      "section": "Heat Transfer",
+      "question": "Sea breeze occurs during the",
+      "options": ["Day", "Night", "Morning", "Evening"],
+      "answer": "A"
+    },
+    {
+      "id": 120,
+      "section": "Heat Transfer",
+      "question": "The handle of a cooking pot is usually made of plastic because plastic is a",
+      "options": ["Good conductor of heat", "Poor conductor of heat", "Good radiator of heat", "Good absorber of heat"],
+      "answer": "B"
+    },
+    {
+      "id": 121,
+      "section": "Gas Laws",
+      "question": "Boyle’s law states that the volume of a fixed mass of gas is inversely proportional to its pressure at constant",
+      "options": ["Volume", "Temperature", "Mass", "Density"],
+      "answer": "B"
+    },
+    {
+      "id": 122,
+      "section": "Gas Laws",
+      "question": "Charles’ law states that the volume of a fixed mass of gas is directly proportional to its absolute temperature at constant",
+      "options": ["Pressure", "Volume", "Mass", "Density"],
+      "answer": "A"
+    },
+    {
+      "id": 123,
+      "section": "Gas Laws",
+      "question": "The pressure law (Gay-Lussac’s law) states that the pressure of a fixed mass of gas is directly proportional to its absolute temperature at constant",
+      "options": ["Pressure", "Volume", "Mass", "Density"],
+      "answer": "B"
+    },
+    {
+      "id": 124,
+      "section": "Gas Laws",
+      "question": "The general gas law is given by",
+      "options": ["PV = nRT", "P₁V₁ = P₂V₂", "V₁/T₁ = V₂/T₂", "P₁/T₁ = P₂/T₂"],
+      "answer": "A"
+    },
+    {
+      "id": 125,
+      "section": "Gas Laws",
+      "question": "A gas occupies a volume of 2 m³ at a pressure of 3 atm. If the pressure is increased to 6 atm at constant temperature, the new volume is",
+      "options": ["1 m³", "2 m³", "4 m³", "6 m³"],
+      "answer": "A"
+    },
+    {
+      "id": 126,
+      "section": "Gas Laws",
+      "question": "The absolute temperature scale is the",
+      "options": ["Celsius scale", "Fahrenheit scale", "Kelvin scale", "Rankine scale"],
+      "answer": "C"
+    },
+    {
+      "id": 127,
+      "section": "Gas Laws",
+      "question": "At constant pressure, the volume of a gas is directly proportional to its",
+      "options": ["Celsius temperature", "Kelvin temperature", "Pressure", "Mass"],
+      "answer": "B"
+    },
+    {
+      "id": 128,
+      "section": "Gas Laws",
+      "question": "The kinetic molecular theory of gases explains the gas laws in terms of",
+      "options": ["Static particles", "Random motion of particles", "Attractive forces between particles", "Large particle size"],
+      "answer": "B"
+    },
+    {
+      "id": 129,
+      "section": "Gas Laws",
+      "question": "A gas at 27 °C has a volume of 300 cm³. At what temperature will its volume be 600 cm³ at constant pressure?",
+      "options": ["54 °C", "327 °C", "600 °C", "600 K"],
+      "answer": "B"
+    },
+    {
+      "id": 130,
+      "section": "Gas Laws",
+      "question": "The pressure of a fixed mass of gas is inversely proportional to its volume at constant temperature. This is",
+      "options": ["Charles’ law", "Boyle’s law", "Pressure law", "Avogadro’s law"],
+      "answer": "B"
+    },
+    {
+      "id": 131,
+      "section": "Gas Laws",
+      "question": "Which of the following is NOT a gas law?",
+      "options": ["Boyle’s law", "Charles’ law", "Ohm’s law", "Pressure law"],
+      "answer": "C"
+    },
+    {
+      "id": 132,
+      "section": "Gas Laws",
+      "question": "A gas has a pressure of 2 atm at 300 K. If the temperature is raised to 600 K at constant volume, the pressure becomes",
+      "options": ["1 atm", "2 atm", "4 atm", "8 atm"],
+      "answer": "C"
+    },
+    {
+      "id": 133,
+      "section": "Gas Laws",
+      "question": "The value of the universal gas constant R is approximately",
+      "options": ["8.31 J/mol·K", "3.14 J/mol·K", "9.81 J/mol·K", "1.38 J/mol·K"],
+      "answer": "A"
+    },
+    {
+      "id": 134,
+      "section": "Gas Laws",
+      "question": "At constant temperature, if the volume of a gas is halved, its pressure will",
+      "options": ["Halve", "Double", "Remain the same", "Become zero"],
+      "answer": "B"
+    },
+    {
+      "id": 135,
+      "section": "Gas Laws",
+      "question": "The pressure of a gas is due to",
+      "options": ["The weight of the gas", "Collisions of gas molecules with the walls of the container", "The attraction between molecules", "The volume of the molecules"],
+      "answer": "B"
+    },
+    {
+      "id": 136,
+      "section": "Fields",
+      "question": "A region where a body experiences a force is called a",
+      "options": ["Power", "Field", "Work", "Energy"],
+      "answer": "B"
+    },
+    {
+      "id": 137,
+      "section": "Fields",
+      "question": "Which of the following is NOT a type of field?",
+      "options": ["Magnetic field", "Electric field", "Gravitational field", "Thermal field"],
+      "answer": "D"
+    },
+    {
+      "id": 138,
+      "section": "Fields",
+      "question": "The gravitational field is always",
+      "options": ["Attractive", "Repulsive", "Neutral", "Variable"],
+      "answer": "A"
+    },
+    {
+      "id": 139,
+      "section": "Fields",
+      "question": "The acceleration due to gravity on the earth’s surface is approximately",
+      "options": ["5.0 m/s²", "9.8 m/s²", "15.0 m/s²", "20.0 m/s²"],
+      "answer": "B"
+    },
+    {
+      "id": 140,
+      "section": "Fields",
+      "question": "Electric lines of force",
+      "options": ["Cross each other", "Start from negative and end on positive", "Never cross each other", "Are parallel to the surface"],
+      "answer": "C"
+    },
+    {
+      "id": 141,
+      "section": "Fields",
+      "question": "The magnetic field of a bar magnet is strongest at the",
+      "options": ["Center", "Poles", "Sides", "Middle"],
+      "answer": "B"
+    },
+    {
+      "id": 142,
+      "section": "Fields",
+      "question": "Which of the following is a vector field?",
+      "options": ["Temperature field", "Pressure field", "Gravitational field", "Density field"],
+      "answer": "C"
+    },
+    {
+      "id": 143,
+      "section": "Fields",
+      "question": "The shape of the earth is an oblate spheroid due to",
+      "options": ["Gravitational field", "Magnetic field", "Rotation of the earth", "Atmospheric pressure"],
+      "answer": "C"
+    },
+    {
+      "id": 144,
+      "section": "Fields",
+      "question": "A lightning conductor protects tall buildings by",
+      "options": ["Attracting lightning", "Conducting lightning to the ground", "Repelling lightning", "Storing lightning"],
+      "answer": "B"
+    },
+    {
+      "id": 145,
+      "section": "Fields",
+      "question": "The unit of electric field intensity is",
+      "options": ["N/C", "C/N", "J/C", "V/m"],
+      "answer": "A"
+    },
+    {
+      "id": 146,
+      "section": "Fields",
+      "question": "The force between two point charges is given by",
+      "options": ["Newton’s law", "Coulomb’s law", "Ohm’s law", "Boyle’s law"],
+      "answer": "B"
+    },
+    {
+      "id": 147,
+      "section": "Fields",
+      "question": "The gravitational force between two masses is",
+      "options": ["Directly proportional to the product of the masses", "Inversely proportional to the product of the masses", "Directly proportional to the distance between them", "Independent of the masses"],
+      "answer": "A"
+    },
+    {
+      "id": 148,
+      "section": "Fields",
+      "question": "The direction of electric field lines is",
+      "options": ["From positive to negative", "From negative to positive", "From north to south", "From south to north"],
+      "answer": "A"
+    },
+    {
+      "id": 149,
+      "section": "Fields",
+      "question": "A field line is a line drawn such that its tangent at any point gives the",
+      "options": ["Magnitude of the field", "Direction of the field", "Both magnitude and direction", "Neither magnitude nor direction"],
+      "answer": "B"
+    },
+    {
+      "id": 150,
+      "section": "Fields",
+      "question": "The gravitational potential energy of a body of mass m at height h is given by",
+      "options": ["mgh", "½mv²", "mv", "ma"],
+      "answer": "A"
+    },
+    {
+      "id": 151,
+      "section": "Fields",
+      "question": "Iron filings are used to",
+      "options": ["Visualize magnetic field lines", "Measure electric current", "Detect gravitational field", "Measure temperature"],
+      "answer": "A"
+    },
+    {
+      "id": 152,
+      "section": "Fields",
+      "question": "The earth’s gravitational field is directed",
+      "options": ["Upwards", "Downwards", "Horizontally", "Randomly"],
+      "answer": "B"
+    },
+    {
+      "id": 153,
+      "section": "Fields",
+      "question": "Which of the following is a property of electric field lines?",
+      "options": ["They are closed loops", "They originate from positive charges and terminate on negative charges", "They cross each other", "They are always straight"],
+      "answer": "B"
+    },
+    {
+      "id": 154,
+      "section": "Fields",
+      "question": "The force of attraction between two masses is 10 N. If the distance between them is doubled, the force becomes",
+      "options": ["2.5 N", "5 N", "20 N", "40 N"],
+      "answer": "A"
+    },
+    {
+      "id": 155,
+      "section": "Fields",
+      "question": "The concept of field was introduced by",
+      "options": ["Isaac Newton", "Michael Faraday", "Albert Einstein", "James Clerk Maxwell"],
+      "answer": "B"
+    },
+    {
+      "id": 156,
+      "section": "Electric Charges",
+      "question": "There are two types of electric charges, namely",
+      "options": ["Positive and negative", "North and south", "Static and current", "Conductors and insulators"],
+      "answer": "A"
+    },
+    {
+      "id": 157,
+      "section": "Electric Charges",
+      "question": "Which of the following is a method of producing electric charges?",
+      "options": ["Friction", "Induction", "Conduction", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 158,
+      "section": "Electric Charges",
+      "question": "An ebonite rod can be charged by",
+      "options": ["Friction", "Heating", "Cooling", "Melting"],
+      "answer": "A"
+    },
+    {
+      "id": 159,
+      "section": "Electric Charges",
+      "question": "The instrument used to detect electric charges is",
+      "options": ["Ammeter", "Voltmeter", "Gold-leaf electroscope", "Galvanometer"],
+      "answer": "C"
+    },
+    {
+      "id": 160,
+      "section": "Electric Charges",
+      "question": "Like charges",
+      "options": ["Attract each other", "Repel each other", "Neutralize each other", "Have no effect on each other"],
+      "answer": "B"
+    },
+    {
+      "id": 161,
+      "section": "Electric Charges",
+      "question": "Unlike charges",
+      "options": ["Attract each other", "Repel each other", "Neutralize each other", "Have no effect on each other"],
+      "answer": "A"
+    },
+    {
+      "id": 162,
+      "section": "Electric Charges",
+      "question": "Charging by induction involves",
+      "options": ["Direct contact", "Bringing a charged body near a neutral body", "Rubbing two bodies together", "Heating a body"],
+      "answer": "B"
+    },
+    {
+      "id": 163,
+      "section": "Electric Charges",
+      "question": "The unit of electric charge is",
+      "options": ["Ampere", "Volt", "Coulomb", "Ohm"],
+      "answer": "C"
+    },
+    {
+      "id": 164,
+      "section": "Electric Charges",
+      "question": "A lightning conductor is made of",
+      "options": ["Insulating material", "Conducting material", "Semiconducting material", "Plastic"],
+      "answer": "B"
+    },
+    {
+      "id": 165,
+      "section": "Electric Charges",
+      "question": "The distribution of charges on a conductor is affected by the",
+      "options": ["Mass of the conductor", "Surface curvature of the conductor", "Temperature of the conductor", "Volume of the conductor"],
+      "answer": "B"
+    },
+    {
+      "id": 166,
+      "section": "Electric Charges",
+      "question": "An electrophorus is used to",
+      "options": ["Store electric charges", "Measure electric current", "Detect magnetic field", "Measure temperature"],
+      "answer": "A"
+    },
+    {
+      "id": 167,
+      "section": "Electric Charges",
+      "question": "When a glass rod is rubbed with silk, the glass rod becomes",
+      "options": ["Positively charged", "Negatively charged", "Neutral", "Magnetic"],
+      "answer": "A"
+    },
+    {
+      "id": 168,
+      "section": "Electric Charges",
+      "question": "The process of charging a body by rubbing it with another body is called",
+      "options": ["Induction", "Conduction", "Friction", "Convection"],
+      "answer": "C"
+    },
+    {
+      "id": 169,
+      "section": "Electric Charges",
+      "question": "Charges are concentrated at the",
+      "options": ["Flat surfaces of a conductor", "Sharp points of a conductor", "Center of a conductor", "Middle of a conductor"],
+      "answer": "B"
+    },
+    {
+      "id": 170,
+      "section": "Electric Charges",
+      "question": "Two positive charges of 2 μC and 3 μC are separated by a distance of 0.1 m. The force between them is (k = 9 × 10⁹ N·m²/C²)",
+      "options": ["5.4 N", "54 N", "540 N", "5400 N"],
+      "answer": "A"
+    },
+    {
+      "id": 171,
+      "section": "Current Electricity",
+      "question": "Electric current is the rate of flow of",
+      "options": ["Charge", "Voltage", "Resistance", "Power"],
+      "answer": "A"
+    },
+    {
+      "id": 172,
+      "section": "Current Electricity",
+      "question": "The unit of electric current is",
+      "options": ["Volt", "Ohm", "Ampere", "Watt"],
+      "answer": "C"
+    },
+    {
+      "id": 173,
+      "section": "Current Electricity",
+      "question": "Ohm’s law states that the current flowing through a metallic conductor is directly proportional to the",
+      "options": ["Resistance", "Potential difference", "Length", "Area"],
+      "answer": "B"
+    },
+    {
+      "id": 174,
+      "section": "Current Electricity",
+      "question": "The unit of resistance is",
+      "options": ["Ampere", "Volt", "Ohm", "Watt"],
+      "answer": "C"
+    },
+    {
+      "id": 175,
+      "section": "Current Electricity",
+      "question": "A potential difference of 12 V is applied across a resistor of 4 Ω. The current flowing is",
+      "options": ["3 A", "4 A", "12 A", "48 A"],
+      "answer": "A"
+    },
+    {
+      "id": 176,
+      "section": "Current Electricity",
+      "question": "The instrument used to measure electric current is",
+      "options": ["Voltmeter", "Ammeter", "Galvanometer", "Ohmmeter"],
+      "answer": "B"
+    },
+    {
+      "id": 177,
+      "section": "Current Electricity",
+      "question": "The instrument used to measure potential difference is",
+      "options": ["Ammeter", "Voltmeter", "Galvanometer", "Ohmmeter"],
+      "answer": "B"
+    },
+    {
+      "id": 178,
+      "section": "Current Electricity",
+      "question": "Electrical work done is given by",
+      "options": ["W = IVt", "W = IR", "W = V/R", "W = I/V"],
+      "answer": "A"
+    },
+    {
+      "id": 179,
+      "section": "Current Electricity",
+      "question": "The resistance of a wire is directly proportional to its",
+      "options": ["Length", "Area", "Temperature", "Current"],
+      "answer": "A"
+    },
+    {
+      "id": 180,
+      "section": "Current Electricity",
+      "question": "The resistance of a wire is inversely proportional to its",
+      "options": ["Length", "Cross-sectional area", "Resistivity", "Temperature"],
+      "answer": "B"
+    },
+    {
+      "id": 181,
+      "section": "Current Electricity",
+      "question": "A resistor of 5 Ω carries a current of 2 A. The potential difference across it is",
+      "options": ["2.5 V", "7 V", "10 V", "20 V"],
+      "answer": "C"
+    },
+    {
+      "id": 182,
+      "section": "Current Electricity",
+      "question": "Electrical power is given by",
+      "options": ["P = IV", "P = I/R", "P = V/R", "P = I²/V"],
+      "answer": "A"
+    },
+    {
+      "id": 183,
+      "section": "Current Electricity",
+      "question": "The unit of electrical energy is",
+      "options": ["Watt", "Joule", "Ampere", "Volt"],
+      "answer": "B"
+    },
+    {
+      "id": 184,
+      "section": "Current Electricity",
+      "question": "A current of 2 A flows through a resistor for 10 s under a potential difference of 12 V. The work done is",
+      "options": ["24 J", "120 J", "240 J", "1200 J"],
+      "answer": "C"
+    },
+    {
+      "id": 185,
+      "section": "Current Electricity",
+      "question": "Which of the following is a conductor of electricity?",
+      "options": ["Rubber", "Plastic", "Copper", "Wood"],
+      "answer": "C"
+    },
+    {
+      "id": 186,
+      "section": "Particulate Nature of Matter",
+      "question": "Matter is made up of tiny particles called",
+      "options": ["Atoms", "Cells", "Organs", "Tissues"],
+      "answer": "A"
+    },
+    {
+      "id": 187,
+      "section": "Particulate Nature of Matter",
+      "question": "The movement of particles from a region of higher concentration to a region of lower concentration is called",
+      "options": ["Diffusion", "Osmosis", "Brownian motion", "Capillarity"],
+      "answer": "A"
+    },
+    {
+      "id": 188,
+      "section": "Particulate Nature of Matter",
+      "question": "Brownian motion is the",
+      "options": ["Random motion of particles suspended in a fluid", "Motion of particles in a solid", "Motion of planets", "Motion of a pendulum"],
+      "answer": "A"
+    },
+    {
+      "id": 189,
+      "section": "Particulate Nature of Matter",
+      "question": "The three states of matter are",
+      "options": ["Solid, liquid, gas", "Solid, liquid, plasma", "Liquid, gas, plasma", "Solid, gas, plasma"],
+      "answer": "A"
+    },
+    {
+      "id": 190,
+      "section": "Particulate Nature of Matter",
+      "question": "Which of the following is a crystalline substance?",
+      "options": ["Glass", "Plastic", "Sodium chloride", "Rubber"],
+      "answer": "C"
+    },
+    {
+      "id": 191,
+      "section": "Particulate Nature of Matter",
+      "question": "An amorphous substance is one that",
+      "options": ["Has a regular arrangement of atoms", "Has no regular arrangement of atoms", "Is always solid", "Is always liquid"],
+      "answer": "B"
+    },
+    {
+      "id": 192,
+      "section": "Particulate Nature of Matter",
+      "question": "The basic unit of matter is the",
+      "options": ["Molecule", "Atom", "Ion", "Compound"],
+      "answer": "B"
+    },
+    {
+      "id": 193,
+      "section": "Particulate Nature of Matter",
+      "question": "The kinetic theory of matter states that particles of matter are",
+      "options": ["Stationary", "In constant random motion", "Attracted to each other only", "Repelled from each other only"],
+      "answer": "B"
+    },
+    {
+      "id": 194,
+      "section": "Particulate Nature of Matter",
+      "question": "Diffusion is fastest in",
+      "options": ["Solids", "Liquids", "Gases", "All states equally"],
+      "answer": "C"
+    },
+    {
+      "id": 195,
+      "section": "Particulate Nature of Matter",
+      "question": "The spreading of the smell of perfume in a room is an example of",
+      "options": ["Diffusion", "Convection", "Radiation", "Conduction"],
+      "answer": "A"
+    },
+    {
+      "id": 196,
+      "section": "Particulate Nature of Matter",
+      "question": "Which of the following provides evidence for the particle nature of matter?",
+      "options": ["Diffusion", "Brownian motion", "Crystal structure", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 197,
+      "section": "Particulate Nature of Matter",
+      "question": "The particles of a gas are",
+      "options": ["Closely packed", "Far apart", "Fixed in position", "Vibrating about a fixed point"],
+      "answer": "B"
+    },
+    {
+      "id": 198,
+      "section": "Particulate Nature of Matter",
+      "question": "The process by which a solid changes directly to a gas is called",
+      "options": ["Sublimation", "Evaporation", "Condensation", "Melting"],
+      "answer": "A"
+    },
+    {
+      "id": 199,
+      "section": "Particulate Nature of Matter",
+      "question": "The average kinetic energy of the particles of a substance is proportional to its",
+      "options": ["Pressure", "Volume", "Absolute temperature", "Mass"],
+      "answer": "C"
+    },
+    {
+      "id": 200,
+      "section": "Particulate Nature of Matter",
+      "question": "Which of the following is an example of an amorphous substance?",
+      "options": ["Diamond", "Sugar", "Glass", "Copper sulphate"],
+      "answer": "C"
+    }
+  ]
+}
+```

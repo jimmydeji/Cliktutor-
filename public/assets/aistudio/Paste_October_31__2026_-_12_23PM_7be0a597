@@ -1,0 +1,1404 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "Electromagnetic Induction",
+      "question": "Electromagnetic induction is the process of producing an electric current from a",
+      "options": ["Steady magnetic field", "Changing magnetic field", "Steady electric field", "Changing gravitational field"],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "section": "Electromagnetic Induction",
+      "question": "Faraday's law of electromagnetic induction states that the induced e.m.f. is proportional to the rate of change of",
+      "options": ["Current", "Magnetic flux", "Resistance", "Voltage"],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "section": "Electromagnetic Induction",
+      "question": "Lenz's law states that the direction of the induced current is such as to oppose the",
+      "options": ["Change producing it", "Magnetic field", "Electric field", "Gravitational field"],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "section": "Electromagnetic Induction",
+      "question": "The unit of magnetic flux is the",
+      "options": ["Tesla", "Weber", "Henry", "Farad"],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "section": "Electromagnetic Induction",
+      "question": "The unit of magnetic flux density is the",
+      "options": ["Weber", "Tesla", "Henry", "Farad"],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "section": "Electromagnetic Induction",
+      "question": "A coil of wire rotating in a magnetic field produces",
+      "options": ["Direct current", "Alternating current", "Steady current", "No current"],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "section": "Electromagnetic Induction",
+      "question": "The device that converts mechanical energy into electrical energy using electromagnetic induction is a",
+      "options": ["Motor", "Generator", "Transformer", "Battery"],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "section": "Electromagnetic Induction",
+      "question": "The magnitude of the induced e.m.f. in a coil can be increased by",
+      "options": ["Decreasing the number of turns", "Increasing the rate of change of magnetic flux", "Decreasing the area of the coil", "Using a weaker magnet"],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "section": "Electromagnetic Induction",
+      "question": "The principle of electromagnetic induction is applied in",
+      "options": ["Electric motor", "Generator", "Transformer", "Both B and C"],
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "section": "Electromagnetic Induction",
+      "question": "A changing magnetic flux through a coil induces an e.m.f. This is known as",
+      "options": ["Self-induction", "Mutual induction", "Electromagnetic induction", "Magnetic induction"],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "section": "Electromagnetic Induction",
+      "question": "Self-induction is the property of a coil by which a change in current in the coil induces an e.m.f. in",
+      "options": ["Another coil", "The same coil", "A resistor", "A capacitor"],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "section": "Electromagnetic Induction",
+      "question": "The unit of self-inductance is the",
+      "options": ["Henry", "Weber", "Tesla", "Farad"],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "section": "Electromagnetic Induction",
+      "question": "Mutual induction occurs between two coils when",
+      "options": ["They are connected in series", "A changing current in one induces an e.m.f. in the other", "They have the same resistance", "They are parallel"],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "section": "Electromagnetic Induction",
+      "question": "An induction coil is used to",
+      "options": ["Produce high voltage from low voltage", "Produce direct current", "Store charge", "Measure current"],
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "section": "Electromagnetic Induction",
+      "question": "The dynamo is an application of",
+      "options": ["Electrostatics", "Electromagnetic induction", "Thermionic emission", "Photoelectric effect"],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "section": "Electromagnetic Induction",
+      "question": "A metallic rod moving through a magnetic field experiences a force that causes",
+      "options": ["Charge separation", "Magnetization", "Heating", "Fusion"],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "section": "Electromagnetic Induction",
+      "question": "The magnitude of induced e.m.f. in a straight conductor moving in a magnetic field is given by",
+      "options": ["E = Blv", "E = B/lv", "E = Bv/l", "E = lv/B"],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "section": "Electromagnetic Induction",
+      "question": "The direction of induced current in a straight conductor moving in a magnetic field is given by",
+      "options": ["Fleming's left-hand rule", "Fleming's right-hand rule", "Lenz's law", "Ampere's rule"],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "section": "Electromagnetic Induction",
+      "question": "Which of the following does NOT affect the magnitude of induced e.m.f. in a coil?",
+      "options": ["Number of turns", "Rate of change of magnetic flux", "Resistance of the coil", "Area of the coil"],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "section": "Electromagnetic Induction",
+      "question": "The principle of the induction coil is used in the",
+      "options": ["Car ignition system", "Electric bell", "Telephone", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "section": "Electromagnetic Induction",
+      "question": "A coil of 200 turns has a magnetic flux changing at a rate of 0.05 Wb/s. The induced e.m.f. is",
+      "options": ["1 V", "5 V", "10 V", "100 V"],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "section": "Electromagnetic Induction",
+      "question": "Eddy currents are produced in a conductor when it is subjected to",
+      "options": ["A steady magnetic field", "A changing magnetic field", "A steady electric field", "A changing electric field"],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "section": "Electromagnetic Induction",
+      "question": "Eddy currents can be reduced by",
+      "options": ["Using a solid conductor", "Laminating the core", "Increasing the frequency", "Using a thicker conductor"],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "section": "Electromagnetic Induction",
+      "question": "The principle of the transformer is based on",
+      "options": ["Self-induction", "Mutual induction", "Electrostatic induction", "Thermionic emission"],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "section": "Electromagnetic Induction",
+      "question": "Which of the following is NOT an application of electromagnetic induction?",
+      "options": ["Generator", "Transformer", "Induction coil", "Electric heater"],
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "Alternating current is one that",
+      "options": ["Flows in one direction only", "Changes direction periodically", "Is always constant", "Has zero frequency"],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "The frequency of the mains electricity supply in Nigeria is",
+      "options": ["50 Hz", "60 Hz", "100 Hz", "220 Hz"],
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "The root-mean-square (r.m.s.) value of an alternating current is the value that produces the same",
+      "options": ["Heat as a direct current of the same magnitude", "Voltage as a direct current", "Resistance as a direct current", "Power as a direct current"],
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "The relationship between the peak value (I₀) and the r.m.s. value (I_rms) of an alternating current is",
+      "options": ["I_rms = I₀", "I_rms = I₀/√2", "I_rms = I₀√2", "I_rms = I₀/2"],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "The peak value of an a.c. voltage with an r.m.s. value of 220 V is approximately",
+      "options": ["110 V", "220 V", "311 V", "440 V"],
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "A device that converts alternating current to direct current is a",
+      "options": ["Transformer", "Rectifier", "Capacitor", "Inductor"],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "In an a.c. circuit containing only a resistor, the current and voltage are",
+      "options": ["In phase", "Out of phase by 90°", "Out of phase by 180°", "Out of phase by 45°"],
+      "answer": "A"
+    },
+    {
+      "id": 33,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "In an a.c. circuit containing only an inductor, the current",
+      "options": ["Leads the voltage by 90°", "Lags the voltage by 90°", "Is in phase with the voltage", "Leads the voltage by 45°"],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "In an a.c. circuit containing only a capacitor, the current",
+      "options": ["Leads the voltage by 90°", "Lags the voltage by 90°", "Is in phase with the voltage", "Lags the voltage by 45°"],
+      "answer": "A"
+    },
+    {
+      "id": 35,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "The opposition to the flow of alternating current by an inductor is called",
+      "options": ["Resistance", "Capacitance", "Inductive reactance", "Impedance"],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "The opposition to the flow of alternating current by a capacitor is called",
+      "options": ["Resistance", "Capacitive reactance", "Inductive reactance", "Impedance"],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "The total opposition to the flow of alternating current in a circuit is called",
+      "options": ["Resistance", "Reactance", "Impedance", "Conductance"],
+      "answer": "C"
+    },
+    {
+      "id": 38,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "The unit of impedance is the",
+      "options": ["Volt", "Ampere", "Ohm", "Watt"],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "In a series RLC circuit, resonance occurs when",
+      "options": ["Inductive reactance equals capacitive reactance", "Resistance equals inductive reactance", "Resistance equals capacitive reactance", "Impedance is maximum"],
+      "answer": "A"
+    },
+    {
+      "id": 40,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "At resonance in a series RLC circuit, the current is",
+      "options": ["Zero", "Minimum", "Maximum", "Equal to the voltage"],
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "The power factor of an a.c. circuit is given by",
+      "options": ["sin φ", "cos φ", "tan φ", "cot φ"],
+      "answer": "B"
+    },
+    {
+      "id": 42,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "The average power in an a.c. circuit is given by",
+      "options": ["P = VI", "P = VI cos φ", "P = VI sin φ", "P = VI tan φ"],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "A transformer is used to",
+      "options": ["Increase or decrease a.c. voltage", "Convert a.c. to d.c.", "Convert d.c. to a.c.", "Store electrical energy"],
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "The turns ratio of a transformer is 5:1. If the primary voltage is 220 V, the secondary voltage is",
+      "options": ["44 V", "110 V", "440 V", "1100 V"],
+      "answer": "A"
+    },
+    {
+      "id": 45,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "A step-up transformer has",
+      "options": ["More turns in the primary than secondary", "More turns in the secondary than primary", "Equal turns in both coils", "No turns"],
+      "answer": "B"
+    },
+    {
+      "id": 46,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "The efficiency of a transformer is usually",
+      "options": ["Less than 100%", "Exactly 100%", "Greater than 100%", "Zero"],
+      "answer": "A"
+    },
+    {
+      "id": 47,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "Eddy current losses in a transformer are reduced by",
+      "options": ["Using a solid iron core", "Laminating the core", "Increasing the frequency", "Using a thicker wire"],
+      "answer": "B"
+    },
+    {
+      "id": 48,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "The primary coil of a transformer has 1000 turns and the secondary 500 turns. If the primary current is 2 A, the secondary current is (assuming ideal transformer)",
+      "options": ["1 A", "2 A", "4 A", "8 A"],
+      "answer": "C"
+    },
+    {
+      "id": 49,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "Which of the following is NOT a loss in a transformer?",
+      "options": ["Copper loss", "Eddy current loss", "Hysteresis loss", "Capacitive loss"],
+      "answer": "D"
+    },
+    {
+      "id": 50,
+      "section": "Alternating Current (AC) Circuits",
+      "question": "A transformer works on",
+      "options": ["Direct current", "Alternating current", "Both a.c. and d.c.", "Neither a.c. nor d.c."],
+      "answer": "B"
+    },
+    {
+      "id": 51,
+      "section": "Transformers",
+      "question": "The principle of operation of a transformer is",
+      "options": ["Self-induction", "Mutual induction", "Electrostatic induction", "Thermionic emission"],
+      "answer": "B"
+    },
+    {
+      "id": 52,
+      "section": "Transformers",
+      "question": "A step-down transformer is used in",
+      "options": ["Power transmission", "Battery chargers", "Electric bells", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 53,
+      "section": "Transformers",
+      "question": "The core of a transformer is made of soft iron to",
+      "options": ["Increase eddy currents", "Reduce hysteresis loss", "Increase resistance", "Decrease magnetic flux"],
+      "answer": "B"
+    },
+    {
+      "id": 54,
+      "section": "Transformers",
+      "question": "The ratio of secondary voltage to primary voltage in a transformer is equal to the ratio of",
+      "options": ["Secondary turns to primary turns", "Primary turns to secondary turns", "Secondary current to primary current", "Primary current to secondary current"],
+      "answer": "A"
+    },
+    {
+      "id": 55,
+      "section": "Transformers",
+      "question": "An ideal transformer has an efficiency of",
+      "options": ["50%", "75%", "100%", "0%"],
+      "answer": "C"
+    },
+    {
+      "id": 56,
+      "section": "Transformers",
+      "question": "The primary of a transformer is connected to a 240 V supply. If the secondary has 200 turns and the primary 400 turns, the secondary voltage is",
+      "options": ["60 V", "120 V", "240 V", "480 V"],
+      "answer": "B"
+    },
+    {
+      "id": 57,
+      "section": "Transformers",
+      "question": "Power transmission at high voltage is advantageous because",
+      "options": ["It reduces power loss in cables", "It increases current", "It reduces voltage", "It increases resistance"],
+      "answer": "A"
+    },
+    {
+      "id": 58,
+      "section": "Transformers",
+      "question": "A transformer with a turns ratio of 1:10 is a",
+      "options": ["Step-down transformer", "Step-up transformer", "Isolation transformer", "Auto-transformer"],
+      "answer": "B"
+    },
+    {
+      "id": 59,
+      "section": "Transformers",
+      "question": "The main reason for using a laminated core in a transformer is to reduce",
+      "options": ["Copper loss", "Eddy current loss", "Hysteresis loss", "Magnetic flux"],
+      "answer": "B"
+    },
+    {
+      "id": 60,
+      "section": "Transformers",
+      "question": "If the primary coil of a transformer has 500 turns and the secondary 50 turns, and the primary voltage is 240 V, the secondary voltage is",
+      "options": ["12 V", "24 V", "48 V", "240 V"],
+      "answer": "B"
+    },
+    {
+      "id": 61,
+      "section": "Transformers",
+      "question": "Which of the following is NOT true of an ideal transformer?",
+      "options": ["No power loss", "Efficiency is 100%", "Primary power equals secondary power", "It has eddy current losses"],
+      "answer": "D"
+    },
+    {
+      "id": 62,
+      "section": "Transformers",
+      "question": "The voltage ratio of a transformer is also known as the",
+      "options": ["Current ratio", "Turns ratio", "Power ratio", "Resistance ratio"],
+      "answer": "B"
+    },
+    {
+      "id": 63,
+      "section": "Transformers",
+      "question": "A transformer has an input power of 500 W and an output power of 400 W. Its efficiency is",
+      "options": ["80%", "90%", "100%", "125%"],
+      "answer": "A"
+    },
+    {
+      "id": 64,
+      "section": "Transformers",
+      "question": "The secondary coil of a step-down transformer has fewer turns than the primary because it is designed to",
+      "options": ["Increase voltage", "Decrease voltage", "Increase current", "Decrease current"],
+      "answer": "B"
+    },
+    {
+      "id": 65,
+      "section": "Transformers",
+      "question": "Which of the following is a use of a transformer?",
+      "options": ["Voltage regulation", "Impedance matching", "Electrical isolation", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 66,
+      "section": "Transformers",
+      "question": "In a transformer, the primary and secondary coils are linked by",
+      "options": ["A conducting wire", "A magnetic core", "An electric field", "A capacitor"],
+      "answer": "B"
+    },
+    {
+      "id": 67,
+      "section": "Transformers",
+      "question": "The current in the secondary coil of a transformer is 5 A. If the turns ratio is 2:1 (primary:secondary), the primary current is",
+      "options": ["2.5 A", "5 A", "10 A", "20 A"],
+      "answer": "C"
+    },
+    {
+      "id": 68,
+      "section": "Transformers",
+      "question": "The unit of transformer efficiency is",
+      "options": ["Watt", "Joule", "Percentage (%)", "Volt"],
+      "answer": "C"
+    },
+    {
+      "id": 69,
+      "section": "Transformers",
+      "question": "A transformer cannot change the frequency of an alternating current because",
+      "options": ["It uses direct current", "It works on mutual induction which preserves frequency", "It has no core", "It has a high resistance"],
+      "answer": "B"
+    },
+    {
+      "id": 70,
+      "section": "Transformers",
+      "question": "The power supplied to the primary of a transformer is 2000 W. If the efficiency is 90%, the power output is",
+      "options": ["1800 W", "2000 W", "2200 W", "180 W"],
+      "answer": "A"
+    },
+    {
+      "id": 71,
+      "section": "Electrical Measuring Instruments",
+      "question": "A galvanometer is an instrument used to detect",
+      "options": ["Large currents", "Small currents", "Voltage", "Resistance"],
+      "answer": "B"
+    },
+    {
+      "id": 72,
+      "section": "Electrical Measuring Instruments",
+      "question": "A galvanometer can be converted into an ammeter by connecting a",
+      "options": ["High resistance in series", "Low resistance in parallel", "High resistance in parallel", "Low resistance in series"],
+      "answer": "B"
+    },
+    {
+      "id": 73,
+      "section": "Electrical Measuring Instruments",
+      "question": "A galvanometer can be converted into a voltmeter by connecting a",
+      "options": ["Low resistance in series", "High resistance in series", "Low resistance in parallel", "High resistance in parallel"],
+      "answer": "B"
+    },
+    {
+      "id": 74,
+      "section": "Electrical Measuring Instruments",
+      "question": "The resistance of an ideal ammeter is",
+      "options": ["Zero", "Infinite", "Very high", "Equal to the circuit resistance"],
+      "answer": "A"
+    },
+    {
+      "id": 75,
+      "section": "Electrical Measuring Instruments",
+      "question": "The resistance of an ideal voltmeter is",
+      "options": ["Zero", "Infinite", "Very low", "Equal to the circuit resistance"],
+      "answer": "B"
+    },
+    {
+      "id": 76,
+      "section": "Electrical Measuring Instruments",
+      "question": "An ammeter is always connected in",
+      "options": ["Parallel with the circuit", "Series with the circuit", "Series with a resistor", "Parallel with a resistor"],
+      "answer": "B"
+    },
+    {
+      "id": 77,
+      "section": "Electrical Measuring Instruments",
+      "question": "A voltmeter is always connected in",
+      "options": ["Series with the circuit", "Parallel with the component", "Series with a resistor", "Parallel with the source"],
+      "answer": "B"
+    },
+    {
+      "id": 78,
+      "section": "Electrical Measuring Instruments",
+      "question": "The instrument used to measure the potential difference between two points in a circuit is the",
+      "options": ["Ammeter", "Voltmeter", "Galvanometer", "Ohmmeter"],
+      "answer": "B"
+    },
+    {
+      "id": 79,
+      "section": "Electrical Measuring Instruments",
+      "question": "A Wheatstone bridge is used to measure",
+      "options": ["Current", "Voltage", "Resistance", "Power"],
+      "answer": "C"
+    },
+    {
+      "id": 80,
+      "section": "Electrical Measuring Instruments",
+      "question": "The Wheatstone bridge is balanced when",
+      "options": ["The galvanometer shows a maximum deflection", "The galvanometer shows no deflection", "The battery is disconnected", "The resistance is zero"],
+      "answer": "B"
+    },
+    {
+      "id": 81,
+      "section": "Electrical Measuring Instruments",
+      "question": "A potentiometer is used to measure",
+      "options": ["Current", "Resistance", "Electromotive force", "Capacitance"],
+      "answer": "C"
+    },
+    {
+      "id": 82,
+      "section": "Electrical Measuring Instruments",
+      "question": "The potentiometer works on the principle that the potential difference across a uniform wire is proportional to its",
+      "options": ["Resistance", "Length", "Area", "Current"],
+      "answer": "B"
+    },
+    {
+      "id": 83,
+      "section": "Electrical Measuring Instruments",
+      "question": "A meter bridge is a practical form of the",
+      "options": ["Ammeter", "Voltmeter", "Wheatstone bridge", "Potentiometer"],
+      "answer": "C"
+    },
+    {
+      "id": 84,
+      "section": "Electrical Measuring Instruments",
+      "question": "Which of the following instruments is used to measure both a.c. and d.c. voltages?",
+      "options": ["Moving coil galvanometer", "Moving iron voltmeter", "Potentiometer", "Wheatstone bridge"],
+      "answer": "B"
+    },
+    {
+      "id": 85,
+      "section": "Electrical Measuring Instruments",
+      "question": "The deflection of a moving coil galvanometer is proportional to the",
+      "options": ["Voltage", "Current", "Resistance", "Power"],
+      "answer": "B"
+    },
+    {
+      "id": 86,
+      "section": "Electrical Measuring Instruments",
+      "question": "A shunt resistor is used to",
+      "options": ["Increase the range of an ammeter", "Increase the range of a voltmeter", "Decrease the resistance of a voltmeter", "Measure resistance"],
+      "answer": "A"
+    },
+    {
+      "id": 87,
+      "section": "Electrical Measuring Instruments",
+      "question": "A multiplier resistor is used to",
+      "options": ["Increase the range of an ammeter", "Increase the range of a voltmeter", "Decrease the range of a voltmeter", "Measure current"],
+      "answer": "B"
+    },
+    {
+      "id": 88,
+      "section": "Electrical Measuring Instruments",
+      "question": "The sensitivity of a galvanometer can be increased by",
+      "options": ["Increasing the number of turns", "Decreasing the magnetic field", "Increasing the torsional constant", "Decreasing the area of the coil"],
+      "answer": "A"
+    },
+    {
+      "id": 89,
+      "section": "Electrical Measuring Instruments",
+      "question": "An ohmmeter is used to measure",
+      "options": ["Current", "Voltage", "Resistance", "Power"],
+      "answer": "C"
+    },
+    {
+      "id": 90,
+      "section": "Electrical Measuring Instruments",
+      "question": "The accuracy of a measuring instrument is related to its",
+      "options": ["Range", "Sensitivity", "Zero error", "Least count"],
+      "answer": "D"
+    },
+    {
+      "id": 91,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "A diode is a device that allows current to flow in",
+      "options": ["Both directions", "One direction only", "No direction", "Alternating directions"],
+      "answer": "B"
+    },
+    {
+      "id": 92,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "The process of converting alternating current to direct current is called",
+      "options": ["Amplification", "Rectification", "Oscillation", "Modulation"],
+      "answer": "B"
+    },
+    {
+      "id": 93,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "A half-wave rectifier uses",
+      "options": ["One diode", "Two diodes", "Four diodes", "No diode"],
+      "answer": "A"
+    },
+    {
+      "id": 94,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "A full-wave rectifier uses",
+      "options": ["One diode", "Two diodes", "Three diodes", "Four diodes"],
+      "answer": "D"
+    },
+    {
+      "id": 95,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "The ripple factor of a full-wave rectifier is",
+      "options": ["Higher than that of a half-wave rectifier", "Lower than that of a half-wave rectifier", "Equal to that of a half-wave rectifier", "Zero"],
+      "answer": "B"
+    },
+    {
+      "id": 96,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "A capacitor connected across the output of a rectifier is used to",
+      "options": ["Increase ripple", "Smooth the output", "Convert a.c. to d.c.", "Amplify the signal"],
+      "answer": "B"
+    },
+    {
+      "id": 97,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "The arrow on a diode symbol indicates the direction of",
+      "options": ["Electron flow", "Conventional current flow", "Voltage", "Resistance"],
+      "answer": "B"
+    },
+    {
+      "id": 98,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "A light-emitting diode (LED) emits light when",
+      "options": ["Reverse biased", "Forward biased", "No bias", "Heated"],
+      "answer": "B"
+    },
+    {
+      "id": 99,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "A photodiode is used to",
+      "options": ["Emit light", "Detect light", "Rectify current", "Amplify current"],
+      "answer": "B"
+    },
+    {
+      "id": 100,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "A transistor is a device with",
+      "options": ["Two terminals", "Three terminals", "Four terminals", "One terminal"],
+      "answer": "B"
+    },
+    {
+      "id": 101,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "The three terminals of a transistor are the",
+      "options": ["Anode, cathode, grid", "Emitter, base, collector", "Source, drain, gate", "Plate, grid, cathode"],
+      "answer": "B"
+    },
+    {
+      "id": 102,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "A transistor can be used as",
+      "options": ["An amplifier", "A switch", "Both A and B", "A resistor"],
+      "answer": "C"
+    },
+    {
+      "id": 103,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "The two types of transistors are",
+      "options": ["NPN and PNP", "N-type and P-type", "Forward and reverse", "Anode and cathode"],
+      "answer": "A"
+    },
+    {
+      "id": 104,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "In an NPN transistor, the majority charge carriers are",
+      "options": ["Holes", "Electrons", "Protons", "Neutrons"],
+      "answer": "B"
+    },
+    {
+      "id": 105,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "A Zener diode is used mainly for",
+      "options": ["Rectification", "Voltage regulation", "Amplification", "Oscillation"],
+      "answer": "B"
+    },
+    {
+      "id": 106,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "The output of a full-wave rectifier is",
+      "options": ["Pulsating d.c.", "Pure a.c.", "Pure d.c.", "Zero"],
+      "answer": "A"
+    },
+    {
+      "id": 107,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "Which of the following is a semiconductor material?",
+      "options": ["Copper", "Silicon", "Aluminum", "Iron"],
+      "answer": "B"
+    },
+    {
+      "id": 108,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "Doping a semiconductor increases its",
+      "options": ["Resistance", "Conductivity", "Insulation", "Density"],
+      "answer": "B"
+    },
+    {
+      "id": 109,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "An intrinsic semiconductor is one that is",
+      "options": ["Doped with impurities", "Pure", "A good conductor", "An insulator"],
+      "answer": "B"
+    },
+    {
+      "id": 110,
+      "section": "Electronics: Diodes and Rectification",
+      "question": "The depletion layer in a diode is formed when",
+      "options": ["It is forward biased", "It is reverse biased", "P and N materials are joined", "No voltage is applied"],
+      "answer": "C"
+    },
+    {
+      "id": 111,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The photoelectric effect is the emission of electrons from a metal surface when illuminated by",
+      "options": ["Heat", "Light of suitable frequency", "Sound waves", "Magnetic field"],
+      "answer": "B"
+    },
+    {
+      "id": 112,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The minimum frequency of light required to cause photoelectric emission is called the",
+      "options": ["Threshold frequency", "Work function", "Planck's constant", "Stopping potential"],
+      "answer": "A"
+    },
+    {
+      "id": 113,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The work function of a metal is the minimum energy required to",
+      "options": ["Emit an electron from the metal surface", "Excite an electron within the metal", "Break the metal into pieces", "Heat the metal"],
+      "answer": "A"
+    },
+    {
+      "id": 114,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The photoelectric equation is given by",
+      "options": ["hf = W + K.E.", "W = hf + K.E.", "K.E. = W - hf", "hf = W - K.E."],
+      "answer": "A"
+    },
+    {
+      "id": 115,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The photoelectric effect provides evidence for the",
+      "options": ["Wave nature of light", "Particle nature of light", "Dual nature of light", "Electromagnetic nature of light"],
+      "answer": "B"
+    },
+    {
+      "id": 116,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The energy of a photon is directly proportional to its",
+      "options": ["Wavelength", "Frequency", "Amplitude", "Speed"],
+      "answer": "B"
+    },
+    {
+      "id": 117,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The momentum of a photon is given by",
+      "options": ["h/λ", "hλ", "hν", "h/ν"],
+      "answer": "A"
+    },
+    {
+      "id": 118,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The stopping potential is the potential required to",
+      "options": ["Stop the emission of electrons", "Accelerate the emitted electrons", "Reduce the kinetic energy of the emitted electrons to zero", "Increase the frequency of incident light"],
+      "answer": "C"
+    },
+    {
+      "id": 119,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The maximum kinetic energy of photoelectrons depends on the",
+      "options": ["Intensity of incident light", "Frequency of incident light", "Angle of incidence", "Duration of illumination"],
+      "answer": "B"
+    },
+    {
+      "id": 120,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "Increasing the intensity of incident light (of frequency above threshold) causes",
+      "options": ["Increase in the number of photoelectrons emitted", "Increase in the maximum kinetic energy of photoelectrons", "Decrease in the number of photoelectrons", "No change in photoelectric current"],
+      "answer": "A"
+    },
+    {
+      "id": 121,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The dual nature of light means that light behaves as",
+      "options": ["A wave only", "A particle only", "Both a wave and a particle", "Neither a wave nor a particle"],
+      "answer": "C"
+    },
+    {
+      "id": 122,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The de Broglie wavelength of a particle is given by",
+      "options": ["λ = h/p", "λ = hp", "λ = p/h", "λ = h/E"],
+      "answer": "A"
+    },
+    {
+      "id": 123,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The Planck constant has a value of approximately",
+      "options": ["6.63 × 10⁻³⁴ J·s", "3.0 × 10⁸ m/s", "1.6 × 10⁻¹⁹ C", "9.1 × 10⁻³¹ kg"],
+      "answer": "A"
+    },
+    {
+      "id": 124,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The electron volt (eV) is a unit of",
+      "options": ["Charge", "Energy", "Potential difference", "Power"],
+      "answer": "B"
+    },
+    {
+      "id": 125,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "1 eV is equal to",
+      "options": ["1.6 × 10⁻¹⁹ J", "6.63 × 10⁻³⁴ J", "9.1 × 10⁻³¹ J", "3.0 × 10⁸ J"],
+      "answer": "A"
+    },
+    {
+      "id": 126,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The threshold wavelength of a metal is 600 nm. The threshold frequency is approximately (c = 3 × 10⁸ m/s)",
+      "options": ["5 × 10¹⁴ Hz", "1.8 × 10¹⁵ Hz", "5 × 10⁵ Hz", "1.8 × 10¹⁴ Hz"],
+      "answer": "A"
+    },
+    {
+      "id": 127,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "Which of the following is an application of the photoelectric effect?",
+      "options": ["Solar cell", "Photographic camera light meter", "Photomultiplier tube", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 128,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The work function of a metal is 2.0 eV. The minimum frequency of light required to emit electrons is (h = 6.63 × 10⁻³⁴ J·s, 1 eV = 1.6 × 10⁻¹⁹ J)",
+      "options": ["4.8 × 10¹⁴ Hz", "2.4 × 10¹⁴ Hz", "9.6 × 10¹⁴ Hz", "1.2 × 10¹⁵ Hz"],
+      "answer": "A"
+    },
+    {
+      "id": 129,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The photoelectric current is directly proportional to the",
+      "options": ["Frequency of incident light", "Intensity of incident light", "Wavelength of incident light", "Work function of the metal"],
+      "answer": "B"
+    },
+    {
+      "id": 130,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The wave-particle duality is also exhibited by",
+      "options": ["Electrons", "Protons", "Neutrons", "All matter"],
+      "answer": "D"
+    },
+    {
+      "id": 131,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The energy of a photon of frequency 5 × 10¹⁴ Hz is (h = 6.63 × 10⁻³⁴ J·s)",
+      "options": ["3.3 × 10⁻¹⁹ J", "1.3 × 10⁻¹⁹ J", "6.6 × 10⁻¹⁹ J", "3.3 × 10⁻¹⁴ J"],
+      "answer": "A"
+    },
+    {
+      "id": 132,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The de Broglie wavelength of an electron accelerated through a potential difference V is proportional to",
+      "options": ["V", "1/V", "√V", "1/√V"],
+      "answer": "D"
+    },
+    {
+      "id": 133,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "Which experiment demonstrated the particle nature of light?",
+      "options": ["Young's double slit experiment", "Photoelectric effect experiment", "Diffraction experiment", "Polarization experiment"],
+      "answer": "B"
+    },
+    {
+      "id": 134,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The photoelectric effect cannot be explained by",
+      "options": ["Quantum theory", "Wave theory", "Photon theory", "Einstein's theory"],
+      "answer": "B"
+    },
+    {
+      "id": 135,
+      "section": "Photoelectric Effect and Wave-Particle Duality",
+      "question": "The maximum kinetic energy of photoelectrons is given by",
+      "options": ["hf - W", "hf + W", "W - hf", "hf/W"],
+      "answer": "A"
+    },
+    {
+      "id": 136,
+      "section": "Atomic Structure and Models",
+      "question": "The model of the atom that proposed a small, dense, positively charged nucleus was by",
+      "options": ["J.J. Thomson", "Ernest Rutherford", "Niels Bohr", "John Dalton"],
+      "answer": "B"
+    },
+    {
+      "id": 137,
+      "section": "Atomic Structure and Models",
+      "question": "The Bohr model of the atom successfully explained the",
+      "options": ["Photoelectric effect", "Line spectra of hydrogen", "Blackbody radiation", "Compton effect"],
+      "answer": "B"
+    },
+    {
+      "id": 138,
+      "section": "Atomic Structure and Models",
+      "question": "In the Bohr model, electrons revolve around the nucleus in",
+      "options": ["Random orbits", "Stationary orbits", "Spiral paths", "Elliptical paths"],
+      "answer": "B"
+    },
+    {
+      "id": 139,
+      "section": "Atomic Structure and Models",
+      "question": "The energy of an electron in a hydrogen atom is quantized. This means it can have",
+      "options": ["Any value", "Only certain discrete values", "Only positive values", "Only zero"],
+      "answer": "B"
+    },
+    {
+      "id": 140,
+      "section": "Atomic Structure and Models",
+      "question": "The ground state of an atom is its",
+      "options": ["Highest energy state", "Lowest energy state", "Excited state", "Ionized state"],
+      "answer": "B"
+    },
+    {
+      "id": 141,
+      "section": "Atomic Structure and Models",
+      "question": "When an electron transitions from a higher to a lower energy level, it",
+      "options": ["Absorbs a photon", "Emits a photon", "Gains mass", "Loses charge"],
+      "answer": "B"
+    },
+    {
+      "id": 142,
+      "section": "Atomic Structure and Models",
+      "question": "The series of spectral lines in the hydrogen spectrum that lies in the visible region is the",
+      "options": ["Lyman series", "Balmer series", "Paschen series", "Brackett series"],
+      "answer": "B"
+    },
+    {
+      "id": 143,
+      "section": "Atomic Structure and Models",
+      "question": "The Lyman series of the hydrogen spectrum lies in the",
+      "options": ["Visible region", "Ultraviolet region", "Infrared region", "Microwave region"],
+      "answer": "B"
+    },
+    {
+      "id": 144,
+      "section": "Atomic Structure and Models",
+      "question": "The energy required to remove an electron completely from an atom is called the",
+      "options": ["Ionization energy", "Excitation energy", "Binding energy", "Work function"],
+      "answer": "A"
+    },
+    {
+      "id": 145,
+      "section": "Atomic Structure and Models",
+      "question": "The nucleus of an atom contains",
+      "options": ["Protons and electrons", "Protons and neutrons", "Neutrons and electrons", "Only protons"],
+      "answer": "B"
+    },
+    {
+      "id": 146,
+      "section": "Atomic Structure and Models",
+      "question": "The atomic number of an element is the number of",
+      "options": ["Neutrons", "Protons", "Nucleons", "Electrons plus neutrons"],
+      "answer": "B"
+    },
+    {
+      "id": 147,
+      "section": "Atomic Structure and Models",
+      "question": "The mass number of an atom is the total number of",
+      "options": ["Protons and electrons", "Neutrons and electrons", "Protons and neutrons", "Protons only"],
+      "answer": "C"
+    },
+    {
+      "id": 148,
+      "section": "Atomic Structure and Models",
+      "question": "Isotopes of an element have the same number of protons but different numbers of",
+      "options": ["Electrons", "Neutrons", "Protons", "Orbits"],
+      "answer": "B"
+    },
+    {
+      "id": 149,
+      "section": "Atomic Structure and Models",
+      "question": "The number of electrons in a neutral atom is equal to the number of",
+      "options": ["Neutrons", "Protons", "Nucleons", "Isotopes"],
+      "answer": "B"
+    },
+    {
+      "id": 150,
+      "section": "Atomic Structure and Models",
+      "question": "The energy level diagram of an atom shows",
+      "options": ["The arrangement of electrons in an atom", "The allowed energy levels of electrons", "The nuclear structure", "The chemical bonds"],
+      "answer": "B"
+    },
+    {
+      "id": 151,
+      "section": "Atomic Structure and Models",
+      "question": "The radius of the first Bohr orbit of hydrogen is called the",
+      "options": ["Bohr radius", "Rydberg constant", "Planck length", "Compton wavelength"],
+      "answer": "A"
+    },
+    {
+      "id": 152,
+      "section": "Atomic Structure and Models",
+      "question": "The energy of an electron in the nth orbit of a hydrogen atom is proportional to",
+      "options": ["n", "n²", "1/n", "1/n²"],
+      "answer": "D"
+    },
+    {
+      "id": 153,
+      "section": "Atomic Structure and Models",
+      "question": "The angular momentum of an electron in a Bohr orbit is an integral multiple of",
+      "options": ["h", "h/2π", "2πh", "h/π"],
+      "answer": "B"
+    },
+    {
+      "id": 154,
+      "section": "Atomic Structure and Models",
+      "question": "The splitting of spectral lines in a magnetic field is called the",
+      "options": ["Zeeman effect", "Stark effect", "Photoelectric effect", "Compton effect"],
+      "answer": "A"
+    },
+    {
+      "id": 155,
+      "section": "Atomic Structure and Models",
+      "question": "The splitting of spectral lines in an electric field is called the",
+      "options": ["Zeeman effect", "Stark effect", "Photoelectric effect", "Compton effect"],
+      "answer": "B"
+    },
+    {
+      "id": 156,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "Radioactivity is the spontaneous emission of radiation from",
+      "options": ["Stable nuclei", "Unstable nuclei", "Electron shells", "Molecules"],
+      "answer": "B"
+    },
+    {
+      "id": 157,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "The three types of radiation emitted by radioactive substances are",
+      "options": ["Alpha, beta, gamma", "X-rays, ultraviolet, infrared", "Protons, neutrons, electrons", "Alpha, neutron, photon"],
+      "answer": "A"
+    },
+    {
+      "id": 158,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "Alpha particles are identical to",
+      "options": ["Helium nuclei", "Hydrogen nuclei", "Electrons", "Neutrons"],
+      "answer": "A"
+    },
+    {
+      "id": 159,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "Beta particles are identical to",
+      "options": ["Helium nuclei", "Electrons", "Protons", "Neutrons"],
+      "answer": "B"
+    },
+    {
+      "id": 160,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "Gamma radiation is a type of",
+      "options": ["Electromagnetic radiation", "Particle radiation", "Sound wave", "Heat wave"],
+      "answer": "A"
+    },
+    {
+      "id": 161,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "Which type of radiation has the greatest penetrating power?",
+      "options": ["Alpha", "Beta", "Gamma", "All have the same"],
+      "answer": "C"
+    },
+    {
+      "id": 162,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "Which type of radiation is most ionizing?",
+      "options": ["Alpha", "Beta", "Gamma", "X-rays"],
+      "answer": "A"
+    },
+    {
+      "id": 163,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "The half-life of a radioactive substance is the time taken for",
+      "options": ["Half of the original mass to decay", "The substance to completely decay", "The activity to double", "The substance to melt"],
+      "answer": "A"
+    },
+    {
+      "id": 164,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "After 3 half-lives, the fraction of a radioactive substance remaining is",
+      "options": ["1/3", "1/6", "1/8", "1/9"],
+      "answer": "C"
+    },
+    {
+      "id": 165,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "The decay constant λ and half-life T₁/₂ are related by",
+      "options": ["T₁/₂ = λ", "T₁/₂ = ln2 / λ", "T₁/₂ = λ / ln2", "T₁/₂ = 2λ"],
+      "answer": "B"
+    },
+    {
+      "id": 166,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "The activity of a radioactive sample is measured in",
+      "options": ["Becquerel", "Gray", "Sievert", "Rad"],
+      "answer": "A"
+    },
+    {
+      "id": 167,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "When an alpha particle is emitted, the mass number of the nucleus",
+      "options": ["Increases by 4", "Decreases by 4", "Increases by 2", "Decreases by 2"],
+      "answer": "B"
+    },
+    {
+      "id": 168,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "When a beta particle is emitted, the atomic number of the nucleus",
+      "options": ["Increases by 1", "Decreases by 1", "Remains unchanged", "Increases by 2"],
+      "answer": "A"
+    },
+    {
+      "id": 169,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "Gamma emission usually",
+      "options": ["Changes the mass number", "Changes the atomic number", "Changes neither mass number nor atomic number", "Changes both mass and atomic numbers"],
+      "answer": "C"
+    },
+    {
+      "id": 170,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "Nuclear fission is the splitting of a heavy nucleus into",
+      "options": ["Two lighter nuclei", "Two heavier nuclei", "An alpha particle and a beta particle", "A proton and a neutron"],
+      "answer": "A"
+    },
+    {
+      "id": 171,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "Nuclear fusion is the joining of light nuclei to form a",
+      "options": ["Lighter nucleus", "Heavier nucleus", "Gamma ray", "Beta particle"],
+      "answer": "B"
+    },
+    {
+      "id": 172,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "The energy released in a nuclear reaction is given by",
+      "options": ["E = mc²", "E = ½mv²", "E = mgh", "E = hf"],
+      "answer": "A"
+    },
+    {
+      "id": 173,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "The process that powers the sun and stars is",
+      "options": ["Nuclear fission", "Nuclear fusion", "Radioactive decay", "Chemical combustion"],
+      "answer": "B"
+    },
+    {
+      "id": 174,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "In a nuclear reactor, the control rods are used to",
+      "options": ["Absorb neutrons and control the chain reaction", "Increase the number of neutrons", "Speed up the reaction", "Generate electricity"],
+      "answer": "A"
+    },
+    {
+      "id": 175,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "The moderator in a nuclear reactor is used to",
+      "options": ["Slow down neutrons", "Speed up neutrons", "Absorb neutrons", "Reflect neutrons"],
+      "answer": "A"
+    },
+    {
+      "id": 176,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "Which of the following is a suitable material for a moderator in a nuclear reactor?",
+      "options": ["Graphite", "Uranium", "Plutonium", "Boron"],
+      "answer": "A"
+    },
+    {
+      "id": 177,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "The fuel commonly used in nuclear reactors is",
+      "options": ["Uranium-235", "Carbon-12", "Hydrogen-1", "Helium-4"],
+      "answer": "A"
+    },
+    {
+      "id": 178,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "The sudden release of a large amount of nuclear energy in an uncontrolled manner is called",
+      "options": ["Nuclear fission", "Nuclear fusion", "Nuclear explosion", "Radioactive decay"],
+      "answer": "C"
+    },
+    {
+      "id": 179,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "Carbon-14 dating is used to determine the age of",
+      "options": ["Rocks", "Fossils and archaeological artifacts", "Stars", "Minerals"],
+      "answer": "B"
+    },
+    {
+      "id": 180,
+      "section": "Radioactivity and Nuclear Physics",
+      "question": "The radiation hazard that damages living cells is mainly due to",
+      "options": ["Ionization", "Heating", "Reflection", "Refraction"],
+      "answer": "A"
+    },
+    {
+      "id": 181,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "The use of radioactive tracers in medicine is an application of",
+      "options": ["Nuclear fission", "Nuclear fusion", "Radioactivity", "Electromagnetism"],
+      "answer": "C"
+    },
+    {
+      "id": 182,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "Which of the following is a medical application of radioactivity?",
+      "options": ["Cancer treatment using gamma rays", "X-ray imaging", "Both A and B", "None of the above"],
+      "answer": "C"
+    },
+    {
+      "id": 183,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "In agriculture, radiation is used to",
+      "options": ["Preserve food", "Kill pests", "Induce mutations for crop improvement", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 184,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "The term 'fallout' refers to",
+      "options": ["Radioactive particles that settle on the earth after a nuclear explosion", "The energy released in a nuclear reactor", "The waste from a nuclear power plant", "The cooling of a nuclear reactor"],
+      "answer": "A"
+    },
+    {
+      "id": 185,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "Nuclear power plants generate electricity by using the heat from",
+      "options": ["Nuclear fission", "Nuclear fusion", "Radioactive decay", "Chemical reactions"],
+      "answer": "A"
+    },
+    {
+      "id": 186,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "One major disadvantage of nuclear power is the",
+      "options": ["High cost of fuel", "Production of radioactive waste", "Low energy output", "Emission of greenhouse gases"],
+      "answer": "B"
+    },
+    {
+      "id": 187,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "The disposal of radioactive waste is a problem because the waste",
+      "options": ["Is very heavy", "Remains radioactive for a long time", "Is explosive", "Is flammable"],
+      "answer": "B"
+    },
+    {
+      "id": 188,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "Which of the following is a renewable energy source that does not contribute to global warming?",
+      "options": ["Coal", "Nuclear energy", "Solar energy", "Natural gas"],
+      "answer": "C"
+    },
+    {
+      "id": 189,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "The greenhouse effect is primarily caused by the accumulation of",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "B"
+    },
+    {
+      "id": 190,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "A solar cell converts",
+      "options": ["Light energy to electrical energy", "Heat energy to electrical energy", "Chemical energy to electrical energy", "Nuclear energy to electrical energy"],
+      "answer": "A"
+    },
+    {
+      "id": 191,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "The energy from the sun reaches the earth by",
+      "options": ["Conduction", "Convection", "Radiation", "Induction"],
+      "answer": "C"
+    },
+    {
+      "id": 192,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "Wind energy is harnessed using",
+      "options": ["Solar panels", "Wind turbines", "Generators", "Batteries"],
+      "answer": "B"
+    },
+    {
+      "id": 193,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "Hydroelectric power is generated from the",
+      "options": ["Heat of the sun", "Kinetic energy of falling water", "Nuclear fission of uranium", "Burning of fossil fuels"],
+      "answer": "B"
+    },
+    {
+      "id": 194,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "The unit of energy used in the measurement of nuclear energy is the",
+      "options": ["Watt", "Joule", "Mega electron volt (MeV)", "Ohm"],
+      "answer": "C"
+    },
+    {
+      "id": 195,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "Which of the following is NOT a fossil fuel?",
+      "options": ["Coal", "Petroleum", "Natural gas", "Uranium"],
+      "answer": "D"
+    },
+    {
+      "id": 196,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "The use of nuclear energy in medicine includes",
+      "options": ["Radiotherapy", "Diagnostic imaging", "Sterilization of equipment", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 197,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "The process by which plants convert solar energy into chemical energy is",
+      "options": ["Respiration", "Photosynthesis", "Transpiration", "Digestion"],
+      "answer": "B"
+    },
+    {
+      "id": 198,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "A device that converts chemical energy into electrical energy is a",
+      "options": ["Generator", "Battery", "Solar cell", "Motor"],
+      "answer": "B"
+    },
+    {
+      "id": 199,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "The energy source that is most environmentally friendly is",
+      "options": ["Coal", "Nuclear", "Solar", "Petroleum"],
+      "answer": "C"
+    },
+    {
+      "id": 200,
+      "section": "Applications of Nuclear Physics and Energy",
+      "question": "The efficiency of a solar cell is the ratio of",
+      "options": ["Electrical energy output to solar energy input", "Solar energy input to electrical energy output", "Heat energy output to solar energy input", "Electrical energy output to heat energy input"],
+      "answer": "A"
+    }
+  ]
+}

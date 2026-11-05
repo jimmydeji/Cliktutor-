@@ -1,0 +1,1209 @@
+```json
+{
+  "title": "Chemistry First Term Authentic Questions",
+  "curriculum": ["WAEC", "NECO", "JAMB"],
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "id": 1,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "The atomic number of an element is defined as the number of:",
+      "options": [
+        "Neutrons in the nucleus",
+        "Protons in the nucleus",
+        "Electrons in the outer shell",
+        "Nucleons in the nucleus"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "The mass number of an atom is the total number of:",
+      "options": [
+        "Protons only",
+        "Neutrons only",
+        "Protons and neutrons",
+        "Electrons and protons"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "Isotopes are atoms of the same element with:",
+      "options": [
+        "Same mass number, different atomic number",
+        "Same atomic number, different mass number",
+        "Same number of neutrons",
+        "Different number of protons"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "The number of electrons in a neutral atom equals the number of:",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Nucleons",
+        "Isotopes"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "Which subatomic particle has no charge?",
+      "options": [
+        "Proton",
+        "Electron",
+        "Neutron",
+        "Positron"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "The electronic configuration of sodium (Na, atomic number 11) is:",
+      "options": [
+        "2, 8, 1",
+        "2, 9",
+        "2, 8, 3",
+        "2, 6, 3"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "Elements in the same group of the periodic table have:",
+      "options": [
+        "Same number of neutrons",
+        "Same number of electron shells",
+        "Same number of valence electrons",
+        "Same mass number"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "Elements in the same period of the periodic table have:",
+      "options": [
+        "Same number of valence electrons",
+        "Same number of electron shells",
+        "Same atomic mass",
+        "Same chemical properties"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "The noble gases are found in group:",
+      "options": [
+        "I",
+        "VII",
+        "0 (VIII)",
+        "VI"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "Halogens are found in group:",
+      "options": [
+        "I",
+        "II",
+        "VII",
+        "VI"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "Alkali metals are found in group:",
+      "options": [
+        "I",
+        "II",
+        "VII",
+        "III"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "Across a period from left to right, atomic radius:",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains constant",
+        "First increases then decreases"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "Down a group, atomic radius:",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Remains constant",
+        "Fluctuates"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "Ionization energy generally increases:",
+      "options": [
+        "Down a group",
+        "Across a period from left to right",
+        "With increasing atomic mass",
+        "With decreasing atomic number"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "The element with atomic number 17 belongs to:",
+      "options": [
+        "Alkali metals",
+        "Alkaline earth metals",
+        "Halogens",
+        "Noble gases"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 16,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "An ion with more electrons than protons is a:",
+      "options": [
+        "Cation",
+        "Anion",
+        "Neutral atom",
+        "Isotope"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "An ion with fewer electrons than protons is a:",
+      "options": [
+        "Anion",
+        "Cation",
+        "Neutron",
+        "Isotope"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "The electron configuration of Cl⁻ (chloride ion) is:",
+      "options": [
+        "2, 8, 7",
+        "2, 8, 8",
+        "2, 8, 9",
+        "2, 8, 6"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "The maximum number of electrons that can occupy the shell having a principal quantum number of 3 is:",
+      "options": [
+        "3",
+        "9",
+        "10",
+        "18"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "section": "Atomic Structure & Periodic Table",
+      "question": "If an element has the electronic configuration 1s²2s²2p⁶3s²3p⁴, it is:",
+      "options": [
+        "a metal",
+        "an alkaline earth metal",
+        "an s-block element",
+        "a p-block element"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "section": "Chemical Bonding & Structure",
+      "question": "Chlorine atom forms Cl⁻ by:",
+      "options": [
+        "losing one electron",
+        "sharing one electron",
+        "donating a lone pair of electrons",
+        "gaining one electron"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 22,
+      "section": "Chemical Bonding & Structure",
+      "question": "An element Z has a combining power of 3. Which of the following formulae is correct for its compounds?",
+      "options": [
+        "ZSO₃",
+        "Z₃Cl₂",
+        "Z₂O₃",
+        "ZS₃"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "section": "Chemical Bonding & Structure",
+      "question": "The three-dimensional shape of methane is:",
+      "options": [
+        "hexagonal",
+        "trigonal",
+        "linear",
+        "tetrahedral"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "section": "Chemical Bonding & Structure",
+      "question": "The type of bonding in calcium chloride is:",
+      "options": [
+        "covalent",
+        "dative",
+        "electrovalent",
+        "metallic"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "section": "Chemical Bonding & Structure",
+      "question": "The bond formed by the sharing of a pair of electrons between two atoms is:",
+      "options": [
+        "ionic",
+        "covalent",
+        "metallic",
+        "hydrogen"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "section": "Chemical Bonding & Structure",
+      "question": "Which of the following compounds is ionic?",
+      "options": [
+        "HCl",
+        "NaCl",
+        "H₂O",
+        "CO₂"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "section": "Chemical Bonding & Structure",
+      "question": "The shape of a water molecule is:",
+      "options": [
+        "K-shaped",
+        "S-shaped",
+        "N-shaped",
+        "Y-shaped (bent)"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 28,
+      "section": "Chemical Bonding & Structure",
+      "question": "The type of bond present in ammonium ion (NH₄⁺) is:",
+      "options": [
+        "covalent only",
+        "dative only",
+        "ionic only",
+        "covalent and dative"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 29,
+      "section": "Chemical Bonding & Structure",
+      "question": "A bond formed by the donation of a lone pair of electrons is called:",
+      "options": [
+        "covalent bond",
+        "dative bond",
+        "ionic bond",
+        "metallic bond"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "section": "Chemical Bonding & Structure",
+      "question": "The valency of sodium is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 31,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "The correct value of Avogadro’s number is:",
+      "options": [
+        "6.02 × 10²³",
+        "6.02 × 10²²",
+        "6.62 × 10²⁴",
+        "6.02 × 10²¹"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "Which of the following statements is correct?",
+      "options": [
+        "One gram atom of carbon contains Avogadro’s number of atoms.",
+        "One mole of oxygen gas contains Avogadro’s number of atoms.",
+        "One mole of electrons stands for 6.02 × 10²³ electrons.",
+        "One mole of hydrogen contains Avogadro’s number of atoms."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "5.6 litres of oxygen at S.T.P is equivalent to:",
+      "options": [
+        "0.25 mole",
+        "0.125 mole",
+        "0.5 mole",
+        "1.0 mole"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 34,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "The total number of atoms represented by the compound CuSO₄·5H₂O is:",
+      "options": [
+        "27",
+        "5",
+        "21",
+        "8"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 35,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "5 moles of a gas in a closed vessel was heated from 300K to 600K; which doubled the pressure of the gas. The number of moles of the gas will be:",
+      "options": [
+        "20",
+        "2.5",
+        "10",
+        "5"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 36,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "1 mole of a compound contains 1 mole of carbon atom and 2 moles of oxygen atoms. The molecular weight of the compound is:",
+      "options": [
+        "3",
+        "12",
+        "32",
+        "44"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 37,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "Avogadro’s number represents the number of atoms in:",
+      "options": [
+        "320g of sulphur",
+        "32g of oxygen",
+        "12g of 2C",
+        "127g of 12"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "5.0 litres of 0.4M H₂SO₄ contains:",
+      "options": [
+        "2.0 mole H₂SO₄",
+        "2.0 mole H₂O",
+        "0.4 Mole H₂SO₄",
+        "5.0 mole H₂SO₄"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "2 moles of H atoms at S.T.P occupy a volume of:",
+      "options": [
+        "22.4 litres",
+        "44.8 litres",
+        "2 litres",
+        "11.2 litres"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 40,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "0.224 Litres of H₂ gas at S.T.P is equivalent to:",
+      "options": [
+        "1 mol",
+        "0.01 mol",
+        "0.2 × 10²² mol",
+        "1g of H₂"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "100g CaCO₃ is treated with 1 litre of 1M HCl, what would be the weight of CO₂ liberated after the completion of the reaction?",
+      "options": [
+        "33g",
+        "5.5g",
+        "22g",
+        "36g"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "The mass of carbon present in 0.5 mole of K₄[Fe(CN)₆] is:",
+      "options": [
+        "18g",
+        "1.8g",
+        "3.6g",
+        "36g"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "How many grams are contained in 1 gram-atom of Na?",
+      "options": [
+        "1g",
+        "23g",
+        "1/23g",
+        "11g"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "Which of the following has the largest number of atoms?",
+      "options": [
+        "0.25 mole of Cu",
+        "0.035g of Cu",
+        "0.5g atoms of Cu",
+        "0.03g of Cu"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "section": "Stoichiometry & Mole Concept",
+      "question": "The volume occupied by 1 mole of any gas at S.T.P is:",
+      "options": [
+        "22.4 dm³",
+        "24.0 dm³",
+        "11.2 dm³",
+        "44.8 dm³"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 46,
+      "section": "Gas Laws & Kinetic Theory",
+      "question": "The movement of liquid from the surface of the liquid to the gaseous phase above it is known as:",
+      "options": [
+        "Brownian movement",
+        "Condensation",
+        "Evaporation",
+        "Liquefaction"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 47,
+      "section": "Gas Laws & Kinetic Theory",
+      "question": "The ideal gas equation is:",
+      "options": [
+        "PV = nRT",
+        "P₁/T₁ = P₂/T₂",
+        "P₁/V₁ = P₂V₂",
+        "V₁/T₁ = V₂/T₂"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 48,
+      "section": "Gas Laws & Kinetic Theory",
+      "question": "The partial pressure of oxygen in a sample of air is 500 mmHg. If the total pressure is 760 mmHg, the mole fraction of oxygen is:",
+      "options": [
+        "0.66",
+        "0.50",
+        "0.76",
+        "0.25"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "section": "Gas Laws & Kinetic Theory",
+      "question": "Which gas law states that the volume of a fixed mass of gas is inversely proportional to its pressure at constant temperature?",
+      "options": [
+        "Charles’ Law",
+        "Boyle’s Law",
+        "Avogadro’s Law",
+        "Graham’s Law"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 50,
+      "section": "Gas Laws & Kinetic Theory",
+      "question": "The process of a solid changing directly to a gas without passing through the liquid state is called:",
+      "options": [
+        "Evaporation",
+        "Sublimation",
+        "Condensation",
+        "Melting"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 51,
+      "section": "Gas Laws & Kinetic Theory",
+      "question": "The kinetic theory of matter explains that particles of matter are:",
+      "options": [
+        "Stationary",
+        "In constant random motion",
+        "Only in motion when heated",
+        "Always closely packed"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 52,
+      "section": "Gas Laws & Kinetic Theory",
+      "question": "According to Charles’ Law, the volume of a gas is directly proportional to its:",
+      "options": [
+        "Pressure",
+        "Absolute temperature",
+        "Number of moles",
+        "Density"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 53,
+      "section": "Gas Laws & Kinetic Theory",
+      "question": "The rate of diffusion of a gas is inversely proportional to the square root of its:",
+      "options": [
+        "Volume",
+        "Pressure",
+        "Density",
+        "Temperature"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 54,
+      "section": "Gas Laws & Kinetic Theory",
+      "question": "Which of the following gases will diffuse fastest at the same temperature and pressure?",
+      "options": [
+        "CO₂",
+        "O₂",
+        "H₂",
+        "N₂"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 55,
+      "section": "Gas Laws & Kinetic Theory",
+      "question": "The pressure of a fixed mass of gas is 2 atm at 300K. What is its pressure at 600K (volume constant)?",
+      "options": [
+        "1 atm",
+        "2 atm",
+        "4 atm",
+        "0.5 atm"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 56,
+      "section": "Separation Techniques & Matter",
+      "question": "Which of the following is a physical change?",
+      "options": [
+        "Burning of paper",
+        "Rusting of iron",
+        "Dissolving salt in water",
+        "Cooking food"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 57,
+      "section": "Separation Techniques & Matter",
+      "question": "The smallest particle of an element that can take part in a chemical reaction is called:",
+      "options": [
+        "Molecule",
+        "Atom",
+        "Ion",
+        "Compound"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 58,
+      "section": "Separation Techniques & Matter",
+      "question": "The process of heating a substance strongly without air is called:",
+      "options": [
+        "Distillation",
+        "Sublimation",
+        "Calcination",
+        "Evaporation"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 59,
+      "section": "Separation Techniques & Matter",
+      "question": "A mixture of calcium chloride and calcium trioxocarbonate (IV) in water can be separated by:",
+      "options": [
+        "Filtration",
+        "Distillation",
+        "Sublimation",
+        "Evaporation"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 60,
+      "section": "Separation Techniques & Matter",
+      "question": "The process involved in the treatment of water for town supply is:",
+      "options": [
+        "Filtration and chlorination",
+        "Distillation and condensation",
+        "Sublimation and crystallization",
+        "Evaporation and precipitation"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 61,
+      "section": "Separation Techniques & Matter",
+      "question": "Which of the following is a pure substance?",
+      "options": [
+        "Air",
+        "Salt",
+        "Soil",
+        "Smoke"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 62,
+      "section": "Separation Techniques & Matter",
+      "question": "The smallest unit of an element is:",
+      "options": [
+        "Molecule",
+        "Atom",
+        "Ion",
+        "Compound"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 63,
+      "section": "Separation Techniques & Matter",
+      "question": "Which of the following is a chemical change?",
+      "options": [
+        "Melting ice",
+        "Boiling water",
+        "Rusting of iron",
+        "Dissolving sugar"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 64,
+      "section": "Separation Techniques & Matter",
+      "question": "Which of the following is an example of a mixture?",
+      "options": [
+        "Salt",
+        "Air",
+        "Water",
+        "Oxygen"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 65,
+      "section": "Separation Techniques & Matter",
+      "question": "The process of converting a liquid to gas is called:",
+      "options": [
+        "Condensation",
+        "Freezing",
+        "Evaporation",
+        "Sublimation"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 66,
+      "section": "Separation Techniques & Matter",
+      "question": "Which of the following is used to test for starch?",
+      "options": [
+        "Iodine",
+        "Litmus",
+        "Methyl orange",
+        "Phenolphthalein"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 67,
+      "section": "Separation Techniques & Matter",
+      "question": "The SI unit of mass is:",
+      "options": [
+        "Gram",
+        "Kilogram",
+        "Pound",
+        "Ton"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 68,
+      "section": "Separation Techniques & Matter",
+      "question": "The process that separates insoluble solids from liquids is:",
+      "options": [
+        "Filtration",
+        "Distillation",
+        "Evaporation",
+        "Sublimation"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 69,
+      "section": "Separation Techniques & Matter",
+      "question": "Which of the following is a compound?",
+      "options": [
+        "Iron",
+        "Air",
+        "Water",
+        "Gold"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 70,
+      "section": "Separation Techniques & Matter",
+      "question": "The boiling point of water is:",
+      "options": [
+        "0°C",
+        "50°C",
+        "100°C",
+        "200°C"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 71,
+      "section": "Acids, Bases & Salts",
+      "question": "The pH of a neutral solution is:",
+      "options": [
+        "0",
+        "7",
+        "14",
+        "1"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 72,
+      "section": "Acids, Bases & Salts",
+      "question": "Which of the following is an acid?",
+      "options": [
+        "NaOH",
+        "HCl",
+        "NaCl",
+        "KOH"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 73,
+      "section": "Acids, Bases & Salts",
+      "question": "Which of the following is a base?",
+      "options": [
+        "HCl",
+        "NaOH",
+        "H₂SO₄",
+        "HNO₃"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 74,
+      "section": "Acids, Bases & Salts",
+      "question": "Which gas turns limewater milky?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 75,
+      "section": "Acids, Bases & Salts",
+      "question": "Which of the following is used as an indicator?",
+      "options": [
+        "Litmus",
+        "Salt",
+        "Sugar",
+        "Water"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 76,
+      "section": "Acids, Bases & Salts",
+      "question": "An acid turns blue litmus paper to:",
+      "options": [
+        "Green",
+        "Red",
+        "Yellow",
+        "Black"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 77,
+      "section": "Acids, Bases & Salts",
+      "question": "The gas produced when an acid reacts with a metal is:",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 78,
+      "section": "Acids, Bases & Salts",
+      "question": "Which of the following is a salt?",
+      "options": [
+        "HCl",
+        "NaOH",
+        "NaCl",
+        "H₂SO₄"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 79,
+      "section": "Acids, Bases & Salts",
+      "question": "The valency of oxygen is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 80,
+      "section": "Acids, Bases & Salts",
+      "question": "The chemical symbol for sodium is:",
+      "options": [
+        "So",
+        "Na",
+        "Sn",
+        "Sd"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 81,
+      "section": "Acids, Bases & Salts",
+      "question": "The pH of a solution is 3. The solution is:",
+      "options": [
+        "Neutral",
+        "Acidic",
+        "Basic",
+        "Amphoteric"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 82,
+      "section": "Acids, Bases & Salts",
+      "question": "Which of the following is an alkali?",
+      "options": [
+        "HCl",
+        "NaOH",
+        "CO₂",
+        "H₂SO₄"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 83,
+      "section": "Acids, Bases & Salts",
+      "question": "The reaction between an acid and a base to form salt and water is called:",
+      "options": [
+        "Oxidation",
+        "Reduction",
+        "Neutralization",
+        "Hydrolysis"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 84,
+      "section": "Acids, Bases & Salts",
+      "question": "Which of the following oxides is amphoteric?",
+      "options": [
+        "Na₂O",
+        "SO₂",
+        "Al₂O₃",
+        "CaO"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 85,
+      "section": "Acids, Bases & Salts",
+      "question": "The IUPAC name for the compound CH₃COOH is:",
+      "options": [
+        "Methanol",
+        "Ethanoic acid",
+        "Ethanol",
+        "Methanal"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 86,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "Which metal reacts with water to produce hydrogen gas?",
+      "options": [
+        "Copper",
+        "Sodium",
+        "Gold",
+        "Silver"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 87,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "The alloy used for welding and plumbing contains:",
+      "options": [
+        "aluminum and copper",
+        "copper and tin",
+        "iron and aluminum",
+        "lead and tin"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 88,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "On exposure to hydrogen sulphide, moist lead (II) ethanoate paper turns:",
+      "options": [
+        "black",
+        "blue",
+        "green",
+        "white"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 89,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "Which of the following is a non-metal?",
+      "options": [
+        "Iron",
+        "Copper",
+        "Oxygen",
+        "Zinc"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 90,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "Which of the following is a metal?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Iron",
+        "Chlorine"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 91,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "The gas used in filling balloons is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Carbon dioxide"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 92,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "Which of the following is a noble gas?",
+      "options": [
+        "Oxygen",
+        "Helium",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 93,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "Which gas is responsible for rusting?",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 94,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "The process of rusting requires water and:",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon monoxide"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 95,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "Which of the following is a greenhouse gas?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 96,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "The raw material for cement production is:",
+      "options": [
+        "Limestone",
+        "Bauxite",
+        "Coal",
+        "Crude oil"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 97,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "An example of a biodegradable pollutant is:",
+      "options": [
+        "Plastic",
+        "DDT",
+        "Sewage",
+        "Mercury"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 98,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "The reaction represented by the equation: Ni²⁺(aq) + Fe(s) → Ni(s) + Fe²⁺(aq) is a redox reaction because:",
+      "options": [
+        "Ni²⁺ ions are oxidized and Fe acts as an oxidizing agent",
+        "Ni²⁺ ions are oxidized and Fe acts as a reducing agent",
+        "Ni²⁺ ions are reduced and Fe acts as an oxidizing agent",
+        "Ni²⁺ ions are reduced and Fe acts as a reducing agent"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 99,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "Which of the following statements describes transition elements?",
+      "options": [
+        "They are very reactive",
+        "They have low melting points",
+        "They possess variable oxidation states",
+        "They form colourless salts"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 100,
+      "section": "Metals, Non-Metals & Environmental Chemistry",
+      "question": "Aluminium is suitable for making alloys for aircraft construction because it:",
+      "options": [
+        "is hard and brittle",
+        "is light and very resistant to corrosion",
+        "has high density and is a non-conductor of electricity",
+        "is amphoteric and allotropic"
+      ],
+      "answer": "B"
+    }
+  ]
+}
+```

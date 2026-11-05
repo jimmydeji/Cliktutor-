@@ -1,0 +1,1406 @@
+```json
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "Description and Properties of Fields",
+      "question": "A region in space where a force is experienced by a body is called a",
+      "options": ["Field", "Force", "Power", "Energy"],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "section": "Description and Properties of Fields",
+      "question": "Which of the following is NOT a type of field?",
+      "options": ["Gravitational field", "Magnetic field", "Electric field", "Thermal field"],
+      "answer": "D"
+    },
+    {
+      "id": 3,
+      "section": "Description and Properties of Fields",
+      "question": "Field lines are drawn such that their tangent at any point gives the",
+      "options": ["Magnitude of the field", "Direction of the field", "Both magnitude and direction", "Neither magnitude nor direction"],
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "section": "Description and Properties of Fields",
+      "question": "Which of the following is a property of a force field?",
+      "options": ["Field lines cross each other", "Field lines are always straight", "Field lines never cross each other", "Field lines are closed circles only"],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "section": "Description and Properties of Fields",
+      "question": "The gravitational field is always",
+      "options": ["Attractive", "Repulsive", "Neutral", "Variable"],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "section": "Description and Properties of Fields",
+      "question": "Electric field lines originate from",
+      "options": ["Negative charges", "Positive charges", "Neutral bodies", "Magnetic poles"],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "section": "Description and Properties of Fields",
+      "question": "The magnetic field of a bar magnet is strongest at the",
+      "options": ["Center", "Poles", "Sides", "Middle"],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "section": "Description and Properties of Fields",
+      "question": "A field is a",
+      "options": ["Scalar quantity", "Vector quantity", "Fundamental quantity", "Derived unit"],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "section": "Description and Properties of Fields",
+      "question": "Which of the following fields is produced by stationary electric charges?",
+      "options": ["Magnetic field", "Gravitational field", "Electric field", "Electromagnetic field"],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "section": "Description and Properties of Fields",
+      "question": "The concept of field was introduced by",
+      "options": ["Isaac Newton", "Michael Faraday", "Albert Einstein", "James Clerk Maxwell"],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "section": "Gravitational Field",
+      "question": "The acceleration due to gravity on the earth’s surface is approximately",
+      "options": ["5.0 m/s²", "9.8 m/s²", "15.0 m/s²", "20.0 m/s²"],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "section": "Gravitational Field",
+      "question": "The shape of the earth is best described as",
+      "options": ["A perfect sphere", "An oblate spheroid", "A prolate spheroid", "A cube"],
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "section": "Gravitational Field",
+      "question": "Two bodies of different masses released from the same height simultaneously will",
+      "options": ["Fall at different times", "Fall at the same time (neglecting air resistance)", "The heavier falls first", "The lighter falls first"],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "section": "Gravitational Field",
+      "question": "The gravitational potential energy of a body of mass m at height h is",
+      "options": ["mgh", "½mv²", "mv", "ma"],
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "section": "Gravitational Field",
+      "question": "The value of g on the moon is about",
+      "options": ["1.6 m/s²", "9.8 m/s²", "10.0 m/s²", "3.7 m/s²"],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "section": "Gravitational Field",
+      "question": "A stone is dropped from a height of 45 m. The time taken to reach the ground is (g = 10 m/s²)",
+      "options": ["3 s", "4.5 s", "6 s", "9 s"],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "section": "Gravitational Field",
+      "question": "The gravitational field strength at a point is defined as",
+      "options": ["Force per unit mass", "Mass per unit force", "Work per unit mass", "Energy per unit mass"],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "section": "Gravitational Field",
+      "question": "Which of the following is used to determine the acceleration due to gravity in the laboratory?",
+      "options": ["Simple pendulum", "Barometer", "Thermometer", "Ammeter"],
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "section": "Gravitational Field",
+      "question": "The weight of a body of mass 10 kg on the earth’s surface is (g = 9.8 m/s²)",
+      "options": ["10 N", "98 N", "9.8 N", "1.0 N"],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "section": "Gravitational Field",
+      "question": "The gravitational force between two masses is",
+      "options": ["Directly proportional to the distance between them", "Inversely proportional to the square of the distance between them", "Independent of the distance", "Directly proportional to the square of the distance"],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "section": "Electric Field",
+      "question": "Electric field intensity is defined as",
+      "options": ["Force per unit charge", "Charge per unit force", "Work per unit charge", "Energy per unit charge"],
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "section": "Electric Field",
+      "question": "The unit of electric field intensity is",
+      "options": ["N/C", "C/N", "J/C", "V/m"],
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "section": "Electric Field",
+      "question": "Electric lines of force around an isolated positive charge",
+      "options": ["Point radially inward", "Point radially outward", "Are parallel", "Form closed loops"],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "section": "Electric Field",
+      "question": "The force between two point charges is given by",
+      "options": ["Newton’s law", "Coulomb’s law", "Ohm’s law", "Boyle’s law"],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "section": "Electric Field",
+      "question": "Two positive charges of 2 μC and 3 μC are separated by 0.1 m. The force between them is (k = 9 × 10⁹ N·m²/C²)",
+      "options": ["5.4 N", "54 N", "540 N", "5400 N"],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "section": "Electric Field",
+      "question": "Electric field lines between two unlike charges",
+      "options": ["Repel each other", "Originate from positive and terminate on negative", "Are parallel", "Do not exist"],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "section": "Electric Field",
+      "question": "The direction of an electric field at a point is the direction of the force on a",
+      "options": ["Negative test charge", "Positive test charge", "Neutral particle", "Magnetic pole"],
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "section": "Electric Field",
+      "question": "The region around a charged body where its electric influence is felt is called",
+      "options": ["Magnetic field", "Electric field", "Gravitational field", "Magnetic domain"],
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "section": "Electric Field",
+      "question": "A charge of 4 × 10⁻⁶ C experiences a force of 0.2 N in an electric field. The electric field intensity is",
+      "options": ["5 × 10⁴ N/C", "2 × 10⁴ N/C", "8 × 10⁴ N/C", "5 × 10⁻⁵ N/C"],
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "section": "Electric Field",
+      "question": "Which of the following is a conductor of electricity?",
+      "options": ["Rubber", "Plastic", "Copper", "Glass"],
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "section": "Electric Charges",
+      "question": "There are two types of electric charges, namely",
+      "options": ["Positive and negative", "North and south", "Static and current", "Conductors and insulators"],
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "section": "Electric Charges",
+      "question": "Which of the following is a method of producing electric charges?",
+      "options": ["Friction", "Induction", "Contact", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 33,
+      "section": "Electric Charges",
+      "question": "The instrument used to detect electric charges is",
+      "options": ["Ammeter", "Voltmeter", "Gold-leaf electroscope", "Galvanometer"],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "section": "Electric Charges",
+      "question": "Like charges",
+      "options": ["Attract each other", "Repel each other", "Neutralize each other", "Have no effect on each other"],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "section": "Electric Charges",
+      "question": "Unlike charges",
+      "options": ["Attract each other", "Repel each other", "Neutralize each other", "Have no effect on each other"],
+      "answer": "A"
+    },
+    {
+      "id": 36,
+      "section": "Electric Charges",
+      "question": "Charging by induction involves",
+      "options": ["Direct contact", "Bringing a charged body near a neutral body", "Rubbing two bodies together", "Heating a body"],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "section": "Electric Charges",
+      "question": "The unit of electric charge is",
+      "options": ["Ampere", "Volt", "Coulomb", "Ohm"],
+      "answer": "C"
+    },
+    {
+      "id": 38,
+      "section": "Electric Charges",
+      "question": "When a glass rod is rubbed with silk, the glass rod becomes",
+      "options": ["Positively charged", "Negatively charged", "Neutral", "Magnetic"],
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "section": "Electric Charges",
+      "question": "Charges are concentrated at the",
+      "options": ["Flat surfaces of a conductor", "Sharp points of a conductor", "Center of a conductor", "Middle of a conductor"],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "section": "Electric Charges",
+      "question": "A lightning conductor protects tall buildings by",
+      "options": ["Attracting lightning", "Conducting lightning to the ground", "Repelling lightning", "Storing lightning"],
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "section": "Electric Charges",
+      "question": "An electrophorus is used to",
+      "options": ["Store electric charges", "Measure electric current", "Detect magnetic field", "Measure temperature"],
+      "answer": "A"
+    },
+    {
+      "id": 42,
+      "section": "Electric Charges",
+      "question": "The process of charging a body by rubbing it with another body is called",
+      "options": ["Induction", "Conduction", "Friction", "Convection"],
+      "answer": "C"
+    },
+    {
+      "id": 43,
+      "section": "Electric Charges",
+      "question": "Two charges of 1 μC and 2 μC are separated by 0.2 m. The force between them is (k = 9 × 10⁹ N·m²/C²)",
+      "options": ["0.45 N", "4.5 N", "45 N", "450 N"],
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "section": "Electric Charges",
+      "question": "The distribution of charges on a conductor is affected by the",
+      "options": ["Mass of the conductor", "Surface curvature of the conductor", "Temperature of the conductor", "Volume of the conductor"],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "section": "Electric Charges",
+      "question": "Which of the following materials is an insulator?",
+      "options": ["Copper", "Aluminum", "Rubber", "Iron"],
+      "answer": "C"
+    },
+    {
+      "id": 46,
+      "section": "Production of Electric Current",
+      "question": "Electric current can be produced from",
+      "options": ["Chemical energy", "Heat energy", "Solar energy", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 47,
+      "section": "Production of Electric Current",
+      "question": "A simple cell converts",
+      "options": ["Chemical energy to electrical energy", "Electrical energy to chemical energy", "Mechanical energy to electrical energy", "Heat energy to electrical energy"],
+      "answer": "A"
+    },
+    {
+      "id": 48,
+      "section": "Production of Electric Current",
+      "question": "A generator converts",
+      "options": ["Chemical energy to electrical energy", "Mechanical energy to electrical energy", "Electrical energy to mechanical energy", "Solar energy to electrical energy"],
+      "answer": "B"
+    },
+    {
+      "id": 49,
+      "section": "Production of Electric Current",
+      "question": "A solar cell converts",
+      "options": ["Light energy to electrical energy", "Heat energy to electrical energy", "Chemical energy to electrical energy", "Mechanical energy to electrical energy"],
+      "answer": "A"
+    },
+    {
+      "id": 50,
+      "section": "Production of Electric Current",
+      "question": "A thermocouple converts",
+      "options": ["Heat energy to electrical energy", "Electrical energy to heat energy", "Chemical energy to electrical energy", "Mechanical energy to electrical energy"],
+      "answer": "A"
+    },
+    {
+      "id": 51,
+      "section": "Production of Electric Current",
+      "question": "The component of an electric circuit that supplies energy is called the",
+      "options": ["Load", "Switch", "Source", "Connecting wire"],
+      "answer": "C"
+    },
+    {
+      "id": 52,
+      "section": "Production of Electric Current",
+      "question": "Which of the following is a standard circuit symbol for a cell?",
+      "options": ["A long and short parallel line", "A circle with a cross", "A zigzag line", "A rectangle"],
+      "answer": "A"
+    },
+    {
+      "id": 53,
+      "section": "Production of Electric Current",
+      "question": "A battery is a combination of two or more",
+      "options": ["Resistors", "Cells", "Capacitors", "Inductors"],
+      "answer": "B"
+    },
+    {
+      "id": 54,
+      "section": "Production of Electric Current",
+      "question": "The purpose of a switch in a circuit is to",
+      "options": ["Store energy", "Open or close the circuit", "Increase resistance", "Measure current"],
+      "answer": "B"
+    },
+    {
+      "id": 55,
+      "section": "Production of Electric Current",
+      "question": "In a circuit diagram, a resistor is represented by a",
+      "options": ["Circle", "Zigzag line", "Straight line", "Dotted line"],
+      "answer": "B"
+    },
+    {
+      "id": 56,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "Electric current is the rate of flow of",
+      "options": ["Charge", "Voltage", "Resistance", "Power"],
+      "answer": "A"
+    },
+    {
+      "id": 57,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "The unit of electric current is",
+      "options": ["Volt", "Ohm", "Ampere", "Watt"],
+      "answer": "C"
+    },
+    {
+      "id": 58,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "Ohm’s law states that the current through a metallic conductor is directly proportional to the",
+      "options": ["Resistance", "Potential difference", "Length", "Area"],
+      "answer": "B"
+    },
+    {
+      "id": 59,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "The unit of resistance is",
+      "options": ["Ampere", "Volt", "Ohm", "Watt"],
+      "answer": "C"
+    },
+    {
+      "id": 60,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "A potential difference of 12 V is applied across a resistor of 4 Ω. The current flowing is",
+      "options": ["3 A", "4 A", "12 A", "48 A"],
+      "answer": "A"
+    },
+    {
+      "id": 61,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "The instrument used to measure electric current is",
+      "options": ["Voltmeter", "Ammeter", "Galvanometer", "Ohmmeter"],
+      "answer": "B"
+    },
+    {
+      "id": 62,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "The instrument used to measure potential difference is",
+      "options": ["Ammeter", "Voltmeter", "Galvanometer", "Ohmmeter"],
+      "answer": "B"
+    },
+    {
+      "id": 63,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "The resistance of a wire is directly proportional to its",
+      "options": ["Length", "Area", "Temperature", "Current"],
+      "answer": "A"
+    },
+    {
+      "id": 64,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "The resistance of a wire is inversely proportional to its",
+      "options": ["Length", "Cross-sectional area", "Resistivity", "Temperature"],
+      "answer": "B"
+    },
+    {
+      "id": 65,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "A resistor of 5 Ω carries a current of 2 A. The potential difference across it is",
+      "options": ["2.5 V", "7 V", "10 V", "20 V"],
+      "answer": "C"
+    },
+    {
+      "id": 66,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "Which of the following is NOT a factor affecting the resistance of a conductor?",
+      "options": ["Length", "Cross-sectional area", "Temperature", "Current"],
+      "answer": "D"
+    },
+    {
+      "id": 67,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "The electromotive force (e.m.f.) of a cell is measured in",
+      "options": ["Amperes", "Ohms", "Volts", "Watts"],
+      "answer": "C"
+    },
+    {
+      "id": 68,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "A current of 0.5 A flows through a conductor of resistance 20 Ω. The potential difference is",
+      "options": ["0.025 V", "10 V", "20.5 V", "40 V"],
+      "answer": "B"
+    },
+    {
+      "id": 69,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "Resistors arranged end-to-end are said to be in",
+      "options": ["Series", "Parallel", "Mixed", "Short circuit"],
+      "answer": "A"
+    },
+    {
+      "id": 70,
+      "section": "Electric Current and Ohm’s Law",
+      "question": "The total resistance of two 4 Ω resistors in series is",
+      "options": ["2 Ω", "4 Ω", "8 Ω", "16 Ω"],
+      "answer": "C"
+    },
+    {
+      "id": 71,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "Electrical power is given by",
+      "options": ["P = IV", "P = I/R", "P = V/R", "P = I²/V"],
+      "answer": "A"
+    },
+    {
+      "id": 72,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "The unit of electrical energy is",
+      "options": ["Watt", "Joule", "Ampere", "Volt"],
+      "answer": "B"
+    },
+    {
+      "id": 73,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "A current of 2 A flows through a resistor for 10 s under a potential difference of 12 V. The work done is",
+      "options": ["24 J", "120 J", "240 J", "1200 J"],
+      "answer": "C"
+    },
+    {
+      "id": 74,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "The heating effect of electric current is used in",
+      "options": ["Electric iron", "Electric fan", "Electric bulb", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 75,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "A fuse is used in an electric circuit to",
+      "options": ["Increase current", "Break the circuit when current is too high", "Store energy", "Measure voltage"],
+      "answer": "B"
+    },
+    {
+      "id": 76,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "A circuit breaker is used to",
+      "options": ["Protect circuits from excessive current", "Increase resistance", "Store charge", "Convert AC to DC"],
+      "answer": "A"
+    },
+    {
+      "id": 77,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "The power dissipated by a resistor of 10 Ω carrying a current of 2 A is",
+      "options": ["20 W", "40 W", "80 W", "200 W"],
+      "answer": "B"
+    },
+    {
+      "id": 78,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "One kilowatt-hour is a unit of",
+      "options": ["Power", "Energy", "Force", "Current"],
+      "answer": "B"
+    },
+    {
+      "id": 79,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "The resistance of a conductor increases with",
+      "options": ["Decrease in length", "Increase in temperature", "Increase in cross-sectional area", "Decrease in resistivity"],
+      "answer": "B"
+    },
+    {
+      "id": 80,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "The resistivity of a material is measured in",
+      "options": ["Ω", "Ω·m", "Ω/m", "Ω/m²"],
+      "answer": "B"
+    },
+    {
+      "id": 81,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "An electric bulb is rated 220 V, 100 W. The current through the bulb is",
+      "options": ["0.45 A", "2.2 A", "4.5 A", "22 A"],
+      "answer": "A"
+    },
+    {
+      "id": 82,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "The energy consumed by a 1000 W appliance used for 2 hours is",
+      "options": ["0.5 kWh", "2 kWh", "20 kWh", "200 kWh"],
+      "answer": "B"
+    },
+    {
+      "id": 83,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "A short circuit occurs when",
+      "options": ["Resistance is very high", "A low-resistance path bypasses the load", "Current is zero", "Voltage is zero"],
+      "answer": "B"
+    },
+    {
+      "id": 84,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "Which of the following is a safety device in an electric circuit?",
+      "options": ["Resistor", "Fuse", "Capacitor", "Inductor"],
+      "answer": "B"
+    },
+    {
+      "id": 85,
+      "section": "Electrical Resistance, Work and Power",
+      "question": "The power of an appliance is 500 W. The energy used in 10 s is",
+      "options": ["50 J", "500 J", "5000 J", "50000 J"],
+      "answer": "C"
+    },
+    {
+      "id": 86,
+      "section": "Particulate Nature of Matter",
+      "question": "Matter is made up of tiny particles called",
+      "options": ["Atoms", "Cells", "Organs", "Tissues"],
+      "answer": "A"
+    },
+    {
+      "id": 87,
+      "section": "Particulate Nature of Matter",
+      "question": "The movement of particles from a region of higher concentration to a region of lower concentration is called",
+      "options": ["Diffusion", "Osmosis", "Brownian motion", "Capillarity"],
+      "answer": "A"
+    },
+    {
+      "id": 88,
+      "section": "Particulate Nature of Matter",
+      "question": "Brownian motion is the",
+      "options": ["Random motion of particles suspended in a fluid", "Motion of particles in a solid", "Motion of planets", "Motion of a pendulum"],
+      "answer": "A"
+    },
+    {
+      "id": 89,
+      "section": "Particulate Nature of Matter",
+      "question": "The three states of matter are",
+      "options": ["Solid, liquid, gas", "Solid, liquid, plasma", "Liquid, gas, plasma", "Solid, gas, plasma"],
+      "answer": "A"
+    },
+    {
+      "id": 90,
+      "section": "Particulate Nature of Matter",
+      "question": "The basic unit of matter is the",
+      "options": ["Molecule", "Atom", "Ion", "Compound"],
+      "answer": "B"
+    },
+    {
+      "id": 91,
+      "section": "Particulate Nature of Matter",
+      "question": "The kinetic theory of matter states that particles of matter are",
+      "options": ["Stationary", "In constant random motion", "Attracted to each other only", "Repelled from each other only"],
+      "answer": "B"
+    },
+    {
+      "id": 92,
+      "section": "Particulate Nature of Matter",
+      "question": "Diffusion is fastest in",
+      "options": ["Solids", "Liquids", "Gases", "All states equally"],
+      "answer": "C"
+    },
+    {
+      "id": 93,
+      "section": "Particulate Nature of Matter",
+      "question": "The spreading of the smell of perfume in a room is an example of",
+      "options": ["Diffusion", "Convection", "Radiation", "Conduction"],
+      "answer": "A"
+    },
+    {
+      "id": 94,
+      "section": "Particulate Nature of Matter",
+      "question": "Which of the following provides evidence for the particle nature of matter?",
+      "options": ["Diffusion", "Brownian motion", "Crystal structure", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 95,
+      "section": "Particulate Nature of Matter",
+      "question": "The particles of a gas are",
+      "options": ["Closely packed", "Far apart", "Fixed in position", "Vibrating about a fixed point"],
+      "answer": "B"
+    },
+    {
+      "id": 96,
+      "section": "Particulate Nature of Matter",
+      "question": "The process by which a solid changes directly to a gas is called",
+      "options": ["Sublimation", "Evaporation", "Condensation", "Melting"],
+      "answer": "A"
+    },
+    {
+      "id": 97,
+      "section": "Particulate Nature of Matter",
+      "question": "The average kinetic energy of the particles of a substance is proportional to its",
+      "options": ["Pressure", "Volume", "Absolute temperature", "Mass"],
+      "answer": "C"
+    },
+    {
+      "id": 98,
+      "section": "Particulate Nature of Matter",
+      "question": "The size of a molecule is of the order of",
+      "options": ["10⁻³ m", "10⁻⁶ m", "10⁻¹⁰ m", "10⁻¹⁵ m"],
+      "answer": "C"
+    },
+    {
+      "id": 99,
+      "section": "Particulate Nature of Matter",
+      "question": "A photon is a particle of",
+      "options": ["Matter", "Light", "Sound", "Heat"],
+      "answer": "B"
+    },
+    {
+      "id": 100,
+      "section": "Particulate Nature of Matter",
+      "question": "Which of the following is NOT a property of photons?",
+      "options": ["They have energy", "They have momentum", "They have mass at rest", "They travel at the speed of light"],
+      "answer": "C"
+    },
+    {
+      "id": 101,
+      "section": "Crystalline and Non-crystalline Substances",
+      "question": "Which of the following is a crystalline substance?",
+      "options": ["Glass", "Plastic", "Sodium chloride", "Rubber"],
+      "answer": "C"
+    },
+    {
+      "id": 102,
+      "section": "Crystalline and Non-crystalline Substances",
+      "question": "An amorphous substance is one that",
+      "options": ["Has a regular arrangement of atoms", "Has no regular arrangement of atoms", "Is always solid", "Is always liquid"],
+      "answer": "B"
+    },
+    {
+      "id": 103,
+      "section": "Crystalline and Non-crystalline Substances",
+      "question": "Which of the following is an example of an amorphous substance?",
+      "options": ["Diamond", "Sugar", "Glass", "Copper sulphate"],
+      "answer": "C"
+    },
+    {
+      "id": 104,
+      "section": "Crystalline and Non-crystalline Substances",
+      "question": "Crystalline substances have",
+      "options": ["A definite melting point", "No definite melting point", "A random atomic arrangement", "No sharp melting point"],
+      "answer": "A"
+    },
+    {
+      "id": 105,
+      "section": "Crystalline and Non-crystalline Substances",
+      "question": "Amorphous substances are also called",
+      "options": ["Crystalline solids", "Non-crystalline solids", "Metals", "Allotropes"],
+      "answer": "B"
+    },
+    {
+      "id": 106,
+      "section": "Crystalline and Non-crystalline Substances",
+      "question": "The regular repeating pattern of atoms in a crystal is called a",
+      "options": ["Lattice", "Molecule", "Compound", "Mixture"],
+      "answer": "A"
+    },
+    {
+      "id": 107,
+      "section": "Crystalline and Non-crystalline Substances",
+      "question": "Which of the following is a property of crystalline substances?",
+      "options": ["Isotropy", "Anisotropy", "Random arrangement", "No definite shape"],
+      "answer": "B"
+    },
+    {
+      "id": 108,
+      "section": "Crystalline and Non-crystalline Substances",
+      "question": "Glass is classified as",
+      "options": ["Crystalline", "Amorphous", "Metallic", "Ionic"],
+      "answer": "B"
+    },
+    {
+      "id": 109,
+      "section": "Crystalline and Non-crystalline Substances",
+      "question": "The cleavage of a crystal along definite planes is due to its",
+      "options": ["Amorphous nature", "Regular internal structure", "High melting point", "Low density"],
+      "answer": "B"
+    },
+    {
+      "id": 110,
+      "section": "Crystalline and Non-crystalline Substances",
+      "question": "Which of the following pairs consists of crystalline substances?",
+      "options": ["Glass and rubber", "Plastic and glass", "Sugar and salt", "Rubber and plastic"],
+      "answer": "C"
+    },
+    {
+      "id": 111,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "Hooke’s law states that the extension of a spring is directly proportional to the",
+      "options": ["Applied force", "Length of the spring", "Mass of the spring", "Time of stretching"],
+      "answer": "A"
+    },
+    {
+      "id": 112,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "The force constant of a spring is measured in",
+      "options": ["N", "N/m", "J", "J/m"],
+      "answer": "B"
+    },
+    {
+      "id": 113,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "Stress is defined as",
+      "options": ["Force per unit area", "Extension per unit length", "Force per unit length", "Area per unit force"],
+      "answer": "A"
+    },
+    {
+      "id": 114,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "Strain is defined as",
+      "options": ["Force per unit area", "Extension per unit original length", "Force per unit length", "Area per unit force"],
+      "answer": "B"
+    },
+    {
+      "id": 115,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "Young’s modulus is the ratio of",
+      "options": ["Stress to strain", "Strain to stress", "Force to area", "Extension to length"],
+      "answer": "A"
+    },
+    {
+      "id": 116,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "A spring extends by 4 cm when a force of 8 N is applied. The force constant is",
+      "options": ["0.5 N/m", "2 N/m", "32 N/m", "200 N/m"],
+      "answer": "D"
+    },
+    {
+      "id": 117,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "The energy stored in a stretched spring is given by",
+      "options": ["½kx²", "kx", "½mv²", "mgh"],
+      "answer": "A"
+    },
+    {
+      "id": 118,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "The elastic limit of a material is the point beyond which",
+      "options": ["The material obeys Hooke’s law", "The material does not return to its original shape", "The material breaks", "The material becomes plastic"],
+      "answer": "B"
+    },
+    {
+      "id": 119,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "Which of the following is a unit of stress?",
+      "options": ["N", "N/m", "N/m²", "m"],
+      "answer": "C"
+    },
+    {
+      "id": 120,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "A wire of length 2 m extends by 0.5 mm when a force is applied. The strain is",
+      "options": ["0.00025", "0.0025", "0.025", "0.25"],
+      "answer": "B"
+    },
+    {
+      "id": 121,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "Young’s modulus is a property of the",
+      "options": ["Material", "Shape of the wire", "Length of the wire", "Applied force"],
+      "answer": "A"
+    },
+    {
+      "id": 122,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "A spring of force constant 200 N/m is stretched by 0.1 m. The energy stored is",
+      "options": ["1 J", "2 J", "10 J", "20 J"],
+      "answer": "A"
+    },
+    {
+      "id": 123,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "Which of the following materials is most elastic?",
+      "options": ["Steel", "Rubber", "Plastic", "Wood"],
+      "answer": "A"
+    },
+    {
+      "id": 124,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "The graph of extension against force for a spring obeying Hooke’s law is a",
+      "options": ["Curve", "Straight line through the origin", "Horizontal line", "Vertical line"],
+      "answer": "B"
+    },
+    {
+      "id": 125,
+      "section": "Elastic Properties of Solids (Hooke’s Law)",
+      "question": "The SI unit of Young’s modulus is",
+      "options": ["N", "N/m", "N/m²", "m²"],
+      "answer": "C"
+    },
+    {
+      "id": 126,
+      "section": "Fluids at Rest and in Motion",
+      "question": "Surface tension is the force per unit",
+      "options": ["Area", "Length", "Volume", "Mass"],
+      "answer": "B"
+    },
+    {
+      "id": 127,
+      "section": "Fluids at Rest and in Motion",
+      "question": "Surface tension is caused by",
+      "options": ["Adhesion", "Cohesion", "Gravity", "Viscosity"],
+      "answer": "B"
+    },
+    {
+      "id": 128,
+      "section": "Fluids at Rest and in Motion",
+      "question": "Capillarity is the rise or fall of a liquid in a",
+      "options": ["Wide tube", "Narrow tube", "Beaker", "Bucket"],
+      "answer": "B"
+    },
+    {
+      "id": 129,
+      "section": "Fluids at Rest and in Motion",
+      "question": "The property of a fluid that opposes the relative motion between its layers is called",
+      "options": ["Surface tension", "Viscosity", "Density", "Pressure"],
+      "answer": "B"
+    },
+    {
+      "id": 130,
+      "section": "Fluids at Rest and in Motion",
+      "question": "The unit of coefficient of viscosity is",
+      "options": ["N/m", "N·s/m²", "N/m²", "kg/m³"],
+      "answer": "B"
+    },
+    {
+      "id": 131,
+      "section": "Fluids at Rest and in Motion",
+      "question": "Terminal velocity is attained when",
+      "options": ["Acceleration is maximum", "Net force on the body is zero", "Viscosity is zero", "The body is at rest"],
+      "answer": "B"
+    },
+    {
+      "id": 132,
+      "section": "Fluids at Rest and in Motion",
+      "question": "Which of the following liquids has the highest viscosity?",
+      "options": ["Water", "Kerosene", "Honey", "Alcohol"],
+      "answer": "C"
+    },
+    {
+      "id": 133,
+      "section": "Fluids at Rest and in Motion",
+      "question": "Surface tension tends to make a liquid surface behave like a",
+      "options": ["Stretched elastic membrane", "Rigid solid", "Gas", "Vacuum"],
+      "answer": "A"
+    },
+    {
+      "id": 134,
+      "section": "Fluids at Rest and in Motion",
+      "question": "Cohesion is the force of attraction between",
+      "options": ["Molecules of different substances", "Molecules of the same substance", "Molecules of a gas", "Molecules of a solid and a liquid"],
+      "answer": "B"
+    },
+    {
+      "id": 135,
+      "section": "Fluids at Rest and in Motion",
+      "question": "Adhesion is the force of attraction between",
+      "options": ["Molecules of the same substance", "Molecules of different substances", "Molecules of a gas", "Molecules of a solid"],
+      "answer": "B"
+    },
+    {
+      "id": 136,
+      "section": "Fluids at Rest and in Motion",
+      "question": "The rise of water in a capillary tube is due to",
+      "options": ["Cohesion only", "Adhesion and surface tension", "Viscosity", "Gravity"],
+      "answer": "B"
+    },
+    {
+      "id": 137,
+      "section": "Fluids at Rest and in Motion",
+      "question": "The viscosity of a liquid generally",
+      "options": ["Increases with temperature", "Decreases with temperature", "Is independent of temperature", "Is zero at all temperatures"],
+      "answer": "B"
+    },
+    {
+      "id": 138,
+      "section": "Fluids at Rest and in Motion",
+      "question": "A small sphere falling through a viscous liquid eventually attains",
+      "options": ["Zero velocity", "Terminal velocity", "Infinite velocity", "Constant acceleration"],
+      "answer": "B"
+    },
+    {
+      "id": 139,
+      "section": "Fluids at Rest and in Motion",
+      "question": "Which of the following is an application of surface tension?",
+      "options": ["Movement of a boat", "Formation of rain drops", "Flow of water in a pipe", "Expansion of a gas"],
+      "answer": "B"
+    },
+    {
+      "id": 140,
+      "section": "Fluids at Rest and in Motion",
+      "question": "The terminal velocity of a sphere falling through a liquid is directly proportional to",
+      "options": ["The radius of the sphere", "The square of the radius of the sphere", "The viscosity of the liquid", "The density of the liquid"],
+      "answer": "B"
+    },
+    {
+      "id": 141,
+      "section": "Heat Energy (Vapour and Vapour Pressure)",
+      "question": "Evaporation occurs at",
+      "options": ["The boiling point only", "All temperatures", "0 °C only", "100 °C only"],
+      "answer": "B"
+    },
+    {
+      "id": 142,
+      "section": "Heat Energy (Vapour and Vapour Pressure)",
+      "question": "Boiling occurs when the vapour pressure of a liquid equals the",
+      "options": ["Atmospheric pressure", "Temperature", "Volume", "Mass"],
+      "answer": "A"
+    },
+    {
+      "id": 143,
+      "section": "Heat Energy (Vapour and Vapour Pressure)",
+      "question": "The saturation vapour pressure of a liquid depends on",
+      "options": ["Temperature", "Volume", "Mass", "Pressure"],
+      "answer": "A"
+    },
+    {
+      "id": 144,
+      "section": "Heat Energy (Vapour and Vapour Pressure)",
+      "question": "Relative humidity is the ratio of",
+      "options": ["Actual vapour pressure to saturated vapour pressure", "Saturated vapour pressure to actual vapour pressure", "Mass of water vapour to mass of dry air", "Volume of water vapour to volume of air"],
+      "answer": "A"
+    },
+    {
+      "id": 145,
+      "section": "Heat Energy (Vapour and Vapour Pressure)",
+      "question": "The dew point is the temperature at which",
+      "options": ["Water boils", "Air becomes saturated with water vapour", "Ice melts", "Water freezes"],
+      "answer": "B"
+    },
+    {
+      "id": 146,
+      "section": "Heat Energy (Vapour and Vapour Pressure)",
+      "question": "Evaporation causes cooling because",
+      "options": ["The fastest-moving molecules escape, reducing the average kinetic energy", "Heat is absorbed from the surroundings", "Vapour pressure increases", "The liquid gains energy"],
+      "answer": "A"
+    },
+    {
+      "id": 147,
+      "section": "Heat Energy (Vapour and Vapour Pressure)",
+      "question": "Which of the following factors does NOT affect the rate of evaporation?",
+      "options": ["Temperature", "Surface area", "Wind speed", "Volume of the liquid"],
+      "answer": "D"
+    },
+    {
+      "id": 148,
+      "section": "Heat Energy (Vapour and Vapour Pressure)",
+      "question": "A hygrometer is used to measure",
+      "options": ["Temperature", "Humidity", "Pressure", "Volume"],
+      "answer": "B"
+    },
+    {
+      "id": 149,
+      "section": "Heat Energy (Vapour and Vapour Pressure)",
+      "question": "When the dew point is reached, the relative humidity is",
+      "options": ["0%", "50%", "100%", "200%"],
+      "answer": "C"
+    },
+    {
+      "id": 150,
+      "section": "Heat Energy (Vapour and Vapour Pressure)",
+      "question": "The boiling point of a liquid increases with",
+      "options": ["Decrease in atmospheric pressure", "Increase in atmospheric pressure", "Increase in surface area", "Decrease in volume"],
+      "answer": "B"
+    },
+    {
+      "id": 151,
+      "section": "Latent Heat",
+      "question": "Latent heat of fusion is the heat required to change",
+      "options": ["1 kg of solid to liquid at constant temperature", "1 kg of liquid to gas at constant temperature", "1 kg of solid to gas", "1 kg of liquid to solid"],
+      "answer": "A"
+    },
+    {
+      "id": 152,
+      "section": "Latent Heat",
+      "question": "The specific latent heat of vaporisation of water is approximately",
+      "options": ["3.34 × 10⁵ J/kg", "2.26 × 10⁶ J/kg", "4.2 × 10³ J/kg", "3.0 × 10⁸ J/kg"],
+      "answer": "B"
+    },
+    {
+      "id": 153,
+      "section": "Latent Heat",
+      "question": "The heat required to melt 2 kg of ice at 0 °C is (L = 3.34 × 10⁵ J/kg)",
+      "options": ["1.67 × 10⁵ J", "3.34 × 10⁵ J", "6.68 × 10⁵ J", "6.68 × 10⁶ J"],
+      "answer": "C"
+    },
+    {
+      "id": 154,
+      "section": "Latent Heat",
+      "question": "During a change of state, the temperature of the substance",
+      "options": ["Increases", "Decreases", "Remains constant", "Fluctuates"],
+      "answer": "C"
+    },
+    {
+      "id": 155,
+      "section": "Latent Heat",
+      "question": "The latent heat of vaporisation is the heat required to change",
+      "options": ["Solid to liquid", "Liquid to gas", "Gas to liquid", "Solid to gas"],
+      "answer": "B"
+    },
+    {
+      "id": 156,
+      "section": "Latent Heat",
+      "question": "The energy supplied during melting is used to",
+      "options": ["Increase the kinetic energy of molecules", "Break the bonds between molecules", "Increase the temperature", "Decrease the potential energy"],
+      "answer": "B"
+    },
+    {
+      "id": 157,
+      "section": "Latent Heat",
+      "question": "The specific latent heat of fusion of ice is 3.34 × 10⁵ J/kg. The heat released when 0.5 kg of water at 0 °C freezes is",
+      "options": ["1.67 × 10⁵ J", "3.34 × 10⁵ J", "6.68 × 10⁵ J", "1.67 × 10⁶ J"],
+      "answer": "A"
+    },
+    {
+      "id": 158,
+      "section": "Latent Heat",
+      "question": "Which of the following statements about latent heat is correct?",
+      "options": ["It changes the temperature of the substance", "It changes the state of the substance without changing temperature", "It is always absorbed", "It is always released"],
+      "answer": "B"
+    },
+    {
+      "id": 159,
+      "section": "Latent Heat",
+      "question": "The heat required to convert 1 kg of a liquid to gas at its boiling point is called",
+      "options": ["Specific heat capacity", "Specific latent heat of fusion", "Specific latent heat of vaporisation", "Heat capacity"],
+      "answer": "C"
+    },
+    {
+      "id": 160,
+      "section": "Latent Heat",
+      "question": "Steam at 100 °C causes more severe burns than water at 100 °C because steam",
+      "options": ["Has a higher temperature", "Releases latent heat on condensing", "Has a higher specific heat capacity", "Is a gas"],
+      "answer": "B"
+    },
+    {
+      "id": 161,
+      "section": "Measurement of Heat Energy (Heat Capacity)",
+      "question": "Heat capacity is defined as the heat required to raise the temperature of a body by",
+      "options": ["1 K", "1 °C", "1 K or 1 °C", "100 K"],
+      "answer": "C"
+    },
+    {
+      "id": 162,
+      "section": "Measurement of Heat Energy (Heat Capacity)",
+      "question": "The unit of heat capacity is",
+      "options": ["J/kg·K", "J/K", "J/kg", "K/J"],
+      "answer": "B"
+    },
+    {
+      "id": 163,
+      "section": "Measurement of Heat Energy (Heat Capacity)",
+      "question": "Specific heat capacity is defined as the heat required to raise the temperature of",
+      "options": ["A body by 1 K", "1 kg of a substance by 1 K", "1 g of a substance by 1 K", "1 mole of a substance by 1 K"],
+      "answer": "B"
+    },
+    {
+      "id": 164,
+      "section": "Measurement of Heat Energy (Heat Capacity)",
+      "question": "The specific heat capacity of water is approximately",
+      "options": ["4200 J/kg·K", "2100 J/kg·K", "900 J/kg·K", "500 J/kg·K"],
+      "answer": "A"
+    },
+    {
+      "id": 165,
+      "section": "Measurement of Heat Energy (Heat Capacity)",
+      "question": "The heat required to raise the temperature of 2 kg of water by 10 K is (c = 4200 J/kg·K)",
+      "options": ["8400 J", "42000 J", "84000 J", "420000 J"],
+      "answer": "C"
+    },
+    {
+      "id": 166,
+      "section": "Measurement of Heat Energy (Heat Capacity)",
+      "question": "A calorimeter is used to measure",
+      "options": ["Temperature", "Heat changes", "Pressure", "Humidity"],
+      "answer": "B"
+    },
+    {
+      "id": 167,
+      "section": "Measurement of Heat Energy (Heat Capacity)",
+      "question": "The heat capacity of a body of mass 2 kg with specific heat capacity 500 J/kg·K is",
+      "options": ["250 J/K", "500 J/K", "1000 J/K", "2000 J/K"],
+      "answer": "C"
+    },
+    {
+      "id": 168,
+      "section": "Measurement of Heat Energy (Heat Capacity)",
+      "question": "Which of the following substances has the highest specific heat capacity?",
+      "options": ["Copper", "Iron", "Water", "Aluminum"],
+      "answer": "C"
+    },
+    {
+      "id": 169,
+      "section": "Measurement of Heat Energy (Heat Capacity)",
+      "question": "The principle of conservation of heat states that heat lost by a hot body equals heat",
+      "options": ["Gained by a cold body", "Lost by a cold body", "Gained by the surroundings", "Lost by the surroundings"],
+      "answer": "A"
+    },
+    {
+      "id": 170,
+      "section": "Measurement of Heat Energy (Heat Capacity)",
+      "question": "A metal of mass 0.5 kg is heated through 20 K using 4000 J of heat. Its specific heat capacity is",
+      "options": ["100 J/kg·K", "200 J/kg·K", "400 J/kg·K", "800 J/kg·K"],
+      "answer": "C"
+    },
+    {
+      "id": 171,
+      "section": "Gas Laws",
+      "question": "Boyle’s law states that the volume of a fixed mass of gas is inversely proportional to its pressure at constant",
+      "options": ["Volume", "Temperature", "Mass", "Density"],
+      "answer": "B"
+    },
+    {
+      "id": 172,
+      "section": "Gas Laws",
+      "question": "Charles’ law states that the volume of a fixed mass of gas is directly proportional to its absolute temperature at constant",
+      "options": ["Pressure", "Volume", "Mass", "Density"],
+      "answer": "A"
+    },
+    {
+      "id": 173,
+      "section": "Gas Laws",
+      "question": "The pressure law states that the pressure of a fixed mass of gas is directly proportional to its absolute temperature at constant",
+      "options": ["Pressure", "Volume", "Mass", "Density"],
+      "answer": "B"
+    },
+    {
+      "id": 174,
+      "section": "Gas Laws",
+      "question": "The general gas law is given by",
+      "options": ["PV = nRT", "P₁V₁ = P₂V₂", "V₁/T₁ = V₂/T₂", "P₁/T₁ = P₂/T₂"],
+      "answer": "A"
+    },
+    {
+      "id": 175,
+      "section": "Gas Laws",
+      "question": "A gas occupies a volume of 2 m³ at a pressure of 3 atm. If the pressure is increased to 6 atm at constant temperature, the new volume is",
+      "options": ["1 m³", "2 m³", "4 m³", "6 m³"],
+      "answer": "A"
+    },
+    {
+      "id": 176,
+      "section": "Gas Laws",
+      "question": "The absolute temperature scale is the",
+      "options": ["Celsius scale", "Fahrenheit scale", "Kelvin scale", "Rankine scale"],
+      "answer": "C"
+    },
+    {
+      "id": 177,
+      "section": "Gas Laws",
+      "question": "At constant pressure, the volume of a gas is directly proportional to its",
+      "options": ["Celsius temperature", "Kelvin temperature", "Pressure", "Mass"],
+      "answer": "B"
+    },
+    {
+      "id": 178,
+      "section": "Gas Laws",
+      "question": "The kinetic molecular theory of gases explains the gas laws in terms of",
+      "options": ["Static particles", "Random motion of particles", "Attractive forces between particles", "Large particle size"],
+      "answer": "B"
+    },
+    {
+      "id": 179,
+      "section": "Gas Laws",
+      "question": "A gas at 27 °C has a volume of 300 cm³. At what temperature will its volume be 600 cm³ at constant pressure?",
+      "options": ["54 °C", "327 °C", "600 °C", "600 K"],
+      "answer": "B"
+    },
+    {
+      "id": 180,
+      "section": "Gas Laws",
+      "question": "A gas has a pressure of 2 atm at 300 K. If the temperature is raised to 600 K at constant volume, the pressure becomes",
+      "options": ["1 atm", "2 atm", "4 atm", "8 atm"],
+      "answer": "C"
+    },
+    {
+      "id": 181,
+      "section": "Gas Laws",
+      "question": "The value of the universal gas constant R is approximately",
+      "options": ["8.31 J/mol·K", "3.14 J/mol·K", "9.81 J/mol·K", "1.38 J/mol·K"],
+      "answer": "A"
+    },
+    {
+      "id": 182,
+      "section": "Gas Laws",
+      "question": "At constant temperature, if the volume of a gas is halved, its pressure will",
+      "options": ["Halve", "Double", "Remain the same", "Become zero"],
+      "answer": "B"
+    },
+    {
+      "id": 183,
+      "section": "Gas Laws",
+      "question": "The pressure of a gas is due to",
+      "options": ["The weight of the gas", "Collisions of gas molecules with the walls of the container", "The attraction between molecules", "The volume of the molecules"],
+      "answer": "B"
+    },
+    {
+      "id": 184,
+      "section": "Gas Laws",
+      "question": "Which of the following is NOT a gas law?",
+      "options": ["Boyle’s law", "Charles’ law", "Ohm’s law", "Pressure law"],
+      "answer": "C"
+    },
+    {
+      "id": 185,
+      "section": "Gas Laws",
+      "question": "A fixed mass of gas at 1 atm occupies 500 cm³. At what pressure will it occupy 250 cm³ at constant temperature?",
+      "options": ["0.5 atm", "1 atm", "2 atm", "4 atm"],
+      "answer": "C"
+    },
+    {
+      "id": 186,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "Thermal conductivity is the ability of a material to",
+      "options": ["Conduct electricity", "Conduct heat", "Absorb light", "Reflect sound"],
+      "answer": "B"
+    },
+    {
+      "id": 187,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "The unit of thermal conductivity is",
+      "options": ["W/m·K", "J/kg·K", "W/K", "J/m·K"],
+      "answer": "A"
+    },
+    {
+      "id": 188,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "Which of the following materials has the highest thermal conductivity?",
+      "options": ["Wood", "Copper", "Water", "Air"],
+      "answer": "B"
+    },
+    {
+      "id": 189,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "Solar energy is energy from the",
+      "options": ["Moon", "Sun", "Wind", "Earth"],
+      "answer": "B"
+    },
+    {
+      "id": 190,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "A solar collector is used to",
+      "options": ["Convert solar energy to heat", "Convert heat to solar energy", "Store electricity", "Generate wind"],
+      "answer": "A"
+    },
+    {
+      "id": 191,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "Solar cells convert",
+      "options": ["Light energy to electrical energy", "Heat energy to electrical energy", "Chemical energy to electrical energy", "Mechanical energy to electrical energy"],
+      "answer": "A"
+    },
+    {
+      "id": 192,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "Which of the following is an application of solar energy?",
+      "options": ["Solar water heater", "Solar calculator", "Solar panel for electricity", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 193,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "Good thermal conductors are usually",
+      "options": ["Non-metals", "Metals", "Gases", "Liquids"],
+      "answer": "B"
+    },
+    {
+      "id": 194,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "The greenhouse effect is due to the",
+      "options": ["Trapping of infrared radiation by atmospheric gases", "Reflection of ultraviolet radiation", "Conduction of heat by the atmosphere", "Convection currents in the atmosphere"],
+      "answer": "A"
+    },
+    {
+      "id": 195,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "A vacuum flask minimizes heat loss by",
+      "options": ["Conduction and convection", "Convection and radiation", "Conduction, convection and radiation", "Radiation only"],
+      "answer": "C"
+    },
+    {
+      "id": 196,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "Which of the following surfaces is the best absorber of radiant heat?",
+      "options": ["White surface", "Polished surface", "Dull black surface", "Silver surface"],
+      "answer": "C"
+    },
+    {
+      "id": 197,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "The transfer of heat from the sun to the earth is by",
+      "options": ["Conduction", "Convection", "Radiation", "Diffusion"],
+      "answer": "C"
+    },
+    {
+      "id": 198,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "Solar panels are made up of many",
+      "options": ["Resistors", "Solar cells", "Capacitors", "Inductors"],
+      "answer": "B"
+    },
+    {
+      "id": 199,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "The main advantage of solar energy is that it is",
+      "options": ["Renewable", "Non-renewable", "Expensive", "Polluting"],
+      "answer": "A"
+    },
+    {
+      "id": 200,
+      "section": "Thermal Conductivity and Solar Energy",
+      "question": "A solar water heater uses solar energy to",
+      "options": ["Heat water", "Cool water", "Purify water", "Pump water"],
+      "answer": "A"
+    }
+  ]
+}
+```

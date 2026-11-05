@@ -1,0 +1,1404 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "The law of reflection states that the angle of incidence is equal to the angle of",
+      "options": ["Refraction", "Reflection", "Diffraction", "Dispersion"],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "The image formed by a plane mirror is",
+      "options": ["Real and inverted", "Virtual and erect", "Real and erect", "Virtual and inverted"],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "A ray of light strikes a plane mirror at an angle of incidence of 30°. The angle of reflection is",
+      "options": ["30°", "60°", "90°", "120°"],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "The image formed by a plane mirror is as far behind the mirror as the object is",
+      "options": ["In front of the mirror", "Above the mirror", "Below the mirror", "To the side of the mirror"],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "A periscope works on the principle of",
+      "options": ["Refraction", "Reflection", "Diffraction", "Dispersion"],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "The lateral inversion of an image in a plane mirror means that",
+      "options": ["Left appears right and right appears left", "Top appears bottom", "The image is magnified", "The image is diminished"],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "A plane mirror is rotated through an angle of 10°. The reflected ray is rotated through",
+      "options": ["5°", "10°", "20°", "40°"],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "The minimum length of a plane mirror required for a person to see a full-length image of himself is",
+      "options": ["Equal to his height", "Half of his height", "Twice his height", "One-quarter of his height"],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "Which of the following is NOT a characteristic of an image formed by a plane mirror?",
+      "options": ["It is virtual", "It is erect", "It is laterally inverted", "It is magnified"],
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "A sextant is used for measuring",
+      "options": ["The angle of a prism", "Angular distances", "The focal length of a lens", "The refractive index of a medium"],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "The angle between the incident ray and the plane mirror is 40°. The angle of reflection is",
+      "options": ["40°", "50°", "80°", "100°"],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "Two plane mirrors are inclined at an angle of 60° to each other. The number of images formed is",
+      "options": ["3", "4", "5", "6"],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "The deviation produced by a plane mirror is",
+      "options": ["0°", "90°", "180° - 2i", "2i"],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "A plane mirror produces an image that is",
+      "options": ["Always smaller than the object", "Always larger than the object", "The same size as the object", "Of variable size"],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "section": "Reflection of Light at Plane Surfaces",
+      "question": "The reflection of light from a rough surface is called",
+      "options": ["Regular reflection", "Diffuse reflection", "Total internal reflection", "Refraction"],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "A concave mirror is also called a",
+      "options": ["Diverging mirror", "Converging mirror", "Plane mirror", "Cylindrical mirror"],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "A convex mirror is also called a",
+      "options": ["Diverging mirror", "Converging mirror", "Plane mirror", "Spherical mirror"],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "The centre of the sphere of which a curved mirror is a part is called the",
+      "options": ["Pole", "Principal focus", "Centre of curvature", "Focal length"],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "The distance between the pole and the principal focus of a mirror is called the",
+      "options": ["Radius of curvature", "Focal length", "Aperture", "Image distance"],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "The relationship between the focal length f and the radius of curvature r of a spherical mirror is",
+      "options": ["f = r", "f = 2r", "f = r/2", "f = r/4"],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "A concave mirror forms a real image when the object is placed",
+      "options": ["Between the pole and the focus", "At the focus", "Beyond the focus", "At the pole"],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "The image formed by a convex mirror is always",
+      "options": ["Real and inverted", "Virtual, erect and diminished", "Real and magnified", "Virtual and magnified"],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "A concave mirror is used as a shaving mirror because it produces a",
+      "options": ["Diminished image", "Magnified virtual image when the face is within the focus", "Real image", "Laterally inverted image"],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "The mirror formula is given by",
+      "options": ["1/f = 1/v + 1/u", "1/f = 1/v - 1/u", "f = uv/(u+v)", "f = u+v"],
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "An object is placed 20 cm from a concave mirror of focal length 10 cm. The image distance is",
+      "options": ["10 cm", "20 cm", "30 cm", "40 cm"],
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "The magnification produced by a mirror is given by",
+      "options": ["v/u", "u/v", "v × u", "v + u"],
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "A convex mirror always produces an image that is",
+      "options": ["Real", "Virtual", "Inverted", "Magnified"],
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "The principal focus of a concave mirror is",
+      "options": ["In front of the mirror", "Behind the mirror", "At the centre of curvature", "At the pole"],
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "A concave mirror of focal length 15 cm produces a magnified erect image. The object must be placed",
+      "options": ["Beyond 30 cm", "At 30 cm", "Between 15 cm and the pole", "At 15 cm"],
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "The image formed by a concave mirror when the object is at the centre of curvature is",
+      "options": ["At infinity", "At the focus", "At the centre of curvature, real and inverted", "Virtual and erect"],
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "A dentist uses a concave mirror to see a magnified image of a tooth. The tooth is placed",
+      "options": ["Beyond the centre of curvature", "At the centre of curvature", "Between the focus and the pole", "At the focus"],
+      "answer": "C"
+    },
+    {
+      "id": 32,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "The aperture of a mirror is the",
+      "options": ["Distance from the pole to the focus", "Diameter of the reflecting surface", "Radius of curvature", "Focal length"],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "A convex mirror is used as a driving mirror because it",
+      "options": ["Produces a magnified image", "Produces a wide field of view", "Produces a real image", "Inverts the image"],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "An object is placed at the focus of a concave mirror. The image is formed at",
+      "options": ["The centre of curvature", "The pole", "Infinity", "The focus"],
+      "answer": "C"
+    },
+    {
+      "id": 35,
+      "section": "Reflection of Light by Curved Mirrors",
+      "question": "The magnification of a mirror is -2. This means the image is",
+      "options": ["Virtual and magnified", "Real and magnified", "Real and diminished", "Virtual and diminished"],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "The bending of light as it passes from one medium to another is called",
+      "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "The refractive index of a medium is the ratio of the speed of light in",
+      "options": ["Vacuum to the speed in the medium", "The medium to the speed in vacuum", "Water to the speed in the medium", "Air to the speed in water"],
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "Snell's law states that the ratio of the sine of the angle of incidence to the sine of the angle of refraction is a constant called the",
+      "options": ["Critical angle", "Refractive index", "Focal length", "Magnification"],
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "When light travels from a less dense medium to a denser medium, it bends",
+      "options": ["Away from the normal", "Towards the normal", "Along the normal", "Backwards"],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "The refractive index of water is 1.33. If the speed of light in vacuum is 3 × 10⁸ m/s, the speed of light in water is approximately",
+      "options": ["2.26 × 10⁸ m/s", "3.99 × 10⁸ m/s", "1.33 × 10⁸ m/s", "4.00 × 10⁸ m/s"],
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "The real depth of a pool of water is 4 m. If the refractive index of water is 1.33, the apparent depth is approximately",
+      "options": ["1 m", "2 m", "3 m", "5 m"],
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "Total internal reflection occurs when light travels from a",
+      "options": ["Denser to a less dense medium and the angle of incidence exceeds the critical angle", "Less dense to a denser medium", "Denser to a less dense medium at any angle", "Vacuum to a medium"],
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "The critical angle is the angle of incidence in the denser medium for which the angle of refraction in the less dense medium is",
+      "options": ["0°", "45°", "90°", "180°"],
+      "answer": "C"
+    },
+    {
+      "id": 44,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "The refractive index n and the critical angle C are related by",
+      "options": ["n = sin C", "n = 1/sin C", "n = cos C", "n = 1/cos C"],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "A transparent medium has a critical angle of 30°. Its refractive index is",
+      "options": ["0.5", "1.0", "2.0", "3.0"],
+      "answer": "C"
+    },
+    {
+      "id": 46,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "The phenomenon of mirage is due to",
+      "options": ["Reflection", "Refraction", "Total internal reflection", "Diffraction"],
+      "answer": "C"
+    },
+    {
+      "id": 47,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "Optical fibres work on the principle of",
+      "options": ["Reflection", "Total internal reflection", "Diffraction", "Dispersion"],
+      "answer": "B"
+    },
+    {
+      "id": 48,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "A ray of light passes from air into glass. Which of the following quantities remains constant?",
+      "options": ["Speed", "Wavelength", "Frequency", "Direction"],
+      "answer": "C"
+    },
+    {
+      "id": 49,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "The apparent depth of an object in a liquid is 3 m. If the real depth is 4 m, the refractive index of the liquid is",
+      "options": ["0.75", "1.33", "1.50", "2.00"],
+      "answer": "B"
+    },
+    {
+      "id": 50,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "Which of the following is an application of total internal reflection?",
+      "options": ["Plane mirror", "Concave mirror", "Optical fibre", "Prism periscope"],
+      "answer": "C"
+    },
+    {
+      "id": 51,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "When light travels from glass to air, the angle of refraction is",
+      "options": ["Less than the angle of incidence", "Equal to the angle of incidence", "Greater than the angle of incidence", "Always 90°"],
+      "answer": "C"
+    },
+    {
+      "id": 52,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "The refractive index of a medium is 1.5. The speed of light in the medium is (c = 3 × 10⁸ m/s)",
+      "options": ["1.5 × 10⁸ m/s", "2.0 × 10⁸ m/s", "3.0 × 10⁸ m/s", "4.5 × 10⁸ m/s"],
+      "answer": "B"
+    },
+    {
+      "id": 53,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "A coin at the bottom of a beaker of water appears to be raised because of",
+      "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+      "answer": "B"
+    },
+    {
+      "id": 54,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "The angle of incidence in a denser medium for which the angle of refraction is 90° is called the",
+      "options": ["Angle of deviation", "Critical angle", "Angle of reflection", "Polarizing angle"],
+      "answer": "B"
+    },
+    {
+      "id": 55,
+      "section": "Refraction of Light (Rectangular Glass Block)",
+      "question": "Which of the following statements about refraction is correct?",
+      "options": ["Frequency changes when light enters a new medium", "Wavelength remains constant", "Speed changes when light enters a new medium", "The ray always bends towards the normal"],
+      "answer": "C"
+    },
+    {
+      "id": 56,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "The splitting of white light into its component colours is called",
+      "options": ["Reflection", "Refraction", "Dispersion", "Diffraction"],
+      "answer": "C"
+    },
+    {
+      "id": 57,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "The colour of light that is deviated most by a glass prism is",
+      "options": ["Red", "Yellow", "Green", "Violet"],
+      "answer": "D"
+    },
+    {
+      "id": 58,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "The colour of light that is deviated least by a glass prism is",
+      "options": ["Red", "Yellow", "Green", "Violet"],
+      "answer": "A"
+    },
+    {
+      "id": 59,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "The angle between the incident ray and the emergent ray in a prism is called the",
+      "options": ["Angle of deviation", "Angle of refraction", "Angle of incidence", "Critical angle"],
+      "answer": "A"
+    },
+    {
+      "id": 60,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "A pure spectrum of white light can be produced using a",
+      "options": ["Plane mirror", "Prism", "Convex lens only", "Concave mirror"],
+      "answer": "B"
+    },
+    {
+      "id": 61,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "The sequence of colours in the visible spectrum from least deviated to most deviated is",
+      "options": ["Red, orange, yellow, green, blue, indigo, violet", "Violet, indigo, blue, green, yellow, orange, red", "Red, yellow, green, blue, violet, orange, indigo", "Violet, blue, green, yellow, orange, red, indigo"],
+      "answer": "A"
+    },
+    {
+      "id": 62,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "Dispersion of light occurs because different colours have different",
+      "options": ["Frequencies", "Intensities", "Amplitudes", "Polarizations"],
+      "answer": "A"
+    },
+    {
+      "id": 63,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "The recombination of the spectrum of white light can be achieved using a",
+      "options": ["Prism and a lens", "Second prism", "Plane mirror", "Concave mirror"],
+      "answer": "B"
+    },
+    {
+      "id": 64,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "A rainbow is formed due to",
+      "options": ["Reflection and dispersion of sunlight by raindrops", "Refraction and total internal reflection of sunlight by raindrops", "Diffraction of sunlight by clouds", "Absorption of sunlight by the atmosphere"],
+      "answer": "B"
+    },
+    {
+      "id": 65,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "The angle of the prism is the angle between its",
+      "options": ["Two refracting surfaces", "Base and one refracting surface", "Incident ray and emergent ray", "Two emergent rays"],
+      "answer": "A"
+    },
+    {
+      "id": 66,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "Which of the following is NOT a component of the visible spectrum?",
+      "options": ["Infrared", "Red", "Green", "Violet"],
+      "answer": "A"
+    },
+    {
+      "id": 67,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "A prism is used in a spectrometer to",
+      "options": ["Reflect light", "Disperse light", "Absorb light", "Polarize light"],
+      "answer": "B"
+    },
+    {
+      "id": 68,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "The deviation produced by a prism depends on",
+      "options": ["The angle of the prism and the refractive index", "Only the angle of the prism", "Only the refractive index", "The colour of the prism"],
+      "answer": "A"
+    },
+    {
+      "id": 69,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "White light is a mixture of",
+      "options": ["Seven colours", "Three colours", "Two colours", "Only red and blue"],
+      "answer": "A"
+    },
+    {
+      "id": 70,
+      "section": "Refraction of Light through a Triangular Glass Prism",
+      "question": "The phenomenon that explains the formation of a spectrum by a prism is",
+      "options": ["Reflection", "Dispersion", "Diffraction", "Interference"],
+      "answer": "B"
+    },
+    {
+      "id": 71,
+      "section": "Refraction of Light through Lenses",
+      "question": "A converging lens is also called a",
+      "options": ["Concave lens", "Convex lens", "Plane lens", "Cylindrical lens"],
+      "answer": "B"
+    },
+    {
+      "id": 72,
+      "section": "Refraction of Light through Lenses",
+      "question": "A diverging lens is also called a",
+      "options": ["Concave lens", "Convex lens", "Plane lens", "Bifocal lens"],
+      "answer": "A"
+    },
+    {
+      "id": 73,
+      "section": "Refraction of Light through Lenses",
+      "question": "The point on the principal axis of a lens at which rays parallel to the axis converge or appear to diverge from is called the",
+      "options": ["Optical centre", "Principal focus", "Centre of curvature", "Pole"],
+      "answer": "B"
+    },
+    {
+      "id": 74,
+      "section": "Refraction of Light through Lenses",
+      "question": "The distance between the optical centre and the principal focus of a lens is called the",
+      "options": ["Radius of curvature", "Focal length", "Aperture", "Image distance"],
+      "answer": "B"
+    },
+    {
+      "id": 75,
+      "section": "Refraction of Light through Lenses",
+      "question": "The lens formula is given by",
+      "options": ["1/f = 1/v + 1/u", "1/f = 1/v - 1/u", "f = uv/(u+v)", "f = u + v"],
+      "answer": "A"
+    },
+    {
+      "id": 76,
+      "section": "Refraction of Light through Lenses",
+      "question": "A convex lens of focal length 10 cm forms an image of an object placed 20 cm away. The image distance is",
+      "options": ["10 cm", "20 cm", "30 cm", "40 cm"],
+      "answer": "B"
+    },
+    {
+      "id": 77,
+      "section": "Refraction of Light through Lenses",
+      "question": "The power of a lens is the reciprocal of its",
+      "options": ["Aperture", "Focal length", "Image distance", "Object distance"],
+      "answer": "B"
+    },
+    {
+      "id": 78,
+      "section": "Refraction of Light through Lenses",
+      "question": "The unit of the power of a lens is the",
+      "options": ["Metre", "Dioptre", "Newton", "Joule"],
+      "answer": "B"
+    },
+    {
+      "id": 79,
+      "section": "Refraction of Light through Lenses",
+      "question": "A convex lens is used to correct",
+      "options": ["Short-sightedness", "Long-sightedness", "Astigmatism", "Colour blindness"],
+      "answer": "B"
+    },
+    {
+      "id": 80,
+      "section": "Refraction of Light through Lenses",
+      "question": "A concave lens is used to correct",
+      "options": ["Short-sightedness", "Long-sightedness", "Astigmatism", "Colour blindness"],
+      "answer": "A"
+    },
+    {
+      "id": 81,
+      "section": "Refraction of Light through Lenses",
+      "question": "An object is placed at the principal focus of a convex lens. The image is formed at",
+      "options": ["The focus", "The optical centre", "Infinity", "Twice the focal length"],
+      "answer": "C"
+    },
+    {
+      "id": 82,
+      "section": "Refraction of Light through Lenses",
+      "question": "A convex lens always forms a virtual image when the object is placed",
+      "options": ["Beyond 2f", "At 2f", "Between f and the lens", "At f"],
+      "answer": "C"
+    },
+    {
+      "id": 83,
+      "section": "Refraction of Light through Lenses",
+      "question": "The magnification produced by a lens is given by",
+      "options": ["v/u", "u/v", "v × u", "v + u"],
+      "answer": "A"
+    },
+    {
+      "id": 84,
+      "section": "Refraction of Light through Lenses",
+      "question": "Which of the following is a type of lens defect?",
+      "options": ["Spherical aberration", "Chromatic aberration", "Coma", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 85,
+      "section": "Refraction of Light through Lenses",
+      "question": "A diverging lens always produces an image that is",
+      "options": ["Real and inverted", "Virtual, erect and diminished", "Real and magnified", "Virtual and magnified"],
+      "answer": "B"
+    },
+    {
+      "id": 86,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "A compound microscope consists of two",
+      "options": ["Convex lenses", "Concave lenses", "Plane mirrors", "Prisms"],
+      "answer": "A"
+    },
+    {
+      "id": 87,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "The lens of the human eye is a",
+      "options": ["Concave lens", "Convex lens", "Plane lens", "Cylindrical lens"],
+      "answer": "B"
+    },
+    {
+      "id": 88,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "The part of the human eye that controls the amount of light entering is the",
+      "options": ["Retina", "Cornea", "Iris", "Sclera"],
+      "answer": "C"
+    },
+    {
+      "id": 89,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "The image formed on the retina of the human eye is",
+      "options": ["Virtual and erect", "Real and inverted", "Real and erect", "Virtual and inverted"],
+      "answer": "B"
+    },
+    {
+      "id": 90,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "Short-sightedness (myopia) is corrected using a",
+      "options": ["Convex lens", "Concave lens", "Cylindrical lens", "Bifocal lens"],
+      "answer": "B"
+    },
+    {
+      "id": 91,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "Long-sightedness (hypermetropia) is corrected using a",
+      "options": ["Convex lens", "Concave lens", "Cylindrical lens", "Plane lens"],
+      "answer": "A"
+    },
+    {
+      "id": 92,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "The least distance of distinct vision for a normal human eye is about",
+      "options": ["10 cm", "25 cm", "50 cm", "100 cm"],
+      "answer": "B"
+    },
+    {
+      "id": 93,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "The persistence of vision is used in",
+      "options": ["A camera", "A microscope", "A film projector", "A telescope"],
+      "answer": "C"
+    },
+    {
+      "id": 94,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "A simple camera forms a",
+      "options": ["Virtual and erect image", "Real and inverted image", "Real and erect image", "Virtual and inverted image"],
+      "answer": "B"
+    },
+    {
+      "id": 95,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "A telescope is used to view",
+      "options": ["Small objects nearby", "Distant objects", "Microscopic objects", "Transparent objects"],
+      "answer": "B"
+    },
+    {
+      "id": 96,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "The objective lens of a compound microscope has a",
+      "options": ["Long focal length", "Short focal length", "Zero focal length", "Infinite focal length"],
+      "answer": "B"
+    },
+    {
+      "id": 97,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "The blind spot of the human eye is the point where the",
+      "options": ["Optic nerve leaves the eye", "Cornea is thinnest", "Iris is attached", "Lens is thickest"],
+      "answer": "A"
+    },
+    {
+      "id": 98,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "The ability of the eye to focus on objects at different distances is called",
+      "options": ["Accommodation", "Adaptation", "Persistence", "Refraction"],
+      "answer": "A"
+    },
+    {
+      "id": 99,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "A camera and the human eye both use a",
+      "options": ["Concave lens to form an image", "Convex lens to form a real image", "Plane mirror to reflect light", "Prism to disperse light"],
+      "answer": "B"
+    },
+    {
+      "id": 100,
+      "section": "Optical Instruments and the Human Eye",
+      "question": "Which of the following is NOT a part of the human eye?",
+      "options": ["Retina", "Iris", "Diaphragm", "Cornea"],
+      "answer": "C"
+    },
+    {
+      "id": 101,
+      "section": "Sound Waves",
+      "question": "Sound waves are",
+      "options": ["Transverse waves", "Longitudinal waves", "Electromagnetic waves", "Stationary waves"],
+      "answer": "B"
+    },
+    {
+      "id": 102,
+      "section": "Sound Waves",
+      "question": "Sound waves cannot travel through",
+      "options": ["Solids", "Liquids", "Gases", "Vacuum"],
+      "answer": "D"
+    },
+    {
+      "id": 103,
+      "section": "Sound Waves",
+      "question": "The pitch of a sound depends on its",
+      "options": ["Amplitude", "Frequency", "Wavelength", "Speed"],
+      "answer": "B"
+    },
+    {
+      "id": 104,
+      "section": "Sound Waves",
+      "question": "The loudness of a sound depends on its",
+      "options": ["Amplitude", "Frequency", "Wavelength", "Speed"],
+      "answer": "A"
+    },
+    {
+      "id": 105,
+      "section": "Sound Waves",
+      "question": "The quality or timbre of a sound is determined by its",
+      "options": ["Fundamental frequency", "Overtones", "Amplitude", "Speed"],
+      "answer": "B"
+    },
+    {
+      "id": 106,
+      "section": "Sound Waves",
+      "question": "An echo is due to the",
+      "options": ["Refraction of sound", "Reflection of sound", "Diffraction of sound", "Interference of sound"],
+      "answer": "B"
+    },
+    {
+      "id": 107,
+      "section": "Sound Waves",
+      "question": "The persistence of sound after the source has stopped is called",
+      "options": ["Echo", "Reverberation", "Resonance", "Diffraction"],
+      "answer": "B"
+    },
+    {
+      "id": 108,
+      "section": "Sound Waves",
+      "question": "The speed of sound is greatest in",
+      "options": ["Solids", "Liquids", "Gases", "Vacuum"],
+      "answer": "A"
+    },
+    {
+      "id": 109,
+      "section": "Sound Waves",
+      "question": "A sound wave of frequency 500 Hz travels with a speed of 340 m/s. Its wavelength is approximately",
+      "options": ["0.34 m", "0.68 m", "1.47 m", "170 m"],
+      "answer": "B"
+    },
+    {
+      "id": 110,
+      "section": "Sound Waves",
+      "question": "Noise is a sound that is",
+      "options": ["Pleasant to hear", "Irregular and unpleasant", "Of high frequency", "Of low amplitude"],
+      "answer": "B"
+    },
+    {
+      "id": 111,
+      "section": "Sound Waves",
+      "question": "Music is a sound that is",
+      "options": ["Irregular", "Pleasant and regular", "Always loud", "Always high-pitched"],
+      "answer": "B"
+    },
+    {
+      "id": 112,
+      "section": "Sound Waves",
+      "question": "The human ear can detect sound frequencies in the range",
+      "options": ["20 Hz to 20,000 Hz", "2 Hz to 2,000 Hz", "200 Hz to 200,000 Hz", "1 Hz to 10,000 Hz"],
+      "answer": "A"
+    },
+    {
+      "id": 113,
+      "section": "Sound Waves",
+      "question": "Ultrasound refers to sound waves with frequencies",
+      "options": ["Below 20 Hz", "Above 20,000 Hz", "Between 20 Hz and 20,000 Hz", "Exactly 20,000 Hz"],
+      "answer": "B"
+    },
+    {
+      "id": 114,
+      "section": "Sound Waves",
+      "question": "Infrasound refers to sound waves with frequencies",
+      "options": ["Below 20 Hz", "Above 20,000 Hz", "Between 20 Hz and 20,000 Hz", "Exactly 20 Hz"],
+      "answer": "A"
+    },
+    {
+      "id": 115,
+      "section": "Sound Waves",
+      "question": "A hearing aid is used to",
+      "options": ["Amplify sound for people with hearing impairment", "Reduce noise", "Measure sound intensity", "Produce ultrasound"],
+      "answer": "A"
+    },
+    {
+      "id": 116,
+      "section": "Forced Vibration and Resonance",
+      "question": "Resonance occurs when a body vibrates with",
+      "options": ["Zero amplitude", "Maximum amplitude at its natural frequency", "Minimum amplitude", "A frequency different from its natural frequency"],
+      "answer": "B"
+    },
+    {
+      "id": 117,
+      "section": "Forced Vibration and Resonance",
+      "question": "A forced vibration is one in which a body is made to vibrate by",
+      "options": ["Its own natural frequency", "An external periodic force", "Gravity", "Friction"],
+      "answer": "B"
+    },
+    {
+      "id": 118,
+      "section": "Forced Vibration and Resonance",
+      "question": "The natural frequency of a vibrating body is the frequency at which it vibrates when",
+      "options": ["Forced by an external agent", "Disturbed and left alone", "At rest", "Accelerated"],
+      "answer": "B"
+    },
+    {
+      "id": 119,
+      "section": "Forced Vibration and Resonance",
+      "question": "Marching soldiers are usually ordered to break step when crossing a bridge to avoid",
+      "options": ["Noise", "Resonance", "Echo", "Reflection"],
+      "answer": "B"
+    },
+    {
+      "id": 120,
+      "section": "Forced Vibration and Resonance",
+      "question": "The tuning of a radio receiver to a particular station is an example of",
+      "options": ["Reflection", "Resonance", "Diffraction", "Interference"],
+      "answer": "B"
+    },
+    {
+      "id": 121,
+      "section": "Forced Vibration and Resonance",
+      "question": "Harmonics are also called",
+      "options": ["Fundamental frequencies", "Overtones", "Amplitudes", "Wavelengths"],
+      "answer": "B"
+    },
+    {
+      "id": 122,
+      "section": "Forced Vibration and Resonance",
+      "question": "The first overtone of a vibrating string is also called the",
+      "options": ["Fundamental note", "Second harmonic", "Third harmonic", "Fourth harmonic"],
+      "answer": "B"
+    },
+    {
+      "id": 123,
+      "section": "Forced Vibration and Resonance",
+      "question": "A sonometer is used to study",
+      "options": ["Vibrations of strings", "Vibrations of air columns", "Reflection of light", "Refraction of light"],
+      "answer": "A"
+    },
+    {
+      "id": 124,
+      "section": "Forced Vibration and Resonance",
+      "question": "The frequency of a vibrating string is directly proportional to the",
+      "options": ["Length of the string", "Square root of the tension", "Mass per unit length", "Diameter of the string"],
+      "answer": "B"
+    },
+    {
+      "id": 125,
+      "section": "Forced Vibration and Resonance",
+      "question": "The frequency of a vibrating string is inversely proportional to its",
+      "options": ["Tension", "Length", "Mass", "Amplitude"],
+      "answer": "B"
+    },
+    {
+      "id": 126,
+      "section": "Forced Vibration and Resonance",
+      "question": "A resonance tube is used to determine the",
+      "options": ["Speed of sound in air", "Frequency of a tuning fork", "Wavelength of light", "Refractive index of a liquid"],
+      "answer": "A"
+    },
+    {
+      "id": 127,
+      "section": "Forced Vibration and Resonance",
+      "question": "In a closed pipe, the air column vibrates with a",
+      "options": ["Node at both ends", "Antinode at the closed end and node at the open end", "Node at the closed end and antinode at the open end", "Antinode at both ends"],
+      "answer": "C"
+    },
+    {
+      "id": 128,
+      "section": "Forced Vibration and Resonance",
+      "question": "In an open pipe, the air column vibrates with",
+      "options": ["Nodes at both ends", "Antinodes at both ends", "A node at one end and an antinode at the other", "A node in the middle"],
+      "answer": "B"
+    },
+    {
+      "id": 129,
+      "section": "Forced Vibration and Resonance",
+      "question": "A closed pipe produces only",
+      "options": ["Even harmonics", "Odd harmonics", "All harmonics", "No harmonics"],
+      "answer": "B"
+    },
+    {
+      "id": 130,
+      "section": "Forced Vibration and Resonance",
+      "question": "An open pipe produces",
+      "options": ["Only even harmonics", "Only odd harmonics", "All harmonics", "No harmonics"],
+      "answer": "C"
+    },
+    {
+      "id": 131,
+      "section": "Forced Vibration and Resonance",
+      "question": "The fundamental frequency of a closed pipe of length L is (v = speed of sound)",
+      "options": ["v/2L", "v/4L", "v/L", "2v/L"],
+      "answer": "B"
+    },
+    {
+      "id": 132,
+      "section": "Forced Vibration and Resonance",
+      "question": "The fundamental frequency of an open pipe of length L is",
+      "options": ["v/2L", "v/4L", "v/L", "2v/L"],
+      "answer": "A"
+    },
+    {
+      "id": 133,
+      "section": "Forced Vibration and Resonance",
+      "question": "Which of the following is a wind instrument?",
+      "options": ["Guitar", "Piano", "Flute", "Drum"],
+      "answer": "C"
+    },
+    {
+      "id": 134,
+      "section": "Forced Vibration and Resonance",
+      "question": "Which of the following is a string instrument?",
+      "options": ["Trumpet", "Saxophone", "Guitar", "Bell"],
+      "answer": "C"
+    },
+    {
+      "id": 135,
+      "section": "Forced Vibration and Resonance",
+      "question": "Which of the following is a percussion instrument?",
+      "options": ["Flute", "Violin", "Drum", "Clarinet"],
+      "answer": "C"
+    },
+    {
+      "id": 136,
+      "section": "Current Electricity",
+      "question": "Electric current is the rate of flow of",
+      "options": ["Charge", "Voltage", "Resistance", "Power"],
+      "answer": "A"
+    },
+    {
+      "id": 137,
+      "section": "Current Electricity",
+      "question": "The unit of electric current is the",
+      "options": ["Volt", "Ohm", "Ampere", "Watt"],
+      "answer": "C"
+    },
+    {
+      "id": 138,
+      "section": "Current Electricity",
+      "question": "Ohm's law states that the current through a metallic conductor is directly proportional to the",
+      "options": ["Resistance", "Potential difference", "Length", "Area"],
+      "answer": "B"
+    },
+    {
+      "id": 139,
+      "section": "Current Electricity",
+      "question": "The unit of resistance is the",
+      "options": ["Ampere", "Volt", "Ohm", "Watt"],
+      "answer": "C"
+    },
+    {
+      "id": 140,
+      "section": "Current Electricity",
+      "question": "A potential difference of 12 V is applied across a resistor of 4 Ω. The current flowing is",
+      "options": ["3 A", "4 A", "12 A", "48 A"],
+      "answer": "A"
+    },
+    {
+      "id": 141,
+      "section": "Current Electricity",
+      "question": "The instrument used to measure electric current is the",
+      "options": ["Voltmeter", "Ammeter", "Galvanometer", "Ohmmeter"],
+      "answer": "B"
+    },
+    {
+      "id": 142,
+      "section": "Current Electricity",
+      "question": "The instrument used to measure potential difference is the",
+      "options": ["Ammeter", "Voltmeter", "Galvanometer", "Ohmmeter"],
+      "answer": "B"
+    },
+    {
+      "id": 143,
+      "section": "Current Electricity",
+      "question": "The resistance of a wire is directly proportional to its",
+      "options": ["Length", "Area", "Temperature", "Current"],
+      "answer": "A"
+    },
+    {
+      "id": 144,
+      "section": "Current Electricity",
+      "question": "The resistance of a wire is inversely proportional to its",
+      "options": ["Length", "Cross-sectional area", "Resistivity", "Temperature"],
+      "answer": "B"
+    },
+    {
+      "id": 145,
+      "section": "Current Electricity",
+      "question": "A resistor of 5 Ω carries a current of 2 A. The potential difference across it is",
+      "options": ["2.5 V", "7 V", "10 V", "20 V"],
+      "answer": "C"
+    },
+    {
+      "id": 146,
+      "section": "Current Electricity",
+      "question": "The total resistance of two 4 Ω resistors in series is",
+      "options": ["2 Ω", "4 Ω", "8 Ω", "16 Ω"],
+      "answer": "C"
+    },
+    {
+      "id": 147,
+      "section": "Current Electricity",
+      "question": "The total resistance of two 4 Ω resistors in parallel is",
+      "options": ["2 Ω", "4 Ω", "8 Ω", "16 Ω"],
+      "answer": "A"
+    },
+    {
+      "id": 148,
+      "section": "Current Electricity",
+      "question": "Electrical power is given by",
+      "options": ["P = IV", "P = I/R", "P = V/R", "P = I²/V"],
+      "answer": "A"
+    },
+    {
+      "id": 149,
+      "section": "Current Electricity",
+      "question": "The unit of electrical energy is the",
+      "options": ["Watt", "Joule", "Ampere", "Volt"],
+      "answer": "B"
+    },
+    {
+      "id": 150,
+      "section": "Current Electricity",
+      "question": "A current of 2 A flows through a resistor for 10 s under a potential difference of 12 V. The work done is",
+      "options": ["24 J", "120 J", "240 J", "1200 J"],
+      "answer": "C"
+    },
+    {
+      "id": 151,
+      "section": "Current Electricity",
+      "question": "A fuse is used in an electric circuit to",
+      "options": ["Increase current", "Break the circuit when current is too high", "Store energy", "Measure voltage"],
+      "answer": "B"
+    },
+    {
+      "id": 152,
+      "section": "Current Electricity",
+      "question": "The power dissipated by a resistor of 10 Ω carrying a current of 2 A is",
+      "options": ["20 W", "40 W", "80 W", "200 W"],
+      "answer": "B"
+    },
+    {
+      "id": 153,
+      "section": "Current Electricity",
+      "question": "One kilowatt-hour is a unit of",
+      "options": ["Power", "Energy", "Force", "Current"],
+      "answer": "B"
+    },
+    {
+      "id": 154,
+      "section": "Current Electricity",
+      "question": "The resistance of a conductor increases with",
+      "options": ["Decrease in length", "Increase in temperature", "Increase in cross-sectional area", "Decrease in resistivity"],
+      "answer": "B"
+    },
+    {
+      "id": 155,
+      "section": "Current Electricity",
+      "question": "The resistivity of a material is measured in",
+      "options": ["Ω", "Ω·m", "Ω/m", "Ω/m²"],
+      "answer": "B"
+    },
+    {
+      "id": 156,
+      "section": "Current Electricity",
+      "question": "An electric bulb is rated 220 V, 100 W. The current through the bulb is approximately",
+      "options": ["0.45 A", "2.2 A", "4.5 A", "22 A"],
+      "answer": "A"
+    },
+    {
+      "id": 157,
+      "section": "Current Electricity",
+      "question": "The energy consumed by a 1000 W appliance used for 2 hours is",
+      "options": ["0.5 kWh", "2 kWh", "20 kWh", "200 kWh"],
+      "answer": "B"
+    },
+    {
+      "id": 158,
+      "section": "Current Electricity",
+      "question": "A short circuit occurs when",
+      "options": ["Resistance is very high", "A low-resistance path bypasses the load", "Current is zero", "Voltage is zero"],
+      "answer": "B"
+    },
+    {
+      "id": 159,
+      "section": "Current Electricity",
+      "question": "The electromotive force (e.m.f.) of a cell is measured in",
+      "options": ["Amperes", "Ohms", "Volts", "Watts"],
+      "answer": "C"
+    },
+    {
+      "id": 160,
+      "section": "Current Electricity",
+      "question": "A current of 0.5 A flows through a conductor of resistance 20 Ω. The potential difference is",
+      "options": ["0.025 V", "10 V", "20.5 V", "40 V"],
+      "answer": "B"
+    },
+    {
+      "id": 161,
+      "section": "Electric Fields and Electrostatics",
+      "question": "There are two types of electric charges, namely",
+      "options": ["Positive and negative", "North and south", "Static and current", "Conductors and insulators"],
+      "answer": "A"
+    },
+    {
+      "id": 162,
+      "section": "Electric Fields and Electrostatics",
+      "question": "Like charges",
+      "options": ["Attract each other", "Repel each other", "Neutralize each other", "Have no effect on each other"],
+      "answer": "B"
+    },
+    {
+      "id": 163,
+      "section": "Electric Fields and Electrostatics",
+      "question": "Unlike charges",
+      "options": ["Attract each other", "Repel each other", "Neutralize each other", "Have no effect on each other"],
+      "answer": "A"
+    },
+    {
+      "id": 164,
+      "section": "Electric Fields and Electrostatics",
+      "question": "The instrument used to detect electric charges is the",
+      "options": ["Ammeter", "Voltmeter", "Gold-leaf electroscope", "Galvanometer"],
+      "answer": "C"
+    },
+    {
+      "id": 165,
+      "section": "Electric Fields and Electrostatics",
+      "question": "Charging by induction involves",
+      "options": ["Direct contact", "Bringing a charged body near a neutral body", "Rubbing two bodies together", "Heating a body"],
+      "answer": "B"
+    },
+    {
+      "id": 166,
+      "section": "Electric Fields and Electrostatics",
+      "question": "The unit of electric charge is the",
+      "options": ["Ampere", "Volt", "Coulomb", "Ohm"],
+      "answer": "C"
+    },
+    {
+      "id": 167,
+      "section": "Electric Fields and Electrostatics",
+      "question": "The force between two point charges is given by",
+      "options": ["Newton's law", "Coulomb's law", "Ohm's law", "Boyle's law"],
+      "answer": "B"
+    },
+    {
+      "id": 168,
+      "section": "Electric Fields and Electrostatics",
+      "question": "Electric field intensity is defined as the force per unit",
+      "options": ["Charge", "Mass", "Length", "Area"],
+      "answer": "A"
+    },
+    {
+      "id": 169,
+      "section": "Electric Fields and Electrostatics",
+      "question": "The unit of electric field intensity is the",
+      "options": ["N/C", "C/N", "J/C", "V/m"],
+      "answer": "A"
+    },
+    {
+      "id": 170,
+      "section": "Electric Fields and Electrostatics",
+      "question": "Electric field lines originate from",
+      "options": ["Negative charges", "Positive charges", "Neutral bodies", "Magnetic poles"],
+      "answer": "B"
+    },
+    {
+      "id": 171,
+      "section": "Electric Fields and Electrostatics",
+      "question": "A lightning conductor protects tall buildings by",
+      "options": ["Attracting lightning", "Conducting lightning to the ground", "Repelling lightning", "Storing lightning"],
+      "answer": "B"
+    },
+    {
+      "id": 172,
+      "section": "Electric Fields and Electrostatics",
+      "question": "Charges are concentrated at the",
+      "options": ["Flat surfaces of a conductor", "Sharp points of a conductor", "Centre of a conductor", "Middle of a conductor"],
+      "answer": "B"
+    },
+    {
+      "id": 173,
+      "section": "Electric Fields and Electrostatics",
+      "question": "Two positive charges of 2 μC and 3 μC are separated by 0.1 m. The force between them is (k = 9 × 10⁹ N·m²/C²)",
+      "options": ["5.4 N", "54 N", "540 N", "5400 N"],
+      "answer": "A"
+    },
+    {
+      "id": 174,
+      "section": "Electric Fields and Electrostatics",
+      "question": "When a glass rod is rubbed with silk, the glass rod becomes",
+      "options": ["Positively charged", "Negatively charged", "Neutral", "Magnetic"],
+      "answer": "A"
+    },
+    {
+      "id": 175,
+      "section": "Electric Fields and Electrostatics",
+      "question": "Which of the following materials is an insulator?",
+      "options": ["Copper", "Aluminum", "Rubber", "Iron"],
+      "answer": "C"
+    },
+    {
+      "id": 176,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "The magnetic field of a bar magnet is strongest at the",
+      "options": ["Centre", "Poles", "Sides", "Middle"],
+      "answer": "B"
+    },
+    {
+      "id": 177,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "Like magnetic poles",
+      "options": ["Attract each other", "Repel each other", "Neutralize each other", "Have no effect on each other"],
+      "answer": "B"
+    },
+    {
+      "id": 178,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "Unlike magnetic poles",
+      "options": ["Attract each other", "Repel each other", "Neutralize each other", "Have no effect on each other"],
+      "answer": "A"
+    },
+    {
+      "id": 179,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "A magnetic field line is a line drawn such that its tangent at any point gives the",
+      "options": ["Magnitude of the field", "Direction of the field", "Both magnitude and direction", "Neither magnitude nor direction"],
+      "answer": "B"
+    },
+    {
+      "id": 180,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "Iron filings are used to",
+      "options": ["Visualize magnetic field lines", "Measure electric current", "Detect gravitational field", "Measure temperature"],
+      "answer": "A"
+    },
+    {
+      "id": 181,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "The region around a magnet where its magnetic influence is felt is called the",
+      "options": ["Electric field", "Magnetic field", "Gravitational field", "Magnetic domain"],
+      "answer": "B"
+    },
+    {
+      "id": 182,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "A material that is easily magnetized and demagnetized is called a",
+      "options": ["Permanent magnet", "Soft magnetic material", "Hard magnetic material", "Non-magnetic material"],
+      "answer": "B"
+    },
+    {
+      "id": 183,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "The magnetic effect of an electric current was discovered by",
+      "options": ["Michael Faraday", "Hans Christian Oersted", "Isaac Newton", "James Clerk Maxwell"],
+      "answer": "B"
+    },
+    {
+      "id": 184,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "An electromagnet is made by winding a coil of wire around a",
+      "options": ["Plastic core", "Soft iron core", "Wooden core", "Glass core"],
+      "answer": "B"
+    },
+    {
+      "id": 185,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "The strength of an electromagnet can be increased by",
+      "options": ["Decreasing the current", "Increasing the number of turns of the coil", "Using a non-magnetic core", "Decreasing the number of turns"],
+      "answer": "B"
+    },
+    {
+      "id": 186,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "The direction of the magnetic field around a straight current-carrying conductor is given by",
+      "options": ["Fleming's left-hand rule", "The right-hand grip rule", "Lenz's law", "Faraday's law"],
+      "answer": "B"
+    },
+    {
+      "id": 187,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "A solenoid is a",
+      "options": ["Single straight wire", "Coil of wire with many turns", "Permanent magnet", "Type of resistor"],
+      "answer": "B"
+    },
+    {
+      "id": 188,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "The magnetic field inside a solenoid is",
+      "options": ["Zero", "Uniform", "Strongest at the ends", "Weakest at the centre"],
+      "answer": "B"
+    },
+    {
+      "id": 189,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "Electromagnetic induction is the process of producing",
+      "options": ["A magnetic field from an electric current", "An electric current from a changing magnetic field", "Heat from electricity", "Light from magnetism"],
+      "answer": "B"
+    },
+    {
+      "id": 190,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "Faraday's law of electromagnetic induction states that the induced e.m.f. is proportional to the rate of change of",
+      "options": ["Current", "Magnetic flux", "Resistance", "Voltage"],
+      "answer": "B"
+    },
+    {
+      "id": 191,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "Lenz's law states that the direction of the induced current is such as to oppose the",
+      "options": ["Change producing it", "Magnetic field", "Electric field", "Gravitational field"],
+      "answer": "A"
+    },
+    {
+      "id": 192,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "A generator converts",
+      "options": ["Chemical energy to electrical energy", "Mechanical energy to electrical energy", "Electrical energy to mechanical energy", "Solar energy to electrical energy"],
+      "answer": "B"
+    },
+    {
+      "id": 193,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "An electric motor converts",
+      "options": ["Mechanical energy to electrical energy", "Electrical energy to mechanical energy", "Chemical energy to electrical energy", "Heat energy to electrical energy"],
+      "answer": "B"
+    },
+    {
+      "id": 194,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "The device that converts electrical energy to mechanical energy is the",
+      "options": ["Generator", "Electric motor", "Transformer", "Battery"],
+      "answer": "B"
+    },
+    {
+      "id": 195,
+      "section": "Magnetic Fields and Electromagnetism",
+      "question": "A transformer works on the principle of",
+      "options": ["Electromagnetic induction", "Electrostatic induction", "Self-induction only", "Magnetic attraction"],
+      "answer": "A"
+    },
+    {
+      "id": 196,
+      "section": "Energy and Society",
+      "question": "Which of the following is a renewable source of energy?",
+      "options": ["Coal", "Petroleum", "Solar energy", "Natural gas"],
+      "answer": "C"
+    },
+    {
+      "id": 197,
+      "section": "Energy and Society",
+      "question": "Which of the following is a non-renewable source of energy?",
+      "options": ["Wind energy", "Solar energy", "Coal", "Tidal energy"],
+      "answer": "C"
+    },
+    {
+      "id": 198,
+      "section": "Energy and Society",
+      "question": "The greenhouse effect is caused by the trapping of",
+      "options": ["Ultraviolet radiation", "Infrared radiation", "Visible light", "X-rays"],
+      "answer": "B"
+    },
+    {
+      "id": 199,
+      "section": "Energy and Society",
+      "question": "Oil spillage in water bodies mainly affects",
+      "options": ["Aquatic life", "Air quality", "Soil fertility", "Noise levels"],
+      "answer": "A"
+    },
+    {
+      "id": 200,
+      "section": "Energy and Society",
+      "question": "A device that converts solar energy directly to electrical energy is a",
+      "options": ["Generator", "Solar cell", "Transformer", "Motor"],
+      "answer": "B"
+    }
+  ]
+}

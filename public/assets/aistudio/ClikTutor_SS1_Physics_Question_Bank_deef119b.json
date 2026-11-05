@@ -1,0 +1,5490 @@
+{
+  "metadata": {
+    "app": "ClikTutor",
+    "subject": "Physics",
+    "class": "SS1",
+    "description": "Original exam-style practice questions based on common Nigerian SS1 topics; not verbatim past examination questions.",
+    "totalQuestions": 322,
+    "terms": [
+      "First Term",
+      "Second Term",
+      "Third Term"
+    ]
+  },
+  "questions": [
+    {
+      "id": "SS1-PHY-FIRST-001",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Which of the following is an SI base quantity?",
+      "options": {
+        "A": "Length",
+        "B": "Pressure",
+        "C": "Force",
+        "D": "Energy"
+      },
+      "correctAnswer": "A",
+      "answerText": "Length",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-002",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The SI unit of mass is the",
+      "options": {
+        "A": "newton",
+        "B": "gram",
+        "C": "pound",
+        "D": "kilogram"
+      },
+      "correctAnswer": "D",
+      "answerText": "kilogram",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-003",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Which is a derived quantity?",
+      "options": {
+        "A": "Time",
+        "B": "Density",
+        "C": "Electric current",
+        "D": "Temperature"
+      },
+      "correctAnswer": "B",
+      "answerText": "Density",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-004",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The SI unit of time is the",
+      "options": {
+        "A": "second",
+        "B": "minute",
+        "C": "hour",
+        "D": "day"
+      },
+      "correctAnswer": "A",
+      "answerText": "second",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-005",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The instrument best suited to measure the diameter of a thin wire is a",
+      "options": {
+        "A": "metre rule",
+        "B": "spring balance",
+        "C": "micrometer screw gauge",
+        "D": "stopwatch"
+      },
+      "correctAnswer": "C",
+      "answerText": "micrometer screw gauge",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-006",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A vernier caliper is commonly used to measure",
+      "options": {
+        "A": "force only",
+        "B": "electric current",
+        "C": "small lengths and internal/external diameters",
+        "D": "temperature"
+      },
+      "correctAnswer": "C",
+      "answerText": "small lengths and internal/external diameters",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-007",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The least count of an instrument is its",
+      "options": {
+        "A": "zero error",
+        "B": "smallest readable measurement",
+        "C": "maximum reading",
+        "D": "average reading"
+      },
+      "correctAnswer": "B",
+      "answerText": "smallest readable measurement",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-008",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A quantity with magnitude only is called a",
+      "options": {
+        "A": "scalar",
+        "B": "tensor",
+        "C": "component",
+        "D": "vector"
+      },
+      "correctAnswer": "A",
+      "answerText": "scalar",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-009",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Which of these is a vector quantity?",
+      "options": {
+        "A": "Speed",
+        "B": "Distance",
+        "C": "Mass",
+        "D": "Displacement"
+      },
+      "correctAnswer": "D",
+      "answerText": "Displacement",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-010",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The SI unit of velocity is",
+      "options": {
+        "A": "m/s",
+        "B": "kg m/s",
+        "C": "m/s²",
+        "D": "N"
+      },
+      "correctAnswer": "A",
+      "answerText": "m/s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-011",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Distance is best described as",
+      "options": {
+        "A": "total path length travelled",
+        "B": "distance per unit time",
+        "C": "change in position in a direction",
+        "D": "rate of change of velocity"
+      },
+      "correctAnswer": "A",
+      "answerText": "total path length travelled",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-012",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Displacement depends on",
+      "options": {
+        "A": "the path taken only",
+        "B": "the total distance only",
+        "C": "the time taken only",
+        "D": "initial and final positions"
+      },
+      "correctAnswer": "D",
+      "answerText": "initial and final positions",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-013",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A student walks 8 m east and then 3 m west. The displacement is",
+      "options": {
+        "A": "11 m east",
+        "B": "5 m east",
+        "C": "11 m west",
+        "D": "5 m west"
+      },
+      "correctAnswer": "B",
+      "answerText": "5 m east",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-014",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A runner completes one full lap of a circular track. The displacement is",
+      "options": {
+        "A": "equal to the circumference",
+        "B": "zero",
+        "C": "equal to the radius",
+        "D": "twice the radius"
+      },
+      "correctAnswer": "B",
+      "answerText": "zero",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-015",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Speed is defined as",
+      "options": {
+        "A": "change in velocity/time",
+        "B": "distance/time",
+        "C": "displacement/time",
+        "D": "force/mass"
+      },
+      "correctAnswer": "B",
+      "answerText": "distance/time",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-016",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A car travels 150 m in 10 s. Its average speed is",
+      "options": {
+        "A": "25 m/s",
+        "B": "15 m/s",
+        "C": "10 m/s",
+        "D": "20 m/s"
+      },
+      "correctAnswer": "B",
+      "answerText": "15 m/s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-017",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Velocity differs from speed because velocity includes",
+      "options": {
+        "A": "direction",
+        "B": "distance only",
+        "C": "time only",
+        "D": "mass"
+      },
+      "correctAnswer": "A",
+      "answerText": "direction",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-018",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Acceleration is the rate of change of",
+      "options": {
+        "A": "velocity",
+        "B": "distance",
+        "C": "displacement",
+        "D": "mass"
+      },
+      "correctAnswer": "A",
+      "answerText": "velocity",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-019",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A body’s velocity changes from 4 m/s to 16 m/s in 3 s. Its acceleration is",
+      "options": {
+        "A": "4 m/s²",
+        "B": "3 m/s²",
+        "C": "12 m/s²",
+        "D": "6 m/s²"
+      },
+      "correctAnswer": "A",
+      "answerText": "4 m/s²",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-020",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A body moving with constant velocity has",
+      "options": {
+        "A": "increasing acceleration",
+        "B": "negative speed",
+        "C": "increasing displacement only",
+        "D": "zero acceleration"
+      },
+      "correctAnswer": "D",
+      "answerText": "zero acceleration",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-021",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The gradient of a distance–time graph represents",
+      "options": {
+        "A": "acceleration",
+        "B": "speed",
+        "C": "momentum",
+        "D": "force"
+      },
+      "correctAnswer": "B",
+      "answerText": "speed",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-022",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The gradient of a velocity–time graph represents",
+      "options": {
+        "A": "acceleration",
+        "B": "displacement",
+        "C": "power",
+        "D": "distance"
+      },
+      "correctAnswer": "A",
+      "answerText": "acceleration",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-023",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The area under a velocity–time graph represents",
+      "options": {
+        "A": "mass",
+        "B": "force",
+        "C": "acceleration",
+        "D": "displacement"
+      },
+      "correctAnswer": "D",
+      "answerText": "displacement",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-024",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A horizontal line on a velocity–time graph indicates",
+      "options": {
+        "A": "the body is necessarily at rest",
+        "B": "uniform acceleration",
+        "C": "constant velocity",
+        "D": "increasing velocity"
+      },
+      "correctAnswer": "C",
+      "answerText": "constant velocity",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-025",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The equation v = u + at applies to",
+      "options": {
+        "A": "static equilibrium",
+        "B": "all changing motion",
+        "C": "uniformly accelerated motion",
+        "D": "circular motion only"
+      },
+      "correctAnswer": "C",
+      "answerText": "uniformly accelerated motion",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-026",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A body starts from rest and accelerates at 2 m/s² for 5 s. Its final velocity is",
+      "options": {
+        "A": "2 m/s",
+        "B": "25 m/s",
+        "C": "10 m/s",
+        "D": "5 m/s"
+      },
+      "correctAnswer": "C",
+      "answerText": "10 m/s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-027",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A body starts from rest and accelerates at 3 m/s² for 4 s. Distance travelled is",
+      "options": {
+        "A": "18 m",
+        "B": "12 m",
+        "C": "48 m",
+        "D": "24 m"
+      },
+      "correctAnswer": "D",
+      "answerText": "24 m",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-028",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A car slows from 20 m/s to 5 m/s in 3 s. Its acceleration is",
+      "options": {
+        "A": "−3 m/s²",
+        "B": "15 m/s²",
+        "C": "−5 m/s²",
+        "D": "5 m/s²"
+      },
+      "correctAnswer": "C",
+      "answerText": "−5 m/s²",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-029",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Which type of motion is shown by a swinging pendulum?",
+      "options": {
+        "A": "Oscillatory",
+        "B": "Translational only",
+        "C": "Random",
+        "D": "Rectilinear"
+      },
+      "correctAnswer": "A",
+      "answerText": "Oscillatory",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-030",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The motion of a ceiling fan blade is mainly",
+      "options": {
+        "A": "oscillatory",
+        "B": "rectilinear",
+        "C": "random",
+        "D": "rotational"
+      },
+      "correctAnswer": "D",
+      "answerText": "rotational",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-031",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Brownian motion is an example of",
+      "options": {
+        "A": "random motion of particles",
+        "B": "projectile motion",
+        "C": "circular motion",
+        "D": "uniform motion"
+      },
+      "correctAnswer": "A",
+      "answerText": "random motion of particles",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-032",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The force that opposes relative motion between surfaces in contact is",
+      "options": {
+        "A": "friction",
+        "B": "upthrust",
+        "C": "weight",
+        "D": "tension"
+      },
+      "correctAnswer": "A",
+      "answerText": "friction",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-033",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Lubricants reduce friction by",
+      "options": {
+        "A": "increasing weight",
+        "B": "increasing normal reaction",
+        "C": "separating surfaces with a thin layer",
+        "D": "increasing roughness"
+      },
+      "correctAnswer": "C",
+      "answerText": "separating surfaces with a thin layer",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-034",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The weight of a body is given by",
+      "options": {
+        "A": "m+g",
+        "B": "mg",
+        "C": "g/m",
+        "D": "m/g"
+      },
+      "correctAnswer": "B",
+      "answerText": "mg",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-035",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The SI unit of weight is",
+      "options": {
+        "A": "watt",
+        "B": "joule",
+        "C": "newton",
+        "D": "kg"
+      },
+      "correctAnswer": "C",
+      "answerText": "newton",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-036",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A 6 kg body has a weight of approximately",
+      "options": {
+        "A": "600 N",
+        "B": "60 N",
+        "C": "0.6 N",
+        "D": "6 N"
+      },
+      "correctAnswer": "B",
+      "answerText": "60 N",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-037",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Mass is a measure of the amount of",
+      "options": {
+        "A": "matter in a body",
+        "B": "space occupied",
+        "C": "gravitational force",
+        "D": "heat in a body"
+      },
+      "correctAnswer": "A",
+      "answerText": "matter in a body",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-038",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Density is defined as",
+      "options": {
+        "A": "mass/volume",
+        "B": "weight/area",
+        "C": "mass × volume",
+        "D": "volume/mass"
+      },
+      "correctAnswer": "A",
+      "answerText": "mass/volume",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-039",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A body of mass 200 g occupies 50 cm³. Its density is",
+      "options": {
+        "A": "4 g/cm³",
+        "B": "2 g/cm³",
+        "C": "10 g/cm³",
+        "D": "5 g/cm³"
+      },
+      "correctAnswer": "A",
+      "answerText": "4 g/cm³",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-040",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Relative density is the ratio of a substance’s density to the density of",
+      "options": {
+        "A": "air always",
+        "B": "mercury only",
+        "C": "water for solids/liquids",
+        "D": "the substance itself"
+      },
+      "correctAnswer": "C",
+      "answerText": "water for solids/liquids",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-041",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A substance with relative density less than 1 will generally",
+      "options": {
+        "A": "evaporate immediately",
+        "B": "dissolve in water",
+        "C": "float in water",
+        "D": "sink in water"
+      },
+      "correctAnswer": "C",
+      "answerText": "float in water",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-042",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The volume of a regular solid can be found from its",
+      "options": {
+        "A": "temperature",
+        "B": "weight only",
+        "C": "dimensions",
+        "D": "mass only"
+      },
+      "correctAnswer": "C",
+      "answerText": "dimensions",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-043",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The volume of an irregular stone is conveniently measured using",
+      "options": {
+        "A": "water displacement",
+        "B": "a stopwatch",
+        "C": "a thermometer",
+        "D": "an ammeter"
+      },
+      "correctAnswer": "A",
+      "answerText": "water displacement",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-044",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The SI unit of volume is",
+      "options": {
+        "A": "N/m²",
+        "B": "kg/m³",
+        "C": "m²",
+        "D": "m³"
+      },
+      "correctAnswer": "D",
+      "answerText": "m³",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-045",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A scalar quantity among the following is",
+      "options": {
+        "A": "acceleration",
+        "B": "force",
+        "C": "temperature",
+        "D": "momentum"
+      },
+      "correctAnswer": "C",
+      "answerText": "temperature",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-046",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Two perpendicular vectors have magnitudes 3 units and 4 units. Their resultant magnitude is",
+      "options": {
+        "A": "1 unit",
+        "B": "7 units",
+        "C": "5 units",
+        "D": "12 units"
+      },
+      "correctAnswer": "C",
+      "answerText": "5 units",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-047",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A force of 10 N acts east and another 6 N acts west. The resultant is",
+      "options": {
+        "A": "16 N east",
+        "B": "4 N west",
+        "C": "16 N west",
+        "D": "4 N east"
+      },
+      "correctAnswer": "D",
+      "answerText": "4 N east",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-048",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The component of a vector along an axis is found by",
+      "options": {
+        "A": "taking its reciprocal",
+        "B": "multiplying by its direction cosine",
+        "C": "dividing by mass",
+        "D": "adding its units"
+      },
+      "correctAnswer": "B",
+      "answerText": "multiplying by its direction cosine",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-049",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A measuring instrument that has a zero error gives readings that are",
+      "options": {
+        "A": "free of all errors",
+        "B": "necessarily too small",
+        "C": "always exact",
+        "D": "systematically shifted"
+      },
+      "correctAnswer": "D",
+      "answerText": "systematically shifted",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-050",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Repeating measurements and taking their mean can reduce",
+      "options": {
+        "A": "the true value",
+        "B": "all systematic error",
+        "C": "random error",
+        "D": "the unit of measurement"
+      },
+      "correctAnswer": "C",
+      "answerText": "random error",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-051",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The main purpose of a stopwatch is to measure",
+      "options": {
+        "A": "mass",
+        "B": "length",
+        "C": "temperature",
+        "D": "time interval"
+      },
+      "correctAnswer": "D",
+      "answerText": "time interval",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-052",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A physical quantity must be expressed with a numerical value and a",
+      "options": {
+        "A": "diagram",
+        "B": "direction in every case",
+        "C": "unit",
+        "D": "formula only"
+      },
+      "correctAnswer": "C",
+      "answerText": "unit",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-053",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The SI unit of area is",
+      "options": {
+        "A": "cm³",
+        "B": "m",
+        "C": "m³",
+        "D": "m²"
+      },
+      "correctAnswer": "D",
+      "answerText": "m²",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-054",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The SI unit of acceleration is",
+      "options": {
+        "A": "N m",
+        "B": "m/s",
+        "C": "kg m/s",
+        "D": "m/s²"
+      },
+      "correctAnswer": "D",
+      "answerText": "m/s²",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-055",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "An object moving at 12 m/s for 6 s covers",
+      "options": {
+        "A": "144 m",
+        "B": "2 m",
+        "C": "72 m",
+        "D": "18 m"
+      },
+      "correctAnswer": "C",
+      "answerText": "72 m",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-056",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A cyclist covers 2 km in 5 minutes. Average speed is",
+      "options": {
+        "A": "24 m/s",
+        "B": "10 m/s",
+        "C": "4 m/s",
+        "D": "6.67 m/s"
+      },
+      "correctAnswer": "D",
+      "answerText": "6.67 m/s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-057",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "If a body’s velocity is constant, its displacement–time graph is a",
+      "options": {
+        "A": "horizontal line in every case",
+        "B": "vertical line",
+        "C": "straight line of constant gradient",
+        "D": "parabola"
+      },
+      "correctAnswer": "C",
+      "answerText": "straight line of constant gradient",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-058",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A body accelerates from 0 to 10 m/s in 5 s. Its acceleration is",
+      "options": {
+        "A": "50 m/s²",
+        "B": "5 m/s²",
+        "C": "2 m/s²",
+        "D": "0.5 m/s²"
+      },
+      "correctAnswer": "C",
+      "answerText": "2 m/s²",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-059",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "For uniform acceleration, the average velocity is",
+      "options": {
+        "A": "v−u",
+        "B": "(u+v)/2",
+        "C": "u+v",
+        "D": "uv/2"
+      },
+      "correctAnswer": "B",
+      "answerText": "(u+v)/2",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-060",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A car moving at 10 m/s accelerates at 2 m/s² for 3 s. Its final speed is",
+      "options": {
+        "A": "20 m/s",
+        "B": "16 m/s",
+        "C": "6 m/s",
+        "D": "13 m/s"
+      },
+      "correctAnswer": "B",
+      "answerText": "16 m/s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-061",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A body starts at 5 m/s and accelerates at 2 m/s² for 4 s. Distance travelled is",
+      "options": {
+        "A": "36 m",
+        "B": "52 m",
+        "C": "20 m",
+        "D": "16 m"
+      },
+      "correctAnswer": "A",
+      "answerText": "36 m",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-062",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A body moving in a straight line with decreasing speed has",
+      "options": {
+        "A": "acceleration opposite its velocity",
+        "B": "no forces acting",
+        "C": "zero acceleration",
+        "D": "constant displacement"
+      },
+      "correctAnswer": "A",
+      "answerText": "acceleration opposite its velocity",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-063",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The SI unit of force is named after",
+      "options": {
+        "A": "Newton",
+        "B": "Joule",
+        "C": "Watt",
+        "D": "Pascal"
+      },
+      "correctAnswer": "A",
+      "answerText": "Newton",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-064",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A force can change an object’s",
+      "options": {
+        "A": "shape",
+        "B": "state of motion",
+        "C": "all of these",
+        "D": "direction"
+      },
+      "correctAnswer": "C",
+      "answerText": "all of these",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-065",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The instrument used to measure weight is a",
+      "options": {
+        "A": "metre rule",
+        "B": "measuring cylinder",
+        "C": "spring balance",
+        "D": "beam balance"
+      },
+      "correctAnswer": "C",
+      "answerText": "spring balance",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-066",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A beam balance compares",
+      "options": {
+        "A": "temperatures",
+        "B": "masses",
+        "C": "volumes",
+        "D": "weights directly in all locations"
+      },
+      "correctAnswer": "B",
+      "answerText": "masses",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-067",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The best unit for the thickness of a sheet of paper is",
+      "options": {
+        "A": "light-year",
+        "B": "kilometre",
+        "C": "metre",
+        "D": "millimetre"
+      },
+      "correctAnswer": "D",
+      "answerText": "millimetre",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-068",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "One kilometre is equal to",
+      "options": {
+        "A": "100 m",
+        "B": "10,000 m",
+        "C": "10 m",
+        "D": "1,000 m"
+      },
+      "correctAnswer": "D",
+      "answerText": "1,000 m",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-069",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "One hour contains",
+      "options": {
+        "A": "60 s",
+        "B": "3,600 s",
+        "C": "36,000 s",
+        "D": "600 s"
+      },
+      "correctAnswer": "B",
+      "answerText": "3,600 s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-070",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Which is not an SI base unit?",
+      "options": {
+        "A": "mole",
+        "B": "newton",
+        "C": "kelvin",
+        "D": "ampere"
+      },
+      "correctAnswer": "B",
+      "answerText": "newton",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-071",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The SI unit of thermodynamic temperature is",
+      "options": {
+        "A": "watt",
+        "B": "degree Celsius",
+        "C": "kelvin",
+        "D": "joule"
+      },
+      "correctAnswer": "C",
+      "answerText": "kelvin",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-072",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A straight-line graph through the origin for distance against time indicates",
+      "options": {
+        "A": "negative time",
+        "B": "constant acceleration",
+        "C": "zero distance",
+        "D": "constant speed"
+      },
+      "correctAnswer": "D",
+      "answerText": "constant speed",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-073",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The area under a speed–time graph gives",
+      "options": {
+        "A": "force",
+        "B": "acceleration",
+        "C": "mass",
+        "D": "distance travelled"
+      },
+      "correctAnswer": "D",
+      "answerText": "distance travelled",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-074",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "When a body returns to its starting point, its average velocity is",
+      "options": {
+        "A": "zero",
+        "B": "always positive",
+        "C": "infinite",
+        "D": "equal to average speed"
+      },
+      "correctAnswer": "A",
+      "answerText": "zero",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-075",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A body moving at 5 m/s for 8 s travels",
+      "options": {
+        "A": "64 m",
+        "B": "13 m",
+        "C": "25 m",
+        "D": "40 m"
+      },
+      "correctAnswer": "D",
+      "answerText": "40 m",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-076",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "If displacement is 20 m north in 4 s, average velocity is",
+      "options": {
+        "A": "5 m/s",
+        "B": "80 m/s north",
+        "C": "16 m/s north",
+        "D": "5 m/s north"
+      },
+      "correctAnswer": "D",
+      "answerText": "5 m/s north",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-077",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A vector is completely specified by magnitude and",
+      "options": {
+        "A": "direction",
+        "B": "unit only",
+        "C": "time",
+        "D": "mass"
+      },
+      "correctAnswer": "A",
+      "answerText": "direction",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-078",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The resultant of equal opposite vectors is",
+      "options": {
+        "A": "zero",
+        "B": "twice either vector",
+        "C": "one vector’s magnitude",
+        "D": "undefined always"
+      },
+      "correctAnswer": "A",
+      "answerText": "zero",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-079",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Friction is useful when",
+      "options": {
+        "A": "energy is wasted as heat",
+        "B": "wearing away machine parts",
+        "C": "walking",
+        "D": "surfaces overheat"
+      },
+      "correctAnswer": "C",
+      "answerText": "walking",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-080",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Streamlining a vehicle mainly reduces",
+      "options": {
+        "A": "air resistance",
+        "B": "gravity",
+        "C": "mass",
+        "D": "inertia"
+      },
+      "correctAnswer": "A",
+      "answerText": "air resistance",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-081",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The tendency of a body to resist a change in motion is called",
+      "options": {
+        "A": "density",
+        "B": "inertia",
+        "C": "power",
+        "D": "pressure"
+      },
+      "correctAnswer": "B",
+      "answerText": "inertia",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-082",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A body’s inertia depends mainly on its",
+      "options": {
+        "A": "temperature",
+        "B": "mass",
+        "C": "colour",
+        "D": "shape only"
+      },
+      "correctAnswer": "B",
+      "answerText": "mass",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-083",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "If the same distance is covered in less time, average speed is",
+      "options": {
+        "A": "zero",
+        "B": "smaller",
+        "C": "unchanged",
+        "D": "greater"
+      },
+      "correctAnswer": "D",
+      "answerText": "greater",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-084",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A car travels 60 m east and then 60 m west. Its distance is",
+      "options": {
+        "A": "30 m",
+        "B": "60 m",
+        "C": "0 m",
+        "D": "120 m"
+      },
+      "correctAnswer": "D",
+      "answerText": "120 m",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-085",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "For the journey in the previous question, the displacement is",
+      "options": {
+        "A": "0 m",
+        "B": "120 m east",
+        "C": "60 m east",
+        "D": "120 m west"
+      },
+      "correctAnswer": "A",
+      "answerText": "0 m",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-086",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The SI unit of momentum is",
+      "options": {
+        "A": "kg m/s",
+        "B": "J/s",
+        "C": "N/m",
+        "D": "kg/m³"
+      },
+      "correctAnswer": "A",
+      "answerText": "kg m/s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-087",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A vector of magnitude 8 N directed north has a southward component of",
+      "options": {
+        "A": "16 N",
+        "B": "8 N",
+        "C": "0 N",
+        "D": "−8 N if north is positive"
+      },
+      "correctAnswer": "D",
+      "answerText": "−8 N if north is positive",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-088",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A body moving in a circle at constant speed has changing",
+      "options": {
+        "A": "density",
+        "B": "speed",
+        "C": "direction of velocity",
+        "D": "mass"
+      },
+      "correctAnswer": "C",
+      "answerText": "direction of velocity",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-089",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A complete revolution is equal to",
+      "options": {
+        "A": "360°",
+        "B": "90°",
+        "C": "270°",
+        "D": "180°"
+      },
+      "correctAnswer": "A",
+      "answerText": "360°",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-090",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A quantity obtained by multiplying speed by time is",
+      "options": {
+        "A": "force",
+        "B": "distance",
+        "C": "density",
+        "D": "acceleration"
+      },
+      "correctAnswer": "B",
+      "answerText": "distance",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-091",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A car’s speedometer measures",
+      "options": {
+        "A": "acceleration",
+        "B": "average speed",
+        "C": "instantaneous speed",
+        "D": "displacement"
+      },
+      "correctAnswer": "C",
+      "answerText": "instantaneous speed",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-092",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The most suitable instrument for measuring a classroom’s length is",
+      "options": {
+        "A": "micrometer screw gauge",
+        "B": "thermometer",
+        "C": "metre rule/tape measure",
+        "D": "stopwatch"
+      },
+      "correctAnswer": "C",
+      "answerText": "metre rule/tape measure",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-093",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A reading of 2.50 cm suggests precision to",
+      "options": {
+        "A": "nearest kilometre",
+        "B": "hundredth of a centimetre",
+        "C": "nearest centimetre only",
+        "D": "nearest metre"
+      },
+      "correctAnswer": "B",
+      "answerText": "hundredth of a centimetre",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-094",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A body moving with uniform acceleration covers 4 m in the first second from rest. Its acceleration is",
+      "options": {
+        "A": "8 m/s²",
+        "B": "16 m/s²",
+        "C": "4 m/s²",
+        "D": "2 m/s²"
+      },
+      "correctAnswer": "A",
+      "answerText": "8 m/s²",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-095",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "If u = 3 m/s, a = 4 m/s² and t = 2 s, v is",
+      "options": {
+        "A": "11 m/s",
+        "B": "8 m/s",
+        "C": "14 m/s",
+        "D": "7 m/s"
+      },
+      "correctAnswer": "A",
+      "answerText": "11 m/s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-096",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "If u = 0, a = 5 m/s² and t = 4 s, s is",
+      "options": {
+        "A": "20 m",
+        "B": "10 m",
+        "C": "80 m",
+        "D": "40 m"
+      },
+      "correctAnswer": "D",
+      "answerText": "40 m",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-097",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "The symbol commonly used for displacement is",
+      "options": {
+        "A": "s",
+        "B": "kg",
+        "C": "A",
+        "D": "m"
+      },
+      "correctAnswer": "A",
+      "answerText": "s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-098",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Which pair contains only vectors?",
+      "options": {
+        "A": "mass and time",
+        "B": "energy and power",
+        "C": "force and acceleration",
+        "D": "speed and distance"
+      },
+      "correctAnswer": "C",
+      "answerText": "force and acceleration",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-099",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "Which pair contains only scalars?",
+      "options": {
+        "A": "force and velocity",
+        "B": "acceleration and momentum",
+        "C": "distance and speed",
+        "D": "weight and displacement"
+      },
+      "correctAnswer": "C",
+      "answerText": "distance and speed",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-FIRST-100",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "First Term",
+      "topic": "Measurement, quantities, vectors and motion",
+      "question": "A body travels 100 m in 20 s and then 50 m in 5 s. Its average speed for the whole journey is",
+      "options": {
+        "A": "6 m/s",
+        "B": "7.5 m/s",
+        "C": "10 m/s",
+        "D": "5 m/s"
+      },
+      "correctAnswer": "A",
+      "answerText": "6 m/s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-001",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Work is done when a force causes",
+      "options": {
+        "A": "no movement",
+        "B": "a displacement",
+        "C": "mass to increase",
+        "D": "a temperature only"
+      },
+      "correctAnswer": "B",
+      "answerText": "a displacement",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-002",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Work done by a constant force parallel to displacement is",
+      "options": {
+        "A": "F+s",
+        "B": "s/F",
+        "C": "F/s",
+        "D": "Fs"
+      },
+      "correctAnswer": "D",
+      "answerText": "Fs",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-003",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The SI unit of work is the",
+      "options": {
+        "A": "watt",
+        "B": "pascal",
+        "C": "newton",
+        "D": "joule"
+      },
+      "correctAnswer": "D",
+      "answerText": "joule",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-004",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A 20 N force moves a box 3 m in its direction. Work done is",
+      "options": {
+        "A": "60 J",
+        "B": "23 J",
+        "C": "120 J",
+        "D": "6 J"
+      },
+      "correctAnswer": "A",
+      "answerText": "60 J",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-005",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "If force is perpendicular to displacement, work done by that force is",
+      "options": {
+        "A": "negative always",
+        "B": "maximum",
+        "C": "zero",
+        "D": "equal to force"
+      },
+      "correctAnswer": "C",
+      "answerText": "zero",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-006",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Power is the rate of doing",
+      "options": {
+        "A": "mass",
+        "B": "distance",
+        "C": "work",
+        "D": "temperature"
+      },
+      "correctAnswer": "C",
+      "answerText": "work",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-007",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The SI unit of power is",
+      "options": {
+        "A": "newton",
+        "B": "kilogram",
+        "C": "joule",
+        "D": "watt"
+      },
+      "correctAnswer": "D",
+      "answerText": "watt",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-008",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A machine does 600 J of work in 20 s. Its power is",
+      "options": {
+        "A": "120 W",
+        "B": "600 W",
+        "C": "12 W",
+        "D": "30 W"
+      },
+      "correctAnswer": "D",
+      "answerText": "30 W",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-009",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Kinetic energy is energy due to",
+      "options": {
+        "A": "chemical composition only",
+        "B": "motion",
+        "C": "temperature only",
+        "D": "position"
+      },
+      "correctAnswer": "B",
+      "answerText": "motion",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-010",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The kinetic energy of a body is",
+      "options": {
+        "A": "F/t",
+        "B": "½mv²",
+        "C": "mgh",
+        "D": "mv"
+      },
+      "correctAnswer": "B",
+      "answerText": "½mv²",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-011",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A 2 kg body moves at 3 m/s. Its kinetic energy is",
+      "options": {
+        "A": "6 J",
+        "B": "9 J",
+        "C": "3 J",
+        "D": "18 J"
+      },
+      "correctAnswer": "B",
+      "answerText": "9 J",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-012",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Gravitational potential energy near Earth is given by",
+      "options": {
+        "A": "Pt",
+        "B": "mgh",
+        "C": "½mv²",
+        "D": "Fv"
+      },
+      "correctAnswer": "B",
+      "answerText": "mgh",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-013",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A 5 kg object is raised 2 m. Taking g = 10 m/s², its gain in potential energy is",
+      "options": {
+        "A": "10 J",
+        "B": "25 J",
+        "C": "250 J",
+        "D": "100 J"
+      },
+      "correctAnswer": "D",
+      "answerText": "100 J",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-014",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The law of conservation of energy states that energy",
+      "options": {
+        "A": "can be destroyed completely",
+        "B": "always becomes electricity",
+        "C": "can be created freely",
+        "D": "changes form but total energy is conserved"
+      },
+      "correctAnswer": "D",
+      "answerText": "changes form but total energy is conserved",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-015",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "In an electric fan, electrical energy is mainly converted into",
+      "options": {
+        "A": "gravitational energy",
+        "B": "nuclear energy",
+        "C": "mechanical energy",
+        "D": "chemical energy"
+      },
+      "correctAnswer": "C",
+      "answerText": "mechanical energy",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-016",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A machine has useful output work 80 J and input work 100 J. Its efficiency is",
+      "options": {
+        "A": "100%",
+        "B": "80%",
+        "C": "20%",
+        "D": "125%"
+      },
+      "correctAnswer": "B",
+      "answerText": "80%",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-017",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Mechanical advantage is",
+      "options": {
+        "A": "distance/time",
+        "B": "work/time",
+        "C": "load/effort",
+        "D": "effort/load"
+      },
+      "correctAnswer": "C",
+      "answerText": "load/effort",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-018",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Velocity ratio of a machine is the ratio of",
+      "options": {
+        "A": "load to effort",
+        "B": "mass to weight",
+        "C": "output power to input power",
+        "D": "effort distance to load distance"
+      },
+      "correctAnswer": "D",
+      "answerText": "effort distance to load distance",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-019",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "No real machine is 100% efficient mainly because",
+      "options": {
+        "A": "input work is zero",
+        "B": "gravity disappears",
+        "C": "load is always zero",
+        "D": "energy is lost to friction and other effects"
+      },
+      "correctAnswer": "D",
+      "answerText": "energy is lost to friction and other effects",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-020",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A lever turns about a fixed point called the",
+      "options": {
+        "A": "effort",
+        "B": "load",
+        "C": "pulley",
+        "D": "fulcrum"
+      },
+      "correctAnswer": "D",
+      "answerText": "fulcrum",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-021",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Temperature is a measure related to the average",
+      "options": {
+        "A": "mass of particles",
+        "B": "size of an object",
+        "C": "kinetic energy of particles",
+        "D": "potential energy of a lifted body"
+      },
+      "correctAnswer": "C",
+      "answerText": "kinetic energy of particles",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-022",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Heat is energy transferred because of a difference in",
+      "options": {
+        "A": "mass",
+        "B": "volume only",
+        "C": "temperature",
+        "D": "density"
+      },
+      "correctAnswer": "C",
+      "answerText": "temperature",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-023",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The SI unit of heat energy is",
+      "options": {
+        "A": "watt",
+        "B": "joule",
+        "C": "degree Celsius",
+        "D": "kelvin"
+      },
+      "correctAnswer": "B",
+      "answerText": "joule",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-024",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A clinical thermometer is mainly designed to measure",
+      "options": {
+        "A": "room temperature",
+        "B": "human body temperature",
+        "C": "boiling point of water",
+        "D": "temperature of a furnace"
+      },
+      "correctAnswer": "B",
+      "answerText": "human body temperature",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-025",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The lower fixed point on the Celsius scale is",
+      "options": {
+        "A": "273°C",
+        "B": "0°C",
+        "C": "100°C",
+        "D": "32°C"
+      },
+      "correctAnswer": "B",
+      "answerText": "0°C",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-026",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The upper fixed point of the Celsius scale at standard atmospheric pressure is",
+      "options": {
+        "A": "100°C",
+        "B": "50°C",
+        "C": "212°C",
+        "D": "0°C"
+      },
+      "correctAnswer": "A",
+      "answerText": "100°C",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-027",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A temperature of 27°C is approximately",
+      "options": {
+        "A": "310 K",
+        "B": "246 K",
+        "C": "273 K",
+        "D": "300 K"
+      },
+      "correctAnswer": "D",
+      "answerText": "300 K",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-028",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Heat supplied to raise temperature is calculated using",
+      "options": {
+        "A": "Q = mcΔT",
+        "B": "Q = mv",
+        "C": "Q = V/I",
+        "D": "Q = F/a"
+      },
+      "correctAnswer": "A",
+      "answerText": "Q = mcΔT",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-029",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Specific heat capacity is the heat needed to raise the temperature of",
+      "options": {
+        "A": "1 kg of a substance by 1 K",
+        "B": "any body by 100°C",
+        "C": "1 g of water to boiling",
+        "D": "a substance until it melts"
+      },
+      "correctAnswer": "A",
+      "answerText": "1 kg of a substance by 1 K",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-030",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The SI unit of specific heat capacity is",
+      "options": {
+        "A": "W/K",
+        "B": "kg J",
+        "C": "J/kg",
+        "D": "J kg⁻¹ K⁻¹"
+      },
+      "correctAnswer": "D",
+      "answerText": "J kg⁻¹ K⁻¹",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-031",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A 2 kg material with c = 500 J kg⁻¹ K⁻¹ is heated by 10 K. Heat absorbed is",
+      "options": {
+        "A": "25,000 J",
+        "B": "2,500 J",
+        "C": "1,000 J",
+        "D": "10,000 J"
+      },
+      "correctAnswer": "D",
+      "answerText": "10,000 J",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-032",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "During melting of a pure substance, its temperature generally",
+      "options": {
+        "A": "doubles",
+        "B": "rises steadily",
+        "C": "remains constant while latent heat is absorbed",
+        "D": "falls to absolute zero"
+      },
+      "correctAnswer": "C",
+      "answerText": "remains constant while latent heat is absorbed",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-033",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Latent heat is energy used for a change of",
+      "options": {
+        "A": "weight",
+        "B": "mass",
+        "C": "state without temperature change",
+        "D": "speed"
+      },
+      "correctAnswer": "C",
+      "answerText": "state without temperature change",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-034",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The specific latent heat of fusion concerns the change from",
+      "options": {
+        "A": "liquid to gas",
+        "B": "liquid to solid only",
+        "C": "gas to liquid",
+        "D": "solid to liquid"
+      },
+      "correctAnswer": "D",
+      "answerText": "solid to liquid",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-035",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Evaporation occurs",
+      "options": {
+        "A": "only at boiling point",
+        "B": "only in solids",
+        "C": "only in a vacuum",
+        "D": "at the surface at temperatures below boiling"
+      },
+      "correctAnswer": "D",
+      "answerText": "at the surface at temperatures below boiling",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-036",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Evaporation is faster when the surrounding air is",
+      "options": {
+        "A": "cold and still only",
+        "B": "dry and moving",
+        "C": "humid",
+        "D": "already saturated"
+      },
+      "correctAnswer": "B",
+      "answerText": "dry and moving",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-037",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Boiling occurs",
+      "options": {
+        "A": "at any temperature",
+        "B": "only at the surface",
+        "C": "throughout the liquid at its boiling point",
+        "D": "only in solids"
+      },
+      "correctAnswer": "C",
+      "answerText": "throughout the liquid at its boiling point",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-038",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Conduction is most effective in",
+      "options": {
+        "A": "many metals",
+        "B": "still air only",
+        "C": "wood compared with copper",
+        "D": "a vacuum"
+      },
+      "correctAnswer": "A",
+      "answerText": "many metals",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-039",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Convection transfers heat by the bulk movement of",
+      "options": {
+        "A": "vacuum",
+        "B": "light only",
+        "C": "fluids",
+        "D": "solid metal only"
+      },
+      "correctAnswer": "C",
+      "answerText": "fluids",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-040",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Radiation can transfer heat through",
+      "options": {
+        "A": "only air",
+        "B": "only solids",
+        "C": "a vacuum",
+        "D": "only liquids"
+      },
+      "correctAnswer": "C",
+      "answerText": "a vacuum",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-041",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A dull black surface is a good",
+      "options": {
+        "A": "reflector only",
+        "B": "conductor of electricity only",
+        "C": "insulator against all heat",
+        "D": "absorber and emitter of thermal radiation"
+      },
+      "correctAnswer": "D",
+      "answerText": "absorber and emitter of thermal radiation",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-042",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The metal handle of a cooking pot becomes hot mainly by",
+      "options": {
+        "A": "convection in vacuum",
+        "B": "diffusion",
+        "C": "evaporation",
+        "D": "conduction"
+      },
+      "correctAnswer": "D",
+      "answerText": "conduction",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-043",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Sea breezes are associated with",
+      "options": {
+        "A": "static electricity",
+        "B": "magnetic induction",
+        "C": "convection currents",
+        "D": "nuclear reactions"
+      },
+      "correctAnswer": "C",
+      "answerText": "convection currents",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-044",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The particles in a solid generally",
+      "options": {
+        "A": "are always ionised",
+        "B": "vibrate about fixed positions",
+        "C": "are far apart and move freely",
+        "D": "have no motion at all"
+      },
+      "correctAnswer": "B",
+      "answerText": "vibrate about fixed positions",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-045",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Diffusion is the net movement of particles from",
+      "options": {
+        "A": "solid to vacuum only",
+        "B": "lower to higher concentration only",
+        "C": "higher to lower concentration",
+        "D": "cold to hot only"
+      },
+      "correctAnswer": "C",
+      "answerText": "higher to lower concentration",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-046",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Brownian motion provides evidence for",
+      "options": {
+        "A": "the flat Earth",
+        "B": "the absence of molecules",
+        "C": "conservation of charge only",
+        "D": "the particle nature of matter"
+      },
+      "correctAnswer": "D",
+      "answerText": "the particle nature of matter",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-047",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Diffusion is generally faster at higher temperature because particles have",
+      "options": {
+        "A": "no collisions",
+        "B": "less kinetic energy",
+        "C": "more kinetic energy",
+        "D": "greater mass"
+      },
+      "correctAnswer": "C",
+      "answerText": "more kinetic energy",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-048",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Gas pressure results from particles colliding with",
+      "options": {
+        "A": "light rays",
+        "B": "only each other without walls",
+        "C": "the Earth’s core",
+        "D": "the container walls"
+      },
+      "correctAnswer": "D",
+      "answerText": "the container walls",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-049",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A gas is readily compressed because its particles are",
+      "options": {
+        "A": "widely separated",
+        "B": "packed in fixed positions",
+        "C": "motionless",
+        "D": "larger than the container"
+      },
+      "correctAnswer": "A",
+      "answerText": "widely separated",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-050",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The three common states of matter are",
+      "options": {
+        "A": "metal, wood and water",
+        "B": "heat, work and power",
+        "C": "solid, liquid and gas",
+        "D": "atom, force and energy"
+      },
+      "correctAnswer": "C",
+      "answerText": "solid, liquid and gas",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-051",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A liquid has",
+      "options": {
+        "A": "no mass",
+        "B": "fixed volume but no fixed shape",
+        "C": "fixed shape and fixed volume",
+        "D": "no fixed volume and no fixed shape"
+      },
+      "correctAnswer": "B",
+      "answerText": "fixed volume but no fixed shape",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-052",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A gas has",
+      "options": {
+        "A": "fixed volume",
+        "B": "fixed shape",
+        "C": "neither fixed shape nor fixed volume",
+        "D": "particles fixed in place"
+      },
+      "correctAnswer": "C",
+      "answerText": "neither fixed shape nor fixed volume",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-053",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The conversion of electrical energy to heat in a heater is an example of",
+      "options": {
+        "A": "diffusion",
+        "B": "mass loss necessarily",
+        "C": "energy creation",
+        "D": "energy transformation"
+      },
+      "correctAnswer": "D",
+      "answerText": "energy transformation",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-054",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A 100 W bulb operates for 10 s. Energy used is",
+      "options": {
+        "A": "10 J",
+        "B": "1,000 J",
+        "C": "10,000 J",
+        "D": "100 J"
+      },
+      "correctAnswer": "B",
+      "answerText": "1,000 J",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-055",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "If 2,000 J of energy is transferred in 50 s, the power is",
+      "options": {
+        "A": "100 W",
+        "B": "25 W",
+        "C": "250 W",
+        "D": "40 W"
+      },
+      "correctAnswer": "D",
+      "answerText": "40 W",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-056",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A 4 kg body moving at 5 m/s has kinetic energy",
+      "options": {
+        "A": "20 J",
+        "B": "50 J",
+        "C": "10 J",
+        "D": "100 J"
+      },
+      "correctAnswer": "B",
+      "answerText": "50 J",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-057",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "If the speed of a body doubles, its kinetic energy becomes",
+      "options": {
+        "A": "twice as large",
+        "B": "four times as large",
+        "C": "three times as large",
+        "D": "unchanged"
+      },
+      "correctAnswer": "B",
+      "answerText": "four times as large",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-058",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A 10 kg load is lifted through 3 m. The work done against gravity is",
+      "options": {
+        "A": "30 J",
+        "B": "3,000 J",
+        "C": "300 J",
+        "D": "100 J"
+      },
+      "correctAnswer": "C",
+      "answerText": "300 J",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-059",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A machine’s efficiency is output work divided by input work multiplied by",
+      "options": {
+        "A": "time",
+        "B": "g",
+        "C": "10",
+        "D": "100%"
+      },
+      "correctAnswer": "D",
+      "answerText": "100%",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-060",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A pulley system that changes the direction of effort but gives no force multiplication has ideal mechanical advantage",
+      "options": {
+        "A": "infinite",
+        "B": "1",
+        "C": "2",
+        "D": "0"
+      },
+      "correctAnswer": "B",
+      "answerText": "1",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-061",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A thermometer works by using a property that changes predictably with",
+      "options": {
+        "A": "temperature",
+        "B": "distance only",
+        "C": "mass only",
+        "D": "electric charge only"
+      },
+      "correctAnswer": "A",
+      "answerText": "temperature",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-062",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The freezing point of pure water on the Celsius scale is",
+      "options": {
+        "A": "100°C",
+        "B": "−100°C",
+        "C": "0°C",
+        "D": "32°C"
+      },
+      "correctAnswer": "C",
+      "answerText": "0°C",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-063",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A rise of 10°C is equal to a temperature interval of",
+      "options": {
+        "A": "273 K",
+        "B": "−10 K",
+        "C": "10 K",
+        "D": "283 K"
+      },
+      "correctAnswer": "C",
+      "answerText": "10 K",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-064",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Heat flows spontaneously from",
+      "options": {
+        "A": "colder to hotter body",
+        "B": "lower mass to higher mass",
+        "C": "hotter to colder body",
+        "D": "smaller object to larger object only"
+      },
+      "correctAnswer": "C",
+      "answerText": "hotter to colder body",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-065",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A vacuum flask reduces heat transfer by using",
+      "options": {
+        "A": "conduction, convection and radiation barriers",
+        "B": "a black shiny surface only",
+        "C": "a thick copper wall only",
+        "D": "a hole open to air"
+      },
+      "correctAnswer": "A",
+      "answerText": "conduction, convection and radiation barriers",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-066",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The process by which a liquid changes to vapour below its boiling point is",
+      "options": {
+        "A": "evaporation",
+        "B": "condensation",
+        "C": "sublimation",
+        "D": "freezing"
+      },
+      "correctAnswer": "A",
+      "answerText": "evaporation",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-067",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The change from gas directly to solid is called",
+      "options": {
+        "A": "melting",
+        "B": "boiling",
+        "C": "deposition",
+        "D": "fusion"
+      },
+      "correctAnswer": "C",
+      "answerText": "deposition",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-068",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A substance that changes directly from solid to gas undergoes",
+      "options": {
+        "A": "condensation",
+        "B": "sublimation",
+        "C": "vaporisation only",
+        "D": "freezing"
+      },
+      "correctAnswer": "B",
+      "answerText": "sublimation",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-069",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Molecules in a liquid are",
+      "options": {
+        "A": "fixed rigidly in a lattice",
+        "B": "close together but able to move past one another",
+        "C": "without kinetic energy",
+        "D": "infinitely far apart"
+      },
+      "correctAnswer": "B",
+      "answerText": "close together but able to move past one another",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-070",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The random movement of smoke particles in air is caused by",
+      "options": {
+        "A": "gravity alone",
+        "B": "the smoke particles being alive",
+        "C": "collisions with air molecules",
+        "D": "magnetism"
+      },
+      "correctAnswer": "C",
+      "answerText": "collisions with air molecules",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-071",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "When a gas is heated in a closed rigid container, its pressure generally",
+      "options": {
+        "A": "becomes zero",
+        "B": "remains always unchanged",
+        "C": "increases",
+        "D": "decreases"
+      },
+      "correctAnswer": "C",
+      "answerText": "increases",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-072",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The quantity that tells how much heat raises 1 kg by 1 K is",
+      "options": {
+        "A": "conductivity",
+        "B": "power",
+        "C": "latent heat",
+        "D": "specific heat capacity"
+      },
+      "correctAnswer": "D",
+      "answerText": "specific heat capacity",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-073",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A 500 W appliance runs for 2 minutes. Energy used is",
+      "options": {
+        "A": "1,000 J",
+        "B": "6,000 J",
+        "C": "250 J",
+        "D": "60,000 J"
+      },
+      "correctAnswer": "D",
+      "answerText": "60,000 J",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-074",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "If a force of 15 N moves an object 4 m, work done is",
+      "options": {
+        "A": "60 J",
+        "B": "75 J",
+        "C": "19 J",
+        "D": "30 J"
+      },
+      "correctAnswer": "A",
+      "answerText": "60 J",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-075",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "If 120 J of work is done in 6 s, power is",
+      "options": {
+        "A": "60 W",
+        "B": "720 W",
+        "C": "126 W",
+        "D": "20 W"
+      },
+      "correctAnswer": "D",
+      "answerText": "20 W",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-076",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The useful energy output of a machine is 300 J from 500 J input. Efficiency is",
+      "options": {
+        "A": "40%",
+        "B": "60%",
+        "C": "80%",
+        "D": "167%"
+      },
+      "correctAnswer": "B",
+      "answerText": "60%",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-077",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The energy stored in a stretched spring is",
+      "options": {
+        "A": "nuclear energy",
+        "B": "chemical energy only",
+        "C": "elastic potential energy",
+        "D": "sound energy only"
+      },
+      "correctAnswer": "C",
+      "answerText": "elastic potential energy",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-078",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A body’s gravitational potential energy increases when it is",
+      "options": {
+        "A": "cooled",
+        "B": "stopped",
+        "C": "raised",
+        "D": "lowered"
+      },
+      "correctAnswer": "C",
+      "answerText": "raised",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-079",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A metal spoon feels colder than a wooden spoon at the same room temperature because metal",
+      "options": {
+        "A": "contains no energy",
+        "B": "conducts heat away from the hand faster",
+        "C": "has a lower temperature always",
+        "D": "is lighter"
+      },
+      "correctAnswer": "B",
+      "answerText": "conducts heat away from the hand faster",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-080",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The principal mode of heat transfer from the Sun to Earth is",
+      "options": {
+        "A": "conduction",
+        "B": "convection",
+        "C": "diffusion",
+        "D": "radiation"
+      },
+      "correctAnswer": "D",
+      "answerText": "radiation",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-081",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The particles of matter are in continuous motion according to",
+      "options": {
+        "A": "Ohm’s law",
+        "B": "kinetic theory",
+        "C": "Archimedes’ principle",
+        "D": "Newton’s third law only"
+      },
+      "correctAnswer": "B",
+      "answerText": "kinetic theory",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-082",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Increasing the surface area of a liquid usually",
+      "options": {
+        "A": "stops evaporation",
+        "B": "slows evaporation",
+        "C": "changes its mass into energy",
+        "D": "increases evaporation rate"
+      },
+      "correctAnswer": "D",
+      "answerText": "increases evaporation rate",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-083",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Humidity is high when air contains",
+      "options": {
+        "A": "a large amount of water vapour",
+        "B": "no water vapour",
+        "C": "only carbon dioxide",
+        "D": "only oxygen"
+      },
+      "correctAnswer": "A",
+      "answerText": "a large amount of water vapour",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-084",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "At the same temperature, particles of different gases have the same average",
+      "options": {
+        "A": "speed",
+        "B": "kinetic energy",
+        "C": "mass",
+        "D": "volume"
+      },
+      "correctAnswer": "B",
+      "answerText": "kinetic energy",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-085",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A 1 kg block with specific heat capacity 400 J kg⁻¹ K⁻¹ gains 800 J. Its temperature rise is",
+      "options": {
+        "A": "2 K",
+        "B": "0.5 K",
+        "C": "3,200 K",
+        "D": "200 K"
+      },
+      "correctAnswer": "A",
+      "answerText": "2 K",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-086",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Which is a renewable energy source?",
+      "options": {
+        "A": "solar energy",
+        "B": "petroleum",
+        "C": "coal",
+        "D": "natural gas"
+      },
+      "correctAnswer": "A",
+      "answerText": "solar energy",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-087",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The main purpose of insulation in a building is to",
+      "options": {
+        "A": "create heat",
+        "B": "increase unwanted heat transfer",
+        "C": "reduce heat transfer",
+        "D": "remove all radiation"
+      },
+      "correctAnswer": "C",
+      "answerText": "reduce heat transfer",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-088",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A device rated 2 kW operates for 3 h. Energy consumed is",
+      "options": {
+        "A": "5 kWh",
+        "B": "1.5 kWh",
+        "C": "6 kWh",
+        "D": "600 W"
+      },
+      "correctAnswer": "C",
+      "answerText": "6 kWh",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-089",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The commercial unit of electrical energy commonly used for billing is",
+      "options": {
+        "A": "kelvin",
+        "B": "kilowatt-hour",
+        "C": "newton",
+        "D": "joule only"
+      },
+      "correctAnswer": "B",
+      "answerText": "kilowatt-hour",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-090",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "One kilowatt-hour is equal to",
+      "options": {
+        "A": "360 J",
+        "B": "36 × 10⁶ J",
+        "C": "3.6 × 10³ J",
+        "D": "3.6 × 10⁶ J"
+      },
+      "correctAnswer": "D",
+      "answerText": "3.6 × 10⁶ J",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-091",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The state of matter with the strongest intermolecular binding in general is",
+      "options": {
+        "A": "gas",
+        "B": "solid",
+        "C": "liquid",
+        "D": "plasma only"
+      },
+      "correctAnswer": "B",
+      "answerText": "solid",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-092",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "When a liquid freezes, it releases latent heat to its surroundings because it",
+      "options": {
+        "A": "increases its temperature continuously",
+        "B": "loses all mass",
+        "C": "stops being matter",
+        "D": "changes state"
+      },
+      "correctAnswer": "D",
+      "answerText": "changes state",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-093",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Heat capacity of a body is the heat required to raise its temperature by",
+      "options": {
+        "A": "its melting point",
+        "B": "1°C per kilogram only",
+        "C": "100 K",
+        "D": "1 K"
+      },
+      "correctAnswer": "D",
+      "answerText": "1 K",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-094",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A body with large heat capacity needs",
+      "options": {
+        "A": "only latent heat",
+        "B": "less heat for the same temperature rise",
+        "C": "no heat",
+        "D": "more heat for the same temperature rise"
+      },
+      "correctAnswer": "D",
+      "answerText": "more heat for the same temperature rise",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-095",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The particles of a gas exert pressure because they",
+      "options": {
+        "A": "have no mass",
+        "B": "do not move",
+        "C": "are fixed",
+        "D": "collide with the walls"
+      },
+      "correctAnswer": "D",
+      "answerText": "collide with the walls",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-096",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "The spread of perfume smell across a room is mainly due to",
+      "options": {
+        "A": "magnetism",
+        "B": "refraction",
+        "C": "diffusion",
+        "D": "conduction"
+      },
+      "correctAnswer": "C",
+      "answerText": "diffusion",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-097",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "Energy cannot be created or destroyed in an isolated system; this is the law of",
+      "options": {
+        "A": "conservation of energy",
+        "B": "gravitation",
+        "C": "electrolysis",
+        "D": "reflection"
+      },
+      "correctAnswer": "A",
+      "answerText": "conservation of energy",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-098",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "If an object is at rest and remains at the same height, its kinetic energy is",
+      "options": {
+        "A": "maximum",
+        "B": "zero",
+        "C": "infinite",
+        "D": "equal to mgh always"
+      },
+      "correctAnswer": "B",
+      "answerText": "zero",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-099",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A force of 50 N acts through 0.2 m in its direction. Work done is",
+      "options": {
+        "A": "25 J",
+        "B": "250 J",
+        "C": "50.2 J",
+        "D": "10 J"
+      },
+      "correctAnswer": "D",
+      "answerText": "10 J",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-100",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "A machine has a load of 400 N and effort of 100 N. Its mechanical advantage is",
+      "options": {
+        "A": "2",
+        "B": "0.25",
+        "C": "4",
+        "D": "300"
+      },
+      "correctAnswer": "C",
+      "answerText": "4",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-SECOND-101",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Second Term",
+      "topic": "Work, energy, power, heat and particle theory",
+      "question": "If useful output is 240 J and efficiency is 60%, input work is",
+      "options": {
+        "A": "240 J",
+        "B": "600 J",
+        "C": "144 J",
+        "D": "400 J"
+      },
+      "correctAnswer": "D",
+      "answerText": "400 J",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-001",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Pressure is defined as",
+      "options": {
+        "A": "force × area",
+        "B": "mass × volume",
+        "C": "force/area",
+        "D": "area/force"
+      },
+      "correctAnswer": "C",
+      "answerText": "force/area",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-002",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The SI unit of pressure is",
+      "options": {
+        "A": "newton",
+        "B": "pascal",
+        "C": "watt",
+        "D": "joule"
+      },
+      "correctAnswer": "B",
+      "answerText": "pascal",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-003",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A force of 100 N acts on an area of 2 m². Pressure is",
+      "options": {
+        "A": "100 Pa",
+        "B": "20 Pa",
+        "C": "200 Pa",
+        "D": "50 Pa"
+      },
+      "correctAnswer": "D",
+      "answerText": "50 Pa",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-004",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Pressure in a liquid increases with",
+      "options": {
+        "A": "surface area only",
+        "B": "decreasing gravity only",
+        "C": "depth",
+        "D": "decreasing density only"
+      },
+      "correctAnswer": "C",
+      "answerText": "depth",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-005",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The pressure at depth h in a liquid of density ρ is",
+      "options": {
+        "A": "gh/ρ",
+        "B": "ρgh",
+        "C": "ρh/g",
+        "D": "ρg/h"
+      },
+      "correctAnswer": "B",
+      "answerText": "ρgh",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-006",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The SI unit of density is",
+      "options": {
+        "A": "Pa m",
+        "B": "N/m",
+        "C": "kg m³",
+        "D": "kg/m³"
+      },
+      "correctAnswer": "D",
+      "answerText": "kg/m³",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-007",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Upthrust on an immersed body equals the weight of",
+      "options": {
+        "A": "the surrounding air only",
+        "B": "the body",
+        "C": "the displaced fluid",
+        "D": "the container"
+      },
+      "correctAnswer": "C",
+      "answerText": "the displaced fluid",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-008",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The principle that explains why a ship floats is",
+      "options": {
+        "A": "Archimedes’ principle",
+        "B": "Hooke’s law only",
+        "C": "law of reflection",
+        "D": "Ohm’s law"
+      },
+      "correctAnswer": "A",
+      "answerText": "Archimedes’ principle",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-009",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A body floats when its average density is",
+      "options": {
+        "A": "always zero",
+        "B": "greater than the fluid density",
+        "C": "infinite",
+        "D": "less than the fluid density"
+      },
+      "correctAnswer": "D",
+      "answerText": "less than the fluid density",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-010",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Pascal’s principle is applied in a",
+      "options": {
+        "A": "hydraulic press",
+        "B": "thermometer",
+        "C": "seismograph",
+        "D": "barometer only"
+      },
+      "correctAnswer": "A",
+      "answerText": "hydraulic press",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-011",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "In a hydraulic system, pressure applied to an enclosed fluid is transmitted",
+      "options": {
+        "A": "only when heated",
+        "B": "only downward",
+        "C": "equally throughout the fluid",
+        "D": "only to the nearest wall"
+      },
+      "correctAnswer": "C",
+      "answerText": "equally throughout the fluid",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-012",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Boyle’s law states that at constant temperature, pressure is inversely proportional to",
+      "options": {
+        "A": "temperature",
+        "B": "density only",
+        "C": "mass",
+        "D": "volume"
+      },
+      "correctAnswer": "D",
+      "answerText": "volume",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-013",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A gas occupies 6 cm³ at 100 kPa. At 200 kPa and constant temperature, its volume is",
+      "options": {
+        "A": "3 cm³",
+        "B": "2 cm³",
+        "C": "12 cm³",
+        "D": "6 cm³"
+      },
+      "correctAnswer": "A",
+      "answerText": "3 cm³",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-014",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Charles’ law states that at constant pressure, volume is proportional to",
+      "options": {
+        "A": "density",
+        "B": "mass squared",
+        "C": "absolute temperature",
+        "D": "pressure"
+      },
+      "correctAnswer": "C",
+      "answerText": "absolute temperature",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-015",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Absolute temperature is measured in",
+      "options": {
+        "A": "fahrenheit only",
+        "B": "joules",
+        "C": "kelvin",
+        "D": "Celsius"
+      },
+      "correctAnswer": "C",
+      "answerText": "kelvin",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-016",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A gas occupies 2 L at 300 K. At 450 K and constant pressure, its volume is",
+      "options": {
+        "A": "2 L",
+        "B": "1.33 L",
+        "C": "3 L",
+        "D": "4.5 L"
+      },
+      "correctAnswer": "C",
+      "answerText": "3 L",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-017",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The pressure law relates gas pressure to absolute temperature at constant",
+      "options": {
+        "A": "volume",
+        "B": "mass only",
+        "C": "pressure",
+        "D": "density only"
+      },
+      "correctAnswer": "A",
+      "answerText": "volume",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-018",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "For a fixed mass of ideal gas, the combined gas law is",
+      "options": {
+        "A": "P₁T₁/V₁ = P₂T₂/V₂",
+        "B": "P₁V₁T₁ = P₂V₂T₂",
+        "C": "P₁V₁/T₁ = P₂V₂/T₂",
+        "D": "P₁/V₁ = P₂/T₂"
+      },
+      "correctAnswer": "C",
+      "answerText": "P₁V₁/T₁ = P₂V₂/T₂",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-019",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Simple harmonic motion occurs when the restoring force is",
+      "options": {
+        "A": "always zero",
+        "B": "constant in one direction",
+        "C": "proportional to velocity only",
+        "D": "proportional to displacement and directed towards equilibrium"
+      },
+      "correctAnswer": "D",
+      "answerText": "proportional to displacement and directed towards equilibrium",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-020",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Which is an approximate example of SHM for small oscillations?",
+      "options": {
+        "A": "a simple pendulum",
+        "B": "a rotating wheel without oscillation",
+        "C": "a falling stone",
+        "D": "a car travelling at constant speed on a straight road"
+      },
+      "correctAnswer": "A",
+      "answerText": "a simple pendulum",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-021",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The period of an oscillation is the time for",
+      "options": {
+        "A": "one complete cycle",
+        "B": "the object to stop",
+        "C": "ten cycles always",
+        "D": "half a cycle only"
+      },
+      "correctAnswer": "A",
+      "answerText": "one complete cycle",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-022",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Frequency is measured in",
+      "options": {
+        "A": "newtons",
+        "B": "metres",
+        "C": "seconds",
+        "D": "hertz"
+      },
+      "correctAnswer": "D",
+      "answerText": "hertz",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-023",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Frequency f and period T are related by",
+      "options": {
+        "A": "f = 1/T",
+        "B": "f = T",
+        "C": "f = T²",
+        "D": "f = 2T"
+      },
+      "correctAnswer": "A",
+      "answerText": "f = 1/T",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-024",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "An oscillator completes 20 cycles in 10 s. Its frequency is",
+      "options": {
+        "A": "2 Hz",
+        "B": "10 Hz",
+        "C": "200 Hz",
+        "D": "0.5 Hz"
+      },
+      "correctAnswer": "A",
+      "answerText": "2 Hz",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-025",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A wave transfers",
+      "options": {
+        "A": "particles only with no energy",
+        "B": "mass at the speed of light always",
+        "C": "energy from one place to another",
+        "D": "matter permanently from source to receiver"
+      },
+      "correctAnswer": "C",
+      "answerText": "energy from one place to another",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-026",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The distance between two successive crests is the",
+      "options": {
+        "A": "amplitude",
+        "B": "frequency",
+        "C": "wavelength",
+        "D": "period"
+      },
+      "correctAnswer": "C",
+      "answerText": "wavelength",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-027",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Wave speed is given by",
+      "options": {
+        "A": "v = f/λ",
+        "B": "v = λ/f²",
+        "C": "v = fλ",
+        "D": "v = f + λ"
+      },
+      "correctAnswer": "C",
+      "answerText": "v = fλ",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-028",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A wave has frequency 5 Hz and wavelength 2 m. Its speed is",
+      "options": {
+        "A": "10 m/s",
+        "B": "20 m/s",
+        "C": "2.5 m/s",
+        "D": "7 m/s"
+      },
+      "correctAnswer": "A",
+      "answerText": "10 m/s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-029",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The maximum displacement of a vibrating particle from equilibrium is",
+      "options": {
+        "A": "wavelength",
+        "B": "period",
+        "C": "frequency",
+        "D": "amplitude"
+      },
+      "correctAnswer": "D",
+      "answerText": "amplitude",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-030",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Sound waves in air are",
+      "options": {
+        "A": "longitudinal mechanical waves",
+        "B": "transverse mechanical waves only",
+        "C": "transverse electromagnetic waves",
+        "D": "stationary particles"
+      },
+      "correctAnswer": "A",
+      "answerText": "longitudinal mechanical waves",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-031",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Light waves are",
+      "options": {
+        "A": "unable to travel in vacuum",
+        "B": "electromagnetic",
+        "C": "longitudinal sound waves",
+        "D": "mechanical"
+      },
+      "correctAnswer": "B",
+      "answerText": "electromagnetic",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-032",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A wave that requires a medium to travel is a",
+      "options": {
+        "A": "mechanical wave",
+        "B": "electromagnetic wave",
+        "C": "light wave",
+        "D": "radio wave"
+      },
+      "correctAnswer": "A",
+      "answerText": "mechanical wave",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-033",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "In a transverse wave, particles vibrate",
+      "options": {
+        "A": "perpendicular to wave travel",
+        "B": "parallel to wave travel",
+        "C": "in circles only",
+        "D": "not at all"
+      },
+      "correctAnswer": "A",
+      "answerText": "perpendicular to wave travel",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-034",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "In a longitudinal wave, compressions are regions of",
+      "options": {
+        "A": "low pressure",
+        "B": "high pressure and density",
+        "C": "maximum wavelength",
+        "D": "zero particle motion"
+      },
+      "correctAnswer": "B",
+      "answerText": "high pressure and density",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-035",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Reflection of a wave involves",
+      "options": {
+        "A": "changing into matter",
+        "B": "bouncing back at a boundary",
+        "C": "complete disappearance",
+        "D": "only a change in frequency"
+      },
+      "correctAnswer": "B",
+      "answerText": "bouncing back at a boundary",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-036",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Refraction occurs when a wave",
+      "options": {
+        "A": "has zero frequency",
+        "B": "changes speed on entering another medium and changes direction if incident obliquely",
+        "C": "travels in a vacuum only",
+        "D": "is absorbed completely"
+      },
+      "correctAnswer": "B",
+      "answerText": "changes speed on entering another medium and changes direction if incident obliquely",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-037",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Diffraction is the",
+      "options": {
+        "A": "conversion of heat to mass",
+        "B": "reflection from a mirror only",
+        "C": "stopping of wave motion",
+        "D": "spreading of waves around obstacles or through openings"
+      },
+      "correctAnswer": "D",
+      "answerText": "spreading of waves around obstacles or through openings",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-038",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Interference occurs when",
+      "options": {
+        "A": "matter stops moving",
+        "B": "waves overlap and combine",
+        "C": "only one wave exists",
+        "D": "a wave has no amplitude"
+      },
+      "correctAnswer": "B",
+      "answerText": "waves overlap and combine",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-039",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Resonance occurs when a driving frequency equals or approaches the system’s",
+      "options": {
+        "A": "wavelength only",
+        "B": "density",
+        "C": "mass",
+        "D": "natural frequency"
+      },
+      "correctAnswer": "D",
+      "answerText": "natural frequency",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-040",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The unit of frequency is equivalent to",
+      "options": {
+        "A": "s",
+        "B": "kg/s",
+        "C": "s⁻¹",
+        "D": "m/s"
+      },
+      "correctAnswer": "C",
+      "answerText": "s⁻¹",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-041",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A wave travels 24 m in 4 s. Its speed is",
+      "options": {
+        "A": "4 m/s",
+        "B": "6 m/s",
+        "C": "96 m/s",
+        "D": "20 m/s"
+      },
+      "correctAnswer": "B",
+      "answerText": "6 m/s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-042",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A wave has speed 300 m/s and frequency 100 Hz. Its wavelength is",
+      "options": {
+        "A": "30 m",
+        "B": "0.3 m",
+        "C": "300 m",
+        "D": "3 m"
+      },
+      "correctAnswer": "D",
+      "answerText": "3 m",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-043",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A wave with period 0.02 s has frequency",
+      "options": {
+        "A": "2 Hz",
+        "B": "50 Hz",
+        "C": "0.02 Hz",
+        "D": "20 Hz"
+      },
+      "correctAnswer": "B",
+      "answerText": "50 Hz",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-044",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "If wave speed remains constant and frequency doubles, wavelength",
+      "options": {
+        "A": "becomes zero",
+        "B": "doubles",
+        "C": "halves",
+        "D": "stays unchanged"
+      },
+      "correctAnswer": "C",
+      "answerText": "halves",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-045",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The path followed by a projectile, neglecting air resistance, is a",
+      "options": {
+        "A": "circle",
+        "B": "straight vertical line",
+        "C": "parabola",
+        "D": "hyperbola always"
+      },
+      "correctAnswer": "C",
+      "answerText": "parabola",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-046",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A projectile’s horizontal velocity is constant when air resistance is neglected because",
+      "options": {
+        "A": "gravity acts horizontally",
+        "B": "there is no horizontal acceleration",
+        "C": "its vertical velocity is constant",
+        "D": "its mass is zero"
+      },
+      "correctAnswer": "B",
+      "answerText": "there is no horizontal acceleration",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-047",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "At the highest point of a projectile’s path, its vertical velocity is",
+      "options": {
+        "A": "equal to g",
+        "B": "maximum",
+        "C": "zero",
+        "D": "equal to its horizontal velocity always"
+      },
+      "correctAnswer": "C",
+      "answerText": "zero",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-048",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The acceleration of a projectile near Earth, neglecting air resistance, is",
+      "options": {
+        "A": "horizontal only",
+        "B": "g upward",
+        "C": "g downward",
+        "D": "zero"
+      },
+      "correctAnswer": "C",
+      "answerText": "g downward",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-049",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A body projected horizontally continues to move horizontally while it",
+      "options": {
+        "A": "moves in a vacuum only",
+        "B": "falls under gravity",
+        "C": "loses all horizontal velocity instantly",
+        "D": "has no acceleration"
+      },
+      "correctAnswer": "B",
+      "answerText": "falls under gravity",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-050",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The range of a projectile is the",
+      "options": {
+        "A": "time of flight",
+        "B": "horizontal distance travelled before landing",
+        "C": "vertical displacement only",
+        "D": "maximum height"
+      },
+      "correctAnswer": "B",
+      "answerText": "horizontal distance travelled before landing",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-051",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "For a projectile launched and landing at the same height, the maximum range ideally occurs at",
+      "options": {
+        "A": "15°",
+        "B": "30°",
+        "C": "90°",
+        "D": "45°"
+      },
+      "correctAnswer": "D",
+      "answerText": "45°",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-052",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The acceleration due to gravity near Earth’s surface is approximately",
+      "options": {
+        "A": "98 m/s²",
+        "B": "0.98 m/s²",
+        "C": "9.8 m/s²",
+        "D": "980 m/s²"
+      },
+      "correctAnswer": "C",
+      "answerText": "9.8 m/s²",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-053",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A stone is dropped from rest and falls for 2 s. Using g = 10 m/s², its speed is",
+      "options": {
+        "A": "10 m/s",
+        "B": "40 m/s",
+        "C": "20 m/s",
+        "D": "5 m/s"
+      },
+      "correctAnswer": "C",
+      "answerText": "20 m/s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-054",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A stone is dropped from rest for 3 s. Distance fallen is",
+      "options": {
+        "A": "15 m",
+        "B": "30 m",
+        "C": "45 m",
+        "D": "90 m"
+      },
+      "correctAnswer": "C",
+      "answerText": "45 m",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-055",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The pressure exerted by a solid increases when the contact area",
+      "options": {
+        "A": "is irrelevant",
+        "B": "increases",
+        "C": "doubles with force unchanged",
+        "D": "decreases for the same force"
+      },
+      "correctAnswer": "D",
+      "answerText": "decreases for the same force",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-056",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A liquid’s pressure at a given depth depends on its",
+      "options": {
+        "A": "container shape only",
+        "B": "surface area only",
+        "C": "density",
+        "D": "colour"
+      },
+      "correctAnswer": "C",
+      "answerText": "density",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-057",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A barometer is used to measure",
+      "options": {
+        "A": "frequency",
+        "B": "atmospheric pressure",
+        "C": "specific heat capacity",
+        "D": "electric current"
+      },
+      "correctAnswer": "B",
+      "answerText": "atmospheric pressure",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-058",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The instrument commonly used to measure atmospheric pressure is a",
+      "options": {
+        "A": "ammeter",
+        "B": "barometer",
+        "C": "voltmeter",
+        "D": "calorimeter"
+      },
+      "correctAnswer": "B",
+      "answerText": "barometer",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-059",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The upward force exerted by a fluid on an immersed object is called",
+      "options": {
+        "A": "friction",
+        "B": "tension",
+        "C": "impulse",
+        "D": "upthrust"
+      },
+      "correctAnswer": "D",
+      "answerText": "upthrust",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-060",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A body weighs 20 N in air and 15 N when immersed in water. The upthrust is",
+      "options": {
+        "A": "15 N",
+        "B": "5 N",
+        "C": "20 N",
+        "D": "35 N"
+      },
+      "correctAnswer": "B",
+      "answerText": "5 N",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-061",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "If a gas is compressed at constant temperature, its pressure",
+      "options": {
+        "A": "decreases",
+        "B": "becomes negative",
+        "C": "increases",
+        "D": "remains zero"
+      },
+      "correctAnswer": "C",
+      "answerText": "increases",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-062",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A temperature of 27°C on the Kelvin scale is approximately",
+      "options": {
+        "A": "327 K",
+        "B": "273 K",
+        "C": "300 K",
+        "D": "246 K"
+      },
+      "correctAnswer": "C",
+      "answerText": "300 K",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-063",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "At constant pressure, heating a gas generally makes its volume",
+      "options": {
+        "A": "increase",
+        "B": "remain zero",
+        "C": "decrease",
+        "D": "become negative"
+      },
+      "correctAnswer": "A",
+      "answerText": "increase",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-064",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The molecules of an ideal gas are assumed to have negligible",
+      "options": {
+        "A": "volume compared with the container",
+        "B": "kinetic energy",
+        "C": "motion",
+        "D": "mass"
+      },
+      "correctAnswer": "A",
+      "answerText": "volume compared with the container",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-065",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The equilibrium position of an oscillator is where the resultant force is",
+      "options": {
+        "A": "maximum",
+        "B": "always downward",
+        "C": "zero",
+        "D": "infinite"
+      },
+      "correctAnswer": "C",
+      "answerText": "zero",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-066",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The period of a simple pendulum for small swings depends on",
+      "options": {
+        "A": "amplitude only for small swings",
+        "B": "length and gravitational acceleration",
+        "C": "mass of the bob only",
+        "D": "colour of the string"
+      },
+      "correctAnswer": "B",
+      "answerText": "length and gravitational acceleration",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-067",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "If the length of a simple pendulum increases, its period generally",
+      "options": {
+        "A": "does not change",
+        "B": "increases",
+        "C": "decreases",
+        "D": "becomes zero"
+      },
+      "correctAnswer": "B",
+      "answerText": "increases",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-068",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A sound wave cannot travel through",
+      "options": {
+        "A": "vacuum",
+        "B": "air",
+        "C": "steel",
+        "D": "water"
+      },
+      "correctAnswer": "A",
+      "answerText": "vacuum",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-069",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The pitch of a sound is mainly related to its",
+      "options": {
+        "A": "intensity only",
+        "B": "frequency",
+        "C": "amplitude",
+        "D": "speed only"
+      },
+      "correctAnswer": "B",
+      "answerText": "frequency",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-070",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Loudness is related mainly to wave",
+      "options": {
+        "A": "amplitude/intensity",
+        "B": "period only",
+        "C": "wavelength only",
+        "D": "direction"
+      },
+      "correctAnswer": "A",
+      "answerText": "amplitude/intensity",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-071",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The audible frequency range for a typical young human is approximately",
+      "options": {
+        "A": "2–20 Hz",
+        "B": "20–20,000 Hz",
+        "C": "200–2,000 Hz",
+        "D": "20,000–200,000 Hz"
+      },
+      "correctAnswer": "B",
+      "answerText": "20–20,000 Hz",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-072",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Ultrasound has frequency",
+      "options": {
+        "A": "exactly 1,000 Hz",
+        "B": "below 20 Hz",
+        "C": "below 200 Hz",
+        "D": "above 20,000 Hz"
+      },
+      "correctAnswer": "D",
+      "answerText": "above 20,000 Hz",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-073",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Radio waves are",
+      "options": {
+        "A": "water waves",
+        "B": "electromagnetic waves",
+        "C": "sound waves",
+        "D": "mechanical waves"
+      },
+      "correctAnswer": "B",
+      "answerText": "electromagnetic waves",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-074",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A wave’s period is the time between",
+      "options": {
+        "A": "two different sources",
+        "B": "any two points on a wave",
+        "C": "successive crests passing a point",
+        "D": "a crest and a trough only"
+      },
+      "correctAnswer": "C",
+      "answerText": "successive crests passing a point",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-075",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The SI unit of wavelength is",
+      "options": {
+        "A": "second",
+        "B": "hertz",
+        "C": "joule",
+        "D": "metre"
+      },
+      "correctAnswer": "D",
+      "answerText": "metre",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-076",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The frequency of a wave is 25 Hz. Its period is",
+      "options": {
+        "A": "250 s",
+        "B": "0.04 s",
+        "C": "25 s",
+        "D": "2.5 s"
+      },
+      "correctAnswer": "B",
+      "answerText": "0.04 s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-077",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A 2 m wavelength wave travels at 8 m/s. Frequency is",
+      "options": {
+        "A": "6 Hz",
+        "B": "4 Hz",
+        "C": "2 Hz",
+        "D": "16 Hz"
+      },
+      "correctAnswer": "B",
+      "answerText": "4 Hz",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-078",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "When two waves meet in phase, their amplitudes may",
+      "options": {
+        "A": "reinforce each other",
+        "B": "always cancel",
+        "C": "stop travelling permanently",
+        "D": "become frequency zero"
+      },
+      "correctAnswer": "A",
+      "answerText": "reinforce each other",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-079",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Destructive interference occurs when waves arrive approximately",
+      "options": {
+        "A": "at different temperatures",
+        "B": "in phase",
+        "C": "with identical direction only",
+        "D": "out of phase by half a cycle"
+      },
+      "correctAnswer": "D",
+      "answerText": "out of phase by half a cycle",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-080",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A ripple tank is used to study",
+      "options": {
+        "A": "specific heat capacity",
+        "B": "water-wave behaviour",
+        "C": "radioactive decay",
+        "D": "electric charge only"
+      },
+      "correctAnswer": "B",
+      "answerText": "water-wave behaviour",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-081",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A wavefront joins points that are in the same",
+      "options": {
+        "A": "mass",
+        "B": "density",
+        "C": "phase",
+        "D": "temperature"
+      },
+      "correctAnswer": "C",
+      "answerText": "phase",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-082",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The principle of superposition states that the resultant displacement is the",
+      "options": {
+        "A": "ratio of amplitudes only",
+        "B": "product of frequencies",
+        "C": "difference in masses",
+        "D": "sum of individual displacements"
+      },
+      "correctAnswer": "D",
+      "answerText": "sum of individual displacements",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-083",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A body moves in SHM with amplitude 0.05 m. Its maximum displacement from equilibrium is",
+      "options": {
+        "A": "0.5 m",
+        "B": "0.05 m",
+        "C": "0.005 m",
+        "D": "5 m"
+      },
+      "correctAnswer": "B",
+      "answerText": "0.05 m",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-084",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A 4 Hz oscillator has a period of",
+      "options": {
+        "A": "4 s",
+        "B": "0.25 s",
+        "C": "2 s",
+        "D": "0.04 s"
+      },
+      "correctAnswer": "B",
+      "answerText": "0.25 s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-085",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The main force responsible for the downward acceleration of a falling object is",
+      "options": {
+        "A": "surface tension",
+        "B": "gravity",
+        "C": "upthrust alone",
+        "D": "magnetic force"
+      },
+      "correctAnswer": "B",
+      "answerText": "gravity",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-086",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The pressure at the bottom of a tank of water increases if the",
+      "options": {
+        "A": "surface area increases with depth unchanged",
+        "B": "water depth increases",
+        "C": "tank colour changes",
+        "D": "tank becomes wider only"
+      },
+      "correctAnswer": "B",
+      "answerText": "water depth increases",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-087",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A body immersed in a fluid displaces 0.002 m³ of water. Taking water density as 1,000 kg/m³ and g = 10 m/s², upthrust is",
+      "options": {
+        "A": "2,000 N",
+        "B": "2 N",
+        "C": "20 N",
+        "D": "200 N"
+      },
+      "correctAnswer": "C",
+      "answerText": "20 N",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-088",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A gas has volume 400 cm³ at 100 kPa. At 50 kPa and constant temperature, volume is",
+      "options": {
+        "A": "800 cm³",
+        "B": "100 cm³",
+        "C": "200 cm³",
+        "D": "400 cm³"
+      },
+      "correctAnswer": "A",
+      "answerText": "800 cm³",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-089",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A gas at 300 K occupies 500 cm³. At 600 K under constant pressure, its volume is",
+      "options": {
+        "A": "250 cm³",
+        "B": "500 cm³",
+        "C": "750 cm³",
+        "D": "1,000 cm³"
+      },
+      "correctAnswer": "D",
+      "answerText": "1,000 cm³",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-090",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The wave speed in a medium is 12 m/s and frequency is 3 Hz. Wavelength is",
+      "options": {
+        "A": "36 m",
+        "B": "4 m",
+        "C": "9 m",
+        "D": "15 m"
+      },
+      "correctAnswer": "B",
+      "answerText": "4 m",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-091",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A projectile is launched at 20 m/s at 30° above horizontal. Its initial vertical velocity component is approximately",
+      "options": {
+        "A": "17.3 m/s",
+        "B": "10 m/s",
+        "C": "20 m/s",
+        "D": "40 m/s"
+      },
+      "correctAnswer": "B",
+      "answerText": "10 m/s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-092",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A projectile is launched at 20 m/s at 60° above horizontal. Its initial horizontal component is approximately",
+      "options": {
+        "A": "34.6 m/s",
+        "B": "10 m/s",
+        "C": "20 m/s",
+        "D": "17.3 m/s"
+      },
+      "correctAnswer": "B",
+      "answerText": "10 m/s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-093",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "For an ideal projectile, horizontal and vertical motions are",
+      "options": {
+        "A": "both without acceleration",
+        "B": "independent",
+        "C": "identical",
+        "D": "unrelated to time"
+      },
+      "correctAnswer": "B",
+      "answerText": "independent",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-094",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A liquid rises in a narrow glass tube due to",
+      "options": {
+        "A": "capillarity",
+        "B": "nuclear force",
+        "C": "Ohm’s law",
+        "D": "inertia only"
+      },
+      "correctAnswer": "A",
+      "answerText": "capillarity",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-095",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Surface tension is associated with the tendency of a liquid surface to",
+      "options": {
+        "A": "become solid",
+        "B": "stop molecular motion",
+        "C": "expand without limit",
+        "D": "minimise its area"
+      },
+      "correctAnswer": "D",
+      "answerText": "minimise its area",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-096",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Viscosity is a measure of a fluid’s resistance to",
+      "options": {
+        "A": "gravity",
+        "B": "heat capacity",
+        "C": "electric current",
+        "D": "flow"
+      },
+      "correctAnswer": "D",
+      "answerText": "flow",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-097",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "Honey flows more slowly than water mainly because honey has greater",
+      "options": {
+        "A": "wavelength",
+        "B": "viscosity",
+        "C": "frequency",
+        "D": "electrical charge"
+      },
+      "correctAnswer": "B",
+      "answerText": "viscosity",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-098",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The shape of a liquid drop is influenced by",
+      "options": {
+        "A": "surface tension",
+        "B": "Ohm’s law",
+        "C": "projectile range",
+        "D": "specific resistance only"
+      },
+      "correctAnswer": "A",
+      "answerText": "surface tension",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-099",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A wave is reflected from a fixed end of a string with",
+      "options": {
+        "A": "its speed infinite",
+        "B": "its frequency doubled",
+        "C": "no possible change",
+        "D": "a phase reversal"
+      },
+      "correctAnswer": "D",
+      "answerText": "a phase reversal",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-100",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A stationary wave is formed by superposition of waves travelling in opposite directions with the same",
+      "options": {
+        "A": "frequency and similar amplitude",
+        "B": "mass only",
+        "C": "direction",
+        "D": "temperature only"
+      },
+      "correctAnswer": "A",
+      "answerText": "frequency and similar amplitude",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-101",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "In a stationary wave, a point of zero displacement is called a",
+      "options": {
+        "A": "compression only",
+        "B": "crest",
+        "C": "node",
+        "D": "antinode"
+      },
+      "correctAnswer": "C",
+      "answerText": "node",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-102",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A point of maximum vibration in a stationary wave is an",
+      "options": {
+        "A": "equilibrium line only",
+        "B": "node",
+        "C": "antinode",
+        "D": "rarefaction"
+      },
+      "correctAnswer": "C",
+      "answerText": "antinode",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-103",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The SI unit of impulse is",
+      "options": {
+        "A": "kg/m³",
+        "B": "J/s",
+        "C": "N s",
+        "D": "N/m"
+      },
+      "correctAnswer": "C",
+      "answerText": "N s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-104",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A wave carries energy but, in an ideal medium, does not transport",
+      "options": {
+        "A": "energy",
+        "B": "vibration",
+        "C": "momentum in any case",
+        "D": "matter overall from source to receiver"
+      },
+      "correctAnswer": "D",
+      "answerText": "matter overall from source to receiver",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-105",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A fluid is a substance that can",
+      "options": {
+        "A": "have no density",
+        "B": "flow",
+        "C": "never exert pressure",
+        "D": "only keep a fixed shape"
+      },
+      "correctAnswer": "B",
+      "answerText": "flow",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-106",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The pressure exerted by a column of liquid is independent of the",
+      "options": {
+        "A": "shape of the container",
+        "B": "density",
+        "C": "depth",
+        "D": "gravitational field strength"
+      },
+      "correctAnswer": "A",
+      "answerText": "shape of the container",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-107",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The upward buoyant force on a floating object equals its",
+      "options": {
+        "A": "density",
+        "B": "volume",
+        "C": "weight",
+        "D": "surface area"
+      },
+      "correctAnswer": "C",
+      "answerText": "weight",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-108",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The speed of sound is generally greater in solids than in gases because particles in solids are",
+      "options": {
+        "A": "more strongly coupled",
+        "B": "without mass",
+        "C": "motionless",
+        "D": "farther apart"
+      },
+      "correctAnswer": "A",
+      "answerText": "more strongly coupled",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-109",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A wave with frequency 10 Hz completes",
+      "options": {
+        "A": "100 cycles each second",
+        "B": "one cycle in 10 seconds",
+        "C": "10 cycles per minute",
+        "D": "10 cycles each second"
+      },
+      "correctAnswer": "D",
+      "answerText": "10 cycles each second",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-110",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "If the amplitude of a wave increases, its frequency must",
+      "options": {
+        "A": "not necessarily change",
+        "B": "always increase",
+        "C": "become zero",
+        "D": "always decrease"
+      },
+      "correctAnswer": "A",
+      "answerText": "not necessarily change",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-111",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The SI unit of acceleration due to gravity is",
+      "options": {
+        "A": "kg/m³",
+        "B": "m/s²",
+        "C": "N/kg²",
+        "D": "m/s"
+      },
+      "correctAnswer": "B",
+      "answerText": "m/s²",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-112",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "At the top of a projectile’s path, acceleration is still",
+      "options": {
+        "A": "g downward",
+        "B": "zero",
+        "C": "g upward",
+        "D": "horizontal"
+      },
+      "correctAnswer": "A",
+      "answerText": "g downward",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-113",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A wave of frequency 50 Hz has a period of",
+      "options": {
+        "A": "50 s",
+        "B": "0.2 s",
+        "C": "0.02 s",
+        "D": "2 s"
+      },
+      "correctAnswer": "C",
+      "answerText": "0.02 s",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-114",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "When a wave passes from one medium to another, its frequency usually",
+      "options": {
+        "A": "always doubles",
+        "B": "remains unchanged",
+        "C": "equals the new speed",
+        "D": "becomes zero"
+      },
+      "correctAnswer": "B",
+      "answerText": "remains unchanged",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-115",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The quantity that changes during refraction is usually the wave’s",
+      "options": {
+        "A": "energy always to zero",
+        "B": "frequency only",
+        "C": "source frequency",
+        "D": "speed and wavelength"
+      },
+      "correctAnswer": "D",
+      "answerText": "speed and wavelength",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-116",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The law of reflection states that angle of incidence equals angle of",
+      "options": {
+        "A": "reflection",
+        "B": "diffraction",
+        "C": "dispersion",
+        "D": "refraction"
+      },
+      "correctAnswer": "A",
+      "answerText": "reflection",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-117",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A sound wave of high frequency is perceived as",
+      "options": {
+        "A": "greater loudness necessarily",
+        "B": "low pitch",
+        "C": "high pitch",
+        "D": "greater speed always"
+      },
+      "correctAnswer": "C",
+      "answerText": "high pitch",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-118",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "The period of a wave is 0.5 s. Its frequency is",
+      "options": {
+        "A": "1 Hz",
+        "B": "5 Hz",
+        "C": "0.5 Hz",
+        "D": "2 Hz"
+      },
+      "correctAnswer": "D",
+      "answerText": "2 Hz",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-119",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A 10 N force acts over 0.5 m². The pressure is",
+      "options": {
+        "A": "5 Pa",
+        "B": "50 Pa",
+        "C": "20 Pa",
+        "D": "10 Pa"
+      },
+      "correctAnswer": "C",
+      "answerText": "20 Pa",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-120",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "If the density of a liquid doubles at the same depth, liquid pressure due to the liquid column",
+      "options": {
+        "A": "becomes zero",
+        "B": "doubles",
+        "C": "halves",
+        "D": "remains unchanged"
+      },
+      "correctAnswer": "B",
+      "answerText": "doubles",
+      "explanation": ""
+    },
+    {
+      "id": "SS1-PHY-THIRD-121",
+      "subject": "Physics",
+      "class": "SS1",
+      "term": "Third Term",
+      "topic": "Fluids, gas laws, SHM, projectiles and waves",
+      "question": "A wave has speed 340 m/s and wavelength 0.68 m. Its frequency is",
+      "options": {
+        "A": "50 Hz",
+        "B": "500 Hz",
+        "C": "100 Hz",
+        "D": "230 Hz"
+      },
+      "correctAnswer": "C",
+      "answerText": "100 Hz",
+      "explanation": ""
+    }
+  ]
+}
